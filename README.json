@@ -734,7 +734,7 @@
                 "archived": false,
                 "id": 1263133834,
                 "language": "Shell",
-                "last_commit": "2026-08-11T16:53:18Z",
+                "last_commit": "2026-08-20T23:24:36Z",
                 "owner": "officialzeroxyz",
                 "repo": "zero-plugins",
                 "stars": 19
@@ -749,7 +749,7 @@
                 "archived": false,
                 "id": 1263133834,
                 "language": "Shell",
-                "last_commit": "2026-08-11T16:53:18Z",
+                "last_commit": "2026-08-20T23:24:36Z",
                 "owner": "officialzeroxyz",
                 "repo": "zero-plugins",
                 "stars": 19
@@ -767,7 +767,7 @@
                 "last_commit": "2026-08-19T20:57:04Z",
                 "owner": "angular",
                 "repo": "skills",
-                "stars": 619
+                "stars": 621
               }
             },
             {
@@ -782,7 +782,7 @@
                 "last_commit": "2026-08-19T20:57:04Z",
                 "owner": "angular",
                 "repo": "skills",
-                "stars": 619
+                "stars": 621
               }
             },
             {
@@ -1079,7 +1079,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "coreyhaines31/ab-test-setup - Plan and implement A/B tests or experiments for any digital experience",
+              "title": "coreyhaines31/ab-testing - Plan and implement A/B tests or experiments for any digital experience",
               "description": null,
               "children": [],
               "repo_info": {
@@ -1089,7 +1089,7 @@
                 "last_commit": "2026-08-19T18:16:52Z",
                 "owner": "coreyhaines31",
                 "repo": "marketingskills",
-                "stars": 44966
+                "stars": 45107
               }
             },
             {
@@ -1104,7 +1104,7 @@
                 "last_commit": "2026-08-19T18:16:52Z",
                 "owner": "coreyhaines31",
                 "repo": "marketingskills",
-                "stars": 44966
+                "stars": 45107
               }
             },
             {
@@ -1119,12 +1119,12 @@
                 "last_commit": "2026-08-19T18:16:52Z",
                 "owner": "coreyhaines31",
                 "repo": "marketingskills",
-                "stars": 44966
+                "stars": 45107
               }
             },
             {
               "node_type": "item",
-              "title": "coreyhaines31/analytics-tracking - Set up and audit analytics tracking and measurement pipelines",
+              "title": "coreyhaines31/analytics - Set up and audit analytics tracking and measurement pipelines",
               "description": null,
               "children": [],
               "repo_info": {
@@ -1134,7 +1134,7 @@
                 "last_commit": "2026-08-19T18:16:52Z",
                 "owner": "coreyhaines31",
                 "repo": "marketingskills",
-                "stars": 44966
+                "stars": 45107
               }
             },
             {
@@ -1149,7 +1149,7 @@
                 "last_commit": "2026-08-19T18:16:52Z",
                 "owner": "coreyhaines31",
                 "repo": "marketingskills",
-                "stars": 44966
+                "stars": 45107
               }
             },
             {
@@ -1164,12 +1164,12 @@
                 "last_commit": "2026-08-19T18:16:52Z",
                 "owner": "coreyhaines31",
                 "repo": "marketingskills",
-                "stars": 44966
+                "stars": 45107
               }
             },
             {
               "node_type": "item",
-              "title": "coreyhaines31/competitor-alternatives - Build competitor comparison and alternative landing pages for SEO",
+              "title": "coreyhaines31/competitors - Build competitor comparison and alternative landing pages for SEO",
               "description": null,
               "children": [],
               "repo_info": {
@@ -1179,7 +1179,7 @@
                 "last_commit": "2026-08-19T18:16:52Z",
                 "owner": "coreyhaines31",
                 "repo": "marketingskills",
-                "stars": 44966
+                "stars": 45107
               }
             },
             {
@@ -1194,7 +1194,7 @@
                 "last_commit": "2026-08-19T18:16:52Z",
                 "owner": "coreyhaines31",
                 "repo": "marketingskills",
-                "stars": 44966
+                "stars": 45107
               }
             },
             {
@@ -1209,7 +1209,7 @@
                 "last_commit": "2026-08-19T18:16:52Z",
                 "owner": "coreyhaines31",
                 "repo": "marketingskills",
-                "stars": 44966
+                "stars": 45107
               }
             },
             {
@@ -1224,12 +1224,12 @@
                 "last_commit": "2026-08-19T18:16:52Z",
                 "owner": "coreyhaines31",
                 "repo": "marketingskills",
-                "stars": 44966
+                "stars": 45107
               }
             },
             {
               "node_type": "item",
-              "title": "coreyhaines31/email-sequence - Build email sequences, drip campaigns, and lifecycle email flows",
+              "title": "coreyhaines31/emails - Build email sequences, drip campaigns, and lifecycle email flows",
               "description": null,
               "children": [],
               "repo_info": {
@@ -1239,12 +1239,12 @@
                 "last_commit": "2026-08-19T18:16:52Z",
                 "owner": "coreyhaines31",
                 "repo": "marketingskills",
-                "stars": 44966
+                "stars": 45107
               }
             },
             {
               "node_type": "item",
-              "title": "coreyhaines31/form-cro - Optimize lead capture and contact forms to improve conversion",
+              "title": "coreyhaines31/free-tools - Plan and build free tools for lead generation and SEO value",
               "description": null,
               "children": [],
               "repo_info": {
@@ -1254,12 +1254,12 @@
                 "last_commit": "2026-08-19T18:16:52Z",
                 "owner": "coreyhaines31",
                 "repo": "marketingskills",
-                "stars": 44966
+                "stars": 45107
               }
             },
             {
               "node_type": "item",
-              "title": "coreyhaines31/free-tool-strategy - Plan and build free tools for lead generation and SEO value",
+              "title": "coreyhaines31/launch - Plan product launches, feature announcements, and go-to-market strategies",
               "description": null,
               "children": [],
               "repo_info": {
@@ -1269,22 +1269,7 @@
                 "last_commit": "2026-08-19T18:16:52Z",
                 "owner": "coreyhaines31",
                 "repo": "marketingskills",
-                "stars": 44966
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "coreyhaines31/launch-strategy - Plan product launches, feature announcements, and go-to-market strategies",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1135212071,
-                "language": "JavaScript",
-                "last_commit": "2026-08-19T18:16:52Z",
-                "owner": "coreyhaines31",
-                "repo": "marketingskills",
-                "stars": 44966
+                "stars": 45107
               }
             },
             {
@@ -1299,7 +1284,7 @@
                 "last_commit": "2026-08-19T18:16:52Z",
                 "owner": "coreyhaines31",
                 "repo": "marketingskills",
-                "stars": 44966
+                "stars": 45107
               }
             },
             {
@@ -1314,12 +1299,12 @@
                 "last_commit": "2026-08-19T18:16:52Z",
                 "owner": "coreyhaines31",
                 "repo": "marketingskills",
-                "stars": 44966
+                "stars": 45107
               }
             },
             {
               "node_type": "item",
-              "title": "coreyhaines31/onboarding-cro - Optimize post-signup onboarding and user activation to improve time-to-value",
+              "title": "coreyhaines31/onboarding - Optimize post-signup onboarding and user activation to improve time-to-value",
               "description": null,
               "children": [],
               "repo_info": {
@@ -1329,12 +1314,12 @@
                 "last_commit": "2026-08-19T18:16:52Z",
                 "owner": "coreyhaines31",
                 "repo": "marketingskills",
-                "stars": 44966
+                "stars": 45107
               }
             },
             {
               "node_type": "item",
-              "title": "coreyhaines31/page-cro - Improve conversion rates on any marketing page including homepages and landing pages",
+              "title": "coreyhaines31/cro - Improve conversion rates on any marketing page or form, including homepages, landing pages, and contact forms",
               "description": null,
               "children": [],
               "repo_info": {
@@ -1344,12 +1329,12 @@
                 "last_commit": "2026-08-19T18:16:52Z",
                 "owner": "coreyhaines31",
                 "repo": "marketingskills",
-                "stars": 44966
+                "stars": 45107
               }
             },
             {
               "node_type": "item",
-              "title": "coreyhaines31/paid-ads - Create and optimize paid campaigns on Google, Meta, LinkedIn, and more",
+              "title": "coreyhaines31/ads - Create and optimize paid campaigns on Google, Meta, LinkedIn, and more",
               "description": null,
               "children": [],
               "repo_info": {
@@ -1359,12 +1344,12 @@
                 "last_commit": "2026-08-19T18:16:52Z",
                 "owner": "coreyhaines31",
                 "repo": "marketingskills",
-                "stars": 44966
+                "stars": 45107
               }
             },
             {
               "node_type": "item",
-              "title": "coreyhaines31/paywall-upgrade-cro - Design and optimize upgrade screens, paywalls, and upsell modals",
+              "title": "coreyhaines31/paywalls - Design and optimize upgrade screens, paywalls, and upsell modals",
               "description": null,
               "children": [],
               "repo_info": {
@@ -1374,12 +1359,12 @@
                 "last_commit": "2026-08-19T18:16:52Z",
                 "owner": "coreyhaines31",
                 "repo": "marketingskills",
-                "stars": 44966
+                "stars": 45107
               }
             },
             {
               "node_type": "item",
-              "title": "coreyhaines31/popup-cro - Create and optimize popups, modals, and slide-ins for conversions",
+              "title": "coreyhaines31/popups - Create and optimize popups, modals, and slide-ins for conversions",
               "description": null,
               "children": [],
               "repo_info": {
@@ -1389,12 +1374,12 @@
                 "last_commit": "2026-08-19T18:16:52Z",
                 "owner": "coreyhaines31",
                 "repo": "marketingskills",
-                "stars": 44966
+                "stars": 45107
               }
             },
             {
               "node_type": "item",
-              "title": "coreyhaines31/pricing-strategy - Define pricing, packaging, and monetization strategy for SaaS products",
+              "title": "coreyhaines31/pricing - Define pricing, packaging, and monetization strategy for SaaS products",
               "description": null,
               "children": [],
               "repo_info": {
@@ -1404,12 +1389,12 @@
                 "last_commit": "2026-08-19T18:16:52Z",
                 "owner": "coreyhaines31",
                 "repo": "marketingskills",
-                "stars": 44966
+                "stars": 45107
               }
             },
             {
               "node_type": "item",
-              "title": "coreyhaines31/product-marketing-context - Create and maintain a product marketing context document for consistent messaging",
+              "title": "coreyhaines31/product-marketing - Create and maintain a product marketing context document for consistent messaging",
               "description": null,
               "children": [],
               "repo_info": {
@@ -1419,7 +1404,7 @@
                 "last_commit": "2026-08-19T18:16:52Z",
                 "owner": "coreyhaines31",
                 "repo": "marketingskills",
-                "stars": 44966
+                "stars": 45107
               }
             },
             {
@@ -1434,12 +1419,12 @@
                 "last_commit": "2026-08-19T18:16:52Z",
                 "owner": "coreyhaines31",
                 "repo": "marketingskills",
-                "stars": 44966
+                "stars": 45107
               }
             },
             {
               "node_type": "item",
-              "title": "coreyhaines31/referral-program - Design and optimize referral, affiliate, and word-of-mouth programs",
+              "title": "coreyhaines31/referrals - Design and optimize referral, affiliate, and word-of-mouth programs",
               "description": null,
               "children": [],
               "repo_info": {
@@ -1449,7 +1434,7 @@
                 "last_commit": "2026-08-19T18:16:52Z",
                 "owner": "coreyhaines31",
                 "repo": "marketingskills",
-                "stars": 44966
+                "stars": 45107
               }
             },
             {
@@ -1464,7 +1449,7 @@
                 "last_commit": "2026-08-19T18:16:52Z",
                 "owner": "coreyhaines31",
                 "repo": "marketingskills",
-                "stars": 44966
+                "stars": 45107
               }
             },
             {
@@ -1479,12 +1464,12 @@
                 "last_commit": "2026-08-19T18:16:52Z",
                 "owner": "coreyhaines31",
                 "repo": "marketingskills",
-                "stars": 44966
+                "stars": 45107
               }
             },
             {
               "node_type": "item",
-              "title": "coreyhaines31/schema-markup - Add and optimize schema markup and structured data for better SEO",
+              "title": "coreyhaines31/schema - Add and optimize schema markup and structured data for better SEO",
               "description": null,
               "children": [],
               "repo_info": {
@@ -1494,7 +1479,7 @@
                 "last_commit": "2026-08-19T18:16:52Z",
                 "owner": "coreyhaines31",
                 "repo": "marketingskills",
-                "stars": 44966
+                "stars": 45107
               }
             },
             {
@@ -1509,12 +1494,12 @@
                 "last_commit": "2026-08-19T18:16:52Z",
                 "owner": "coreyhaines31",
                 "repo": "marketingskills",
-                "stars": 44966
+                "stars": 45107
               }
             },
             {
               "node_type": "item",
-              "title": "coreyhaines31/signup-flow-cro - Optimize signup, registration, and trial activation flows for higher conversion",
+              "title": "coreyhaines31/signup - Optimize signup, registration, and trial activation flows for higher conversion",
               "description": null,
               "children": [],
               "repo_info": {
@@ -1524,7 +1509,7 @@
                 "last_commit": "2026-08-19T18:16:52Z",
                 "owner": "coreyhaines31",
                 "repo": "marketingskills",
-                "stars": 44966
+                "stars": 45107
               }
             },
             {
@@ -1539,12 +1524,12 @@
                 "last_commit": "2026-08-19T18:16:52Z",
                 "owner": "coreyhaines31",
                 "repo": "marketingskills",
-                "stars": 44966
+                "stars": 45107
               }
             },
             {
               "node_type": "item",
-              "title": "coreyhaines31/social-content - Create and schedule social media content for LinkedIn, Twitter/X, and Instagram",
+              "title": "coreyhaines31/social - Create and schedule social media content for LinkedIn, Twitter/X, and Instagram",
               "description": null,
               "children": [],
               "repo_info": {
@@ -1554,7 +1539,7 @@
                 "last_commit": "2026-08-19T18:16:52Z",
                 "owner": "coreyhaines31",
                 "repo": "marketingskills",
-                "stars": 44966
+                "stars": 45107
               }
             },
             {
@@ -1569,7 +1554,7 @@
                 "last_commit": "2026-03-26T08:44:06Z",
                 "owner": "realkimbarrett",
                 "repo": "advertising-skills",
-                "stars": 731
+                "stars": 732
               }
             },
             {
@@ -1584,7 +1569,7 @@
                 "last_commit": "2026-03-26T08:44:06Z",
                 "owner": "realkimbarrett",
                 "repo": "advertising-skills",
-                "stars": 731
+                "stars": 732
               }
             },
             {
@@ -1599,7 +1584,7 @@
                 "last_commit": "2026-03-26T08:44:06Z",
                 "owner": "realkimbarrett",
                 "repo": "advertising-skills",
-                "stars": 731
+                "stars": 732
               }
             },
             {
@@ -1614,7 +1599,7 @@
                 "last_commit": "2026-03-26T08:44:06Z",
                 "owner": "realkimbarrett",
                 "repo": "advertising-skills",
-                "stars": 731
+                "stars": 732
               }
             },
             {
@@ -1629,7 +1614,7 @@
                 "last_commit": "2026-03-26T08:44:06Z",
                 "owner": "realkimbarrett",
                 "repo": "advertising-skills",
-                "stars": 731
+                "stars": 732
               }
             },
             {
@@ -1644,7 +1629,7 @@
                 "last_commit": "2026-03-26T08:44:06Z",
                 "owner": "realkimbarrett",
                 "repo": "advertising-skills",
-                "stars": 731
+                "stars": 732
               }
             },
             {
@@ -1659,7 +1644,7 @@
                 "last_commit": "2026-03-26T08:44:06Z",
                 "owner": "realkimbarrett",
                 "repo": "advertising-skills",
-                "stars": 731
+                "stars": 732
               }
             },
             {
@@ -1674,7 +1659,7 @@
                 "last_commit": "2026-03-26T08:44:06Z",
                 "owner": "realkimbarrett",
                 "repo": "advertising-skills",
-                "stars": 731
+                "stars": 732
               }
             },
             {
@@ -1689,7 +1674,7 @@
                 "last_commit": "2026-03-26T08:44:06Z",
                 "owner": "realkimbarrett",
                 "repo": "advertising-skills",
-                "stars": 731
+                "stars": 732
               }
             },
             {
@@ -1704,7 +1689,7 @@
                 "last_commit": "2026-03-26T08:44:06Z",
                 "owner": "realkimbarrett",
                 "repo": "advertising-skills",
-                "stars": 731
+                "stars": 732
               }
             },
             {
@@ -1719,7 +1704,7 @@
                 "last_commit": "2026-03-26T08:44:06Z",
                 "owner": "realkimbarrett",
                 "repo": "advertising-skills",
-                "stars": 731
+                "stars": 732
               }
             },
             {
@@ -1734,7 +1719,7 @@
                 "last_commit": "2026-03-26T08:44:06Z",
                 "owner": "realkimbarrett",
                 "repo": "advertising-skills",
-                "stars": 731
+                "stars": 732
               }
             },
             {
@@ -1749,7 +1734,7 @@
                 "last_commit": "2026-08-13T17:15:43Z",
                 "owner": "deanpeters",
                 "repo": "Product-Manager-Skills",
-                "stars": 6554
+                "stars": 6570
               }
             },
             {
@@ -1764,7 +1749,7 @@
                 "last_commit": "2026-08-13T17:15:43Z",
                 "owner": "deanpeters",
                 "repo": "Product-Manager-Skills",
-                "stars": 6554
+                "stars": 6570
               }
             },
             {
@@ -1779,7 +1764,7 @@
                 "last_commit": "2026-08-13T17:15:43Z",
                 "owner": "deanpeters",
                 "repo": "Product-Manager-Skills",
-                "stars": 6554
+                "stars": 6570
               }
             },
             {
@@ -1794,7 +1779,7 @@
                 "last_commit": "2026-08-13T17:15:43Z",
                 "owner": "deanpeters",
                 "repo": "Product-Manager-Skills",
-                "stars": 6554
+                "stars": 6570
               }
             },
             {
@@ -1809,7 +1794,7 @@
                 "last_commit": "2026-08-13T17:15:43Z",
                 "owner": "deanpeters",
                 "repo": "Product-Manager-Skills",
-                "stars": 6554
+                "stars": 6570
               }
             },
             {
@@ -1824,7 +1809,7 @@
                 "last_commit": "2026-08-13T17:15:43Z",
                 "owner": "deanpeters",
                 "repo": "Product-Manager-Skills",
-                "stars": 6554
+                "stars": 6570
               }
             },
             {
@@ -1839,7 +1824,7 @@
                 "last_commit": "2026-08-13T17:15:43Z",
                 "owner": "deanpeters",
                 "repo": "Product-Manager-Skills",
-                "stars": 6554
+                "stars": 6570
               }
             },
             {
@@ -1854,7 +1839,7 @@
                 "last_commit": "2026-08-13T17:15:43Z",
                 "owner": "deanpeters",
                 "repo": "Product-Manager-Skills",
-                "stars": 6554
+                "stars": 6570
               }
             },
             {
@@ -1869,7 +1854,7 @@
                 "last_commit": "2026-08-13T17:15:43Z",
                 "owner": "deanpeters",
                 "repo": "Product-Manager-Skills",
-                "stars": 6554
+                "stars": 6570
               }
             },
             {
@@ -1884,7 +1869,7 @@
                 "last_commit": "2026-08-13T17:15:43Z",
                 "owner": "deanpeters",
                 "repo": "Product-Manager-Skills",
-                "stars": 6554
+                "stars": 6570
               }
             },
             {
@@ -1899,7 +1884,7 @@
                 "last_commit": "2026-08-13T17:15:43Z",
                 "owner": "deanpeters",
                 "repo": "Product-Manager-Skills",
-                "stars": 6554
+                "stars": 6570
               }
             },
             {
@@ -1914,7 +1899,7 @@
                 "last_commit": "2026-08-13T17:15:43Z",
                 "owner": "deanpeters",
                 "repo": "Product-Manager-Skills",
-                "stars": 6554
+                "stars": 6570
               }
             },
             {
@@ -1929,7 +1914,7 @@
                 "last_commit": "2026-08-13T17:15:43Z",
                 "owner": "deanpeters",
                 "repo": "Product-Manager-Skills",
-                "stars": 6554
+                "stars": 6570
               }
             },
             {
@@ -1944,7 +1929,7 @@
                 "last_commit": "2026-08-13T17:15:43Z",
                 "owner": "deanpeters",
                 "repo": "Product-Manager-Skills",
-                "stars": 6554
+                "stars": 6570
               }
             },
             {
@@ -1959,7 +1944,7 @@
                 "last_commit": "2026-08-13T17:15:43Z",
                 "owner": "deanpeters",
                 "repo": "Product-Manager-Skills",
-                "stars": 6554
+                "stars": 6570
               }
             },
             {
@@ -1974,7 +1959,7 @@
                 "last_commit": "2026-08-13T17:15:43Z",
                 "owner": "deanpeters",
                 "repo": "Product-Manager-Skills",
-                "stars": 6554
+                "stars": 6570
               }
             },
             {
@@ -1989,7 +1974,7 @@
                 "last_commit": "2026-08-13T17:15:43Z",
                 "owner": "deanpeters",
                 "repo": "Product-Manager-Skills",
-                "stars": 6554
+                "stars": 6570
               }
             },
             {
@@ -2004,7 +1989,7 @@
                 "last_commit": "2026-08-13T17:15:43Z",
                 "owner": "deanpeters",
                 "repo": "Product-Manager-Skills",
-                "stars": 6554
+                "stars": 6570
               }
             },
             {
@@ -2019,7 +2004,7 @@
                 "last_commit": "2026-08-13T17:15:43Z",
                 "owner": "deanpeters",
                 "repo": "Product-Manager-Skills",
-                "stars": 6554
+                "stars": 6570
               }
             },
             {
@@ -2034,7 +2019,7 @@
                 "last_commit": "2026-08-13T17:15:43Z",
                 "owner": "deanpeters",
                 "repo": "Product-Manager-Skills",
-                "stars": 6554
+                "stars": 6570
               }
             },
             {
@@ -2049,7 +2034,7 @@
                 "last_commit": "2026-08-13T17:15:43Z",
                 "owner": "deanpeters",
                 "repo": "Product-Manager-Skills",
-                "stars": 6554
+                "stars": 6570
               }
             },
             {
@@ -2064,7 +2049,7 @@
                 "last_commit": "2026-08-13T17:15:43Z",
                 "owner": "deanpeters",
                 "repo": "Product-Manager-Skills",
-                "stars": 6554
+                "stars": 6570
               }
             },
             {
@@ -2079,7 +2064,7 @@
                 "last_commit": "2026-08-13T17:15:43Z",
                 "owner": "deanpeters",
                 "repo": "Product-Manager-Skills",
-                "stars": 6554
+                "stars": 6570
               }
             },
             {
@@ -2094,7 +2079,7 @@
                 "last_commit": "2026-08-13T17:15:43Z",
                 "owner": "deanpeters",
                 "repo": "Product-Manager-Skills",
-                "stars": 6554
+                "stars": 6570
               }
             },
             {
@@ -2109,7 +2094,7 @@
                 "last_commit": "2026-08-13T17:15:43Z",
                 "owner": "deanpeters",
                 "repo": "Product-Manager-Skills",
-                "stars": 6554
+                "stars": 6570
               }
             },
             {
@@ -2124,7 +2109,7 @@
                 "last_commit": "2026-08-13T17:15:43Z",
                 "owner": "deanpeters",
                 "repo": "Product-Manager-Skills",
-                "stars": 6554
+                "stars": 6570
               }
             },
             {
@@ -2139,7 +2124,7 @@
                 "last_commit": "2026-08-13T17:15:43Z",
                 "owner": "deanpeters",
                 "repo": "Product-Manager-Skills",
-                "stars": 6554
+                "stars": 6570
               }
             },
             {
@@ -2154,7 +2139,7 @@
                 "last_commit": "2026-08-13T17:15:43Z",
                 "owner": "deanpeters",
                 "repo": "Product-Manager-Skills",
-                "stars": 6554
+                "stars": 6570
               }
             },
             {
@@ -2169,7 +2154,7 @@
                 "last_commit": "2026-08-13T17:15:43Z",
                 "owner": "deanpeters",
                 "repo": "Product-Manager-Skills",
-                "stars": 6554
+                "stars": 6570
               }
             },
             {
@@ -2184,7 +2169,7 @@
                 "last_commit": "2026-08-13T17:15:43Z",
                 "owner": "deanpeters",
                 "repo": "Product-Manager-Skills",
-                "stars": 6554
+                "stars": 6570
               }
             },
             {
@@ -2199,7 +2184,7 @@
                 "last_commit": "2026-08-13T17:15:43Z",
                 "owner": "deanpeters",
                 "repo": "Product-Manager-Skills",
-                "stars": 6554
+                "stars": 6570
               }
             },
             {
@@ -2214,7 +2199,7 @@
                 "last_commit": "2026-08-13T17:15:43Z",
                 "owner": "deanpeters",
                 "repo": "Product-Manager-Skills",
-                "stars": 6554
+                "stars": 6570
               }
             },
             {
@@ -2229,7 +2214,7 @@
                 "last_commit": "2026-08-13T17:15:43Z",
                 "owner": "deanpeters",
                 "repo": "Product-Manager-Skills",
-                "stars": 6554
+                "stars": 6570
               }
             },
             {
@@ -2244,7 +2229,7 @@
                 "last_commit": "2026-08-13T17:15:43Z",
                 "owner": "deanpeters",
                 "repo": "Product-Manager-Skills",
-                "stars": 6554
+                "stars": 6570
               }
             },
             {
@@ -2259,7 +2244,7 @@
                 "last_commit": "2026-08-13T17:15:43Z",
                 "owner": "deanpeters",
                 "repo": "Product-Manager-Skills",
-                "stars": 6554
+                "stars": 6570
               }
             },
             {
@@ -2274,7 +2259,7 @@
                 "last_commit": "2026-08-13T17:15:43Z",
                 "owner": "deanpeters",
                 "repo": "Product-Manager-Skills",
-                "stars": 6554
+                "stars": 6570
               }
             },
             {
@@ -2289,7 +2274,7 @@
                 "last_commit": "2026-08-13T17:15:43Z",
                 "owner": "deanpeters",
                 "repo": "Product-Manager-Skills",
-                "stars": 6554
+                "stars": 6570
               }
             },
             {
@@ -2304,7 +2289,7 @@
                 "last_commit": "2026-08-13T17:15:43Z",
                 "owner": "deanpeters",
                 "repo": "Product-Manager-Skills",
-                "stars": 6554
+                "stars": 6570
               }
             },
             {
@@ -2319,7 +2304,7 @@
                 "last_commit": "2026-08-13T17:15:43Z",
                 "owner": "deanpeters",
                 "repo": "Product-Manager-Skills",
-                "stars": 6554
+                "stars": 6570
               }
             },
             {
@@ -2334,7 +2319,7 @@
                 "last_commit": "2026-08-13T17:15:43Z",
                 "owner": "deanpeters",
                 "repo": "Product-Manager-Skills",
-                "stars": 6554
+                "stars": 6570
               }
             },
             {
@@ -2349,7 +2334,7 @@
                 "last_commit": "2026-08-13T17:15:43Z",
                 "owner": "deanpeters",
                 "repo": "Product-Manager-Skills",
-                "stars": 6554
+                "stars": 6570
               }
             },
             {
@@ -2364,7 +2349,7 @@
                 "last_commit": "2026-08-13T17:15:43Z",
                 "owner": "deanpeters",
                 "repo": "Product-Manager-Skills",
-                "stars": 6554
+                "stars": 6570
               }
             },
             {
@@ -2379,7 +2364,7 @@
                 "last_commit": "2026-08-13T17:15:43Z",
                 "owner": "deanpeters",
                 "repo": "Product-Manager-Skills",
-                "stars": 6554
+                "stars": 6570
               }
             },
             {
@@ -2394,7 +2379,7 @@
                 "last_commit": "2026-08-13T17:15:43Z",
                 "owner": "deanpeters",
                 "repo": "Product-Manager-Skills",
-                "stars": 6554
+                "stars": 6570
               }
             },
             {
@@ -2409,7 +2394,7 @@
                 "last_commit": "2026-08-13T17:15:43Z",
                 "owner": "deanpeters",
                 "repo": "Product-Manager-Skills",
-                "stars": 6554
+                "stars": 6570
               }
             },
             {
@@ -2424,7 +2409,7 @@
                 "last_commit": "2026-08-13T17:15:43Z",
                 "owner": "deanpeters",
                 "repo": "Product-Manager-Skills",
-                "stars": 6554
+                "stars": 6570
               }
             },
             {
@@ -2439,7 +2424,7 @@
                 "last_commit": "2026-07-03T11:34:49Z",
                 "owner": "phuryn",
                 "repo": "pm-skills",
-                "stars": 25444
+                "stars": 25480
               }
             },
             {
@@ -2454,7 +2439,7 @@
                 "last_commit": "2026-07-03T11:34:49Z",
                 "owner": "phuryn",
                 "repo": "pm-skills",
-                "stars": 25444
+                "stars": 25480
               }
             },
             {
@@ -2469,7 +2454,7 @@
                 "last_commit": "2026-07-03T11:34:49Z",
                 "owner": "phuryn",
                 "repo": "pm-skills",
-                "stars": 25444
+                "stars": 25480
               }
             },
             {
@@ -2484,7 +2469,7 @@
                 "last_commit": "2026-07-03T11:34:49Z",
                 "owner": "phuryn",
                 "repo": "pm-skills",
-                "stars": 25444
+                "stars": 25480
               }
             },
             {
@@ -2499,7 +2484,7 @@
                 "last_commit": "2026-07-03T11:34:49Z",
                 "owner": "phuryn",
                 "repo": "pm-skills",
-                "stars": 25444
+                "stars": 25480
               }
             },
             {
@@ -2514,7 +2499,7 @@
                 "last_commit": "2026-07-03T11:34:49Z",
                 "owner": "phuryn",
                 "repo": "pm-skills",
-                "stars": 25444
+                "stars": 25480
               }
             },
             {
@@ -2529,7 +2514,7 @@
                 "last_commit": "2026-07-03T11:34:49Z",
                 "owner": "phuryn",
                 "repo": "pm-skills",
-                "stars": 25444
+                "stars": 25480
               }
             },
             {
@@ -2544,7 +2529,7 @@
                 "last_commit": "2026-07-03T11:34:49Z",
                 "owner": "phuryn",
                 "repo": "pm-skills",
-                "stars": 25444
+                "stars": 25480
               }
             },
             {
@@ -2559,7 +2544,7 @@
                 "last_commit": "2026-07-03T11:34:49Z",
                 "owner": "phuryn",
                 "repo": "pm-skills",
-                "stars": 25444
+                "stars": 25480
               }
             },
             {
@@ -2574,7 +2559,7 @@
                 "last_commit": "2026-07-03T11:34:49Z",
                 "owner": "phuryn",
                 "repo": "pm-skills",
-                "stars": 25444
+                "stars": 25480
               }
             },
             {
@@ -2589,7 +2574,7 @@
                 "last_commit": "2026-07-03T11:34:49Z",
                 "owner": "phuryn",
                 "repo": "pm-skills",
-                "stars": 25444
+                "stars": 25480
               }
             },
             {
@@ -2604,7 +2589,7 @@
                 "last_commit": "2026-07-03T11:34:49Z",
                 "owner": "phuryn",
                 "repo": "pm-skills",
-                "stars": 25444
+                "stars": 25480
               }
             },
             {
@@ -2619,7 +2604,7 @@
                 "last_commit": "2026-07-03T11:34:49Z",
                 "owner": "phuryn",
                 "repo": "pm-skills",
-                "stars": 25444
+                "stars": 25480
               }
             },
             {
@@ -2634,7 +2619,7 @@
                 "last_commit": "2026-07-03T11:34:49Z",
                 "owner": "phuryn",
                 "repo": "pm-skills",
-                "stars": 25444
+                "stars": 25480
               }
             },
             {
@@ -2649,7 +2634,7 @@
                 "last_commit": "2026-07-03T11:34:49Z",
                 "owner": "phuryn",
                 "repo": "pm-skills",
-                "stars": 25444
+                "stars": 25480
               }
             },
             {
@@ -2664,7 +2649,7 @@
                 "last_commit": "2026-07-03T11:34:49Z",
                 "owner": "phuryn",
                 "repo": "pm-skills",
-                "stars": 25444
+                "stars": 25480
               }
             },
             {
@@ -2679,7 +2664,7 @@
                 "last_commit": "2026-07-03T11:34:49Z",
                 "owner": "phuryn",
                 "repo": "pm-skills",
-                "stars": 25444
+                "stars": 25480
               }
             },
             {
@@ -2694,7 +2679,7 @@
                 "last_commit": "2026-07-03T11:34:49Z",
                 "owner": "phuryn",
                 "repo": "pm-skills",
-                "stars": 25444
+                "stars": 25480
               }
             },
             {
@@ -2709,7 +2694,7 @@
                 "last_commit": "2026-07-03T11:34:49Z",
                 "owner": "phuryn",
                 "repo": "pm-skills",
-                "stars": 25444
+                "stars": 25480
               }
             },
             {
@@ -2724,7 +2709,7 @@
                 "last_commit": "2026-07-03T11:34:49Z",
                 "owner": "phuryn",
                 "repo": "pm-skills",
-                "stars": 25444
+                "stars": 25480
               }
             },
             {
@@ -2739,7 +2724,7 @@
                 "last_commit": "2026-07-03T11:34:49Z",
                 "owner": "phuryn",
                 "repo": "pm-skills",
-                "stars": 25444
+                "stars": 25480
               }
             },
             {
@@ -2754,7 +2739,7 @@
                 "last_commit": "2026-07-03T11:34:49Z",
                 "owner": "phuryn",
                 "repo": "pm-skills",
-                "stars": 25444
+                "stars": 25480
               }
             },
             {
@@ -2769,7 +2754,7 @@
                 "last_commit": "2026-07-03T11:34:49Z",
                 "owner": "phuryn",
                 "repo": "pm-skills",
-                "stars": 25444
+                "stars": 25480
               }
             },
             {
@@ -2784,7 +2769,7 @@
                 "last_commit": "2026-07-03T11:34:49Z",
                 "owner": "phuryn",
                 "repo": "pm-skills",
-                "stars": 25444
+                "stars": 25480
               }
             },
             {
@@ -2799,7 +2784,7 @@
                 "last_commit": "2026-07-03T11:34:49Z",
                 "owner": "phuryn",
                 "repo": "pm-skills",
-                "stars": 25444
+                "stars": 25480
               }
             },
             {
@@ -2814,7 +2799,7 @@
                 "last_commit": "2026-07-03T11:34:49Z",
                 "owner": "phuryn",
                 "repo": "pm-skills",
-                "stars": 25444
+                "stars": 25480
               }
             },
             {
@@ -2829,7 +2814,7 @@
                 "last_commit": "2026-07-03T11:34:49Z",
                 "owner": "phuryn",
                 "repo": "pm-skills",
-                "stars": 25444
+                "stars": 25480
               }
             },
             {
@@ -2844,7 +2829,7 @@
                 "last_commit": "2026-07-03T11:34:49Z",
                 "owner": "phuryn",
                 "repo": "pm-skills",
-                "stars": 25444
+                "stars": 25480
               }
             },
             {
@@ -2859,7 +2844,7 @@
                 "last_commit": "2026-07-03T11:34:49Z",
                 "owner": "phuryn",
                 "repo": "pm-skills",
-                "stars": 25444
+                "stars": 25480
               }
             },
             {
@@ -2874,7 +2859,7 @@
                 "last_commit": "2026-07-03T11:34:49Z",
                 "owner": "phuryn",
                 "repo": "pm-skills",
-                "stars": 25444
+                "stars": 25480
               }
             },
             {
@@ -2889,7 +2874,7 @@
                 "last_commit": "2026-07-03T11:34:49Z",
                 "owner": "phuryn",
                 "repo": "pm-skills",
-                "stars": 25444
+                "stars": 25480
               }
             },
             {
@@ -2904,7 +2889,7 @@
                 "last_commit": "2026-07-03T11:34:49Z",
                 "owner": "phuryn",
                 "repo": "pm-skills",
-                "stars": 25444
+                "stars": 25480
               }
             },
             {
@@ -2919,7 +2904,7 @@
                 "last_commit": "2026-07-03T11:34:49Z",
                 "owner": "phuryn",
                 "repo": "pm-skills",
-                "stars": 25444
+                "stars": 25480
               }
             },
             {
@@ -2934,7 +2919,7 @@
                 "last_commit": "2026-07-03T11:34:49Z",
                 "owner": "phuryn",
                 "repo": "pm-skills",
-                "stars": 25444
+                "stars": 25480
               }
             },
             {
@@ -2949,7 +2934,7 @@
                 "last_commit": "2026-07-03T11:34:49Z",
                 "owner": "phuryn",
                 "repo": "pm-skills",
-                "stars": 25444
+                "stars": 25480
               }
             },
             {
@@ -2964,7 +2949,7 @@
                 "last_commit": "2026-07-03T11:34:49Z",
                 "owner": "phuryn",
                 "repo": "pm-skills",
-                "stars": 25444
+                "stars": 25480
               }
             },
             {
@@ -2979,7 +2964,7 @@
                 "last_commit": "2026-07-03T11:34:49Z",
                 "owner": "phuryn",
                 "repo": "pm-skills",
-                "stars": 25444
+                "stars": 25480
               }
             },
             {
@@ -2994,7 +2979,7 @@
                 "last_commit": "2026-07-03T11:34:49Z",
                 "owner": "phuryn",
                 "repo": "pm-skills",
-                "stars": 25444
+                "stars": 25480
               }
             },
             {
@@ -3009,7 +2994,7 @@
                 "last_commit": "2026-07-03T11:34:49Z",
                 "owner": "phuryn",
                 "repo": "pm-skills",
-                "stars": 25444
+                "stars": 25480
               }
             },
             {
@@ -3024,7 +3009,7 @@
                 "last_commit": "2026-07-03T11:34:49Z",
                 "owner": "phuryn",
                 "repo": "pm-skills",
-                "stars": 25444
+                "stars": 25480
               }
             },
             {
@@ -3039,7 +3024,7 @@
                 "last_commit": "2026-07-03T11:34:49Z",
                 "owner": "phuryn",
                 "repo": "pm-skills",
-                "stars": 25444
+                "stars": 25480
               }
             },
             {
@@ -3054,7 +3039,7 @@
                 "last_commit": "2026-07-03T11:34:49Z",
                 "owner": "phuryn",
                 "repo": "pm-skills",
-                "stars": 25444
+                "stars": 25480
               }
             },
             {
@@ -3069,7 +3054,7 @@
                 "last_commit": "2026-07-03T11:34:49Z",
                 "owner": "phuryn",
                 "repo": "pm-skills",
-                "stars": 25444
+                "stars": 25480
               }
             },
             {
@@ -3084,7 +3069,7 @@
                 "last_commit": "2026-07-03T11:34:49Z",
                 "owner": "phuryn",
                 "repo": "pm-skills",
-                "stars": 25444
+                "stars": 25480
               }
             },
             {
@@ -3099,7 +3084,7 @@
                 "last_commit": "2026-07-03T11:34:49Z",
                 "owner": "phuryn",
                 "repo": "pm-skills",
-                "stars": 25444
+                "stars": 25480
               }
             },
             {
@@ -3114,7 +3099,7 @@
                 "last_commit": "2026-07-03T11:34:49Z",
                 "owner": "phuryn",
                 "repo": "pm-skills",
-                "stars": 25444
+                "stars": 25480
               }
             },
             {
@@ -3129,7 +3114,7 @@
                 "last_commit": "2026-07-03T11:34:49Z",
                 "owner": "phuryn",
                 "repo": "pm-skills",
-                "stars": 25444
+                "stars": 25480
               }
             },
             {
@@ -3144,7 +3129,7 @@
                 "last_commit": "2026-07-03T11:34:49Z",
                 "owner": "phuryn",
                 "repo": "pm-skills",
-                "stars": 25444
+                "stars": 25480
               }
             },
             {
@@ -3159,7 +3144,7 @@
                 "last_commit": "2026-07-03T11:34:49Z",
                 "owner": "phuryn",
                 "repo": "pm-skills",
-                "stars": 25444
+                "stars": 25480
               }
             },
             {
@@ -3174,7 +3159,7 @@
                 "last_commit": "2026-07-03T11:34:49Z",
                 "owner": "phuryn",
                 "repo": "pm-skills",
-                "stars": 25444
+                "stars": 25480
               }
             },
             {
@@ -3189,7 +3174,7 @@
                 "last_commit": "2026-07-03T11:34:49Z",
                 "owner": "phuryn",
                 "repo": "pm-skills",
-                "stars": 25444
+                "stars": 25480
               }
             },
             {
@@ -3204,7 +3189,7 @@
                 "last_commit": "2026-07-03T11:34:49Z",
                 "owner": "phuryn",
                 "repo": "pm-skills",
-                "stars": 25444
+                "stars": 25480
               }
             },
             {
@@ -3219,7 +3204,7 @@
                 "last_commit": "2026-07-03T11:34:49Z",
                 "owner": "phuryn",
                 "repo": "pm-skills",
-                "stars": 25444
+                "stars": 25480
               }
             },
             {
@@ -3234,7 +3219,7 @@
                 "last_commit": "2026-07-03T11:34:49Z",
                 "owner": "phuryn",
                 "repo": "pm-skills",
-                "stars": 25444
+                "stars": 25480
               }
             },
             {
@@ -3249,7 +3234,7 @@
                 "last_commit": "2026-07-03T11:34:49Z",
                 "owner": "phuryn",
                 "repo": "pm-skills",
-                "stars": 25444
+                "stars": 25480
               }
             },
             {
@@ -3264,7 +3249,7 @@
                 "last_commit": "2026-07-03T11:34:49Z",
                 "owner": "phuryn",
                 "repo": "pm-skills",
-                "stars": 25444
+                "stars": 25480
               }
             },
             {
@@ -3279,7 +3264,7 @@
                 "last_commit": "2026-07-03T11:34:49Z",
                 "owner": "phuryn",
                 "repo": "pm-skills",
-                "stars": 25444
+                "stars": 25480
               }
             },
             {
@@ -3294,7 +3279,7 @@
                 "last_commit": "2026-07-03T11:34:49Z",
                 "owner": "phuryn",
                 "repo": "pm-skills",
-                "stars": 25444
+                "stars": 25480
               }
             },
             {
@@ -3309,7 +3294,7 @@
                 "last_commit": "2026-07-03T11:34:49Z",
                 "owner": "phuryn",
                 "repo": "pm-skills",
-                "stars": 25444
+                "stars": 25480
               }
             },
             {
@@ -3324,7 +3309,7 @@
                 "last_commit": "2026-07-03T11:34:49Z",
                 "owner": "phuryn",
                 "repo": "pm-skills",
-                "stars": 25444
+                "stars": 25480
               }
             },
             {
@@ -3339,7 +3324,7 @@
                 "last_commit": "2026-07-03T11:34:49Z",
                 "owner": "phuryn",
                 "repo": "pm-skills",
-                "stars": 25444
+                "stars": 25480
               }
             },
             {
@@ -3354,7 +3339,7 @@
                 "last_commit": "2026-07-03T11:34:49Z",
                 "owner": "phuryn",
                 "repo": "pm-skills",
-                "stars": 25444
+                "stars": 25480
               }
             },
             {
@@ -3369,7 +3354,7 @@
                 "last_commit": "2026-07-03T11:34:49Z",
                 "owner": "phuryn",
                 "repo": "pm-skills",
-                "stars": 25444
+                "stars": 25480
               }
             },
             {
@@ -3384,7 +3369,7 @@
                 "last_commit": "2026-07-03T11:34:49Z",
                 "owner": "phuryn",
                 "repo": "pm-skills",
-                "stars": 25444
+                "stars": 25480
               }
             },
             {
@@ -3399,7 +3384,7 @@
                 "last_commit": "2026-07-03T11:34:49Z",
                 "owner": "phuryn",
                 "repo": "pm-skills",
-                "stars": 25444
+                "stars": 25480
               }
             },
             {
@@ -3411,10 +3396,10 @@
                 "archived": false,
                 "id": 1138579978,
                 "language": "JavaScript",
-                "last_commit": "2026-08-18T14:29:08Z",
+                "last_commit": "2026-08-20T19:54:53Z",
                 "owner": "resend",
                 "repo": "resend-skills",
-                "stars": 164
+                "stars": 166
               }
             },
             {
@@ -3426,10 +3411,10 @@
                 "archived": false,
                 "id": 1138579978,
                 "language": "JavaScript",
-                "last_commit": "2026-08-18T14:29:08Z",
+                "last_commit": "2026-08-20T19:54:53Z",
                 "owner": "resend",
                 "repo": "resend-skills",
-                "stars": 164
+                "stars": 166
               }
             },
             {
@@ -3441,10 +3426,10 @@
                 "archived": false,
                 "id": 1138579978,
                 "language": "JavaScript",
-                "last_commit": "2026-08-18T14:29:08Z",
+                "last_commit": "2026-08-20T19:54:53Z",
                 "owner": "resend",
                 "repo": "resend-skills",
-                "stars": 164
+                "stars": 166
               }
             },
             {
@@ -3456,10 +3441,10 @@
                 "archived": false,
                 "id": 1138579978,
                 "language": "JavaScript",
-                "last_commit": "2026-08-18T14:29:08Z",
+                "last_commit": "2026-08-20T19:54:53Z",
                 "owner": "resend",
                 "repo": "resend-skills",
-                "stars": 164
+                "stars": 166
               }
             },
             {
@@ -3471,10 +3456,10 @@
                 "archived": false,
                 "id": 1138579978,
                 "language": "JavaScript",
-                "last_commit": "2026-08-18T14:29:08Z",
+                "last_commit": "2026-08-20T19:54:53Z",
                 "owner": "resend",
                 "repo": "resend-skills",
-                "stars": 164
+                "stars": 166
               }
             }
           ],
@@ -3493,10 +3478,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             },
             {
@@ -3508,10 +3493,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             },
             {
@@ -3523,10 +3508,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             },
             {
@@ -3538,10 +3523,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             },
             {
@@ -3553,10 +3538,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             },
             {
@@ -3568,10 +3553,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             },
             {
@@ -3583,10 +3568,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             },
             {
@@ -3598,10 +3583,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             },
             {
@@ -3613,10 +3598,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             },
             {
@@ -3628,10 +3613,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             },
             {
@@ -3643,10 +3628,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             },
             {
@@ -3658,10 +3643,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             },
             {
@@ -3673,10 +3658,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             },
             {
@@ -3688,10 +3673,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             },
             {
@@ -3703,10 +3688,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             },
             {
@@ -3718,10 +3703,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             },
             {
@@ -3733,10 +3718,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             },
             {
@@ -3748,10 +3733,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             },
             {
@@ -3763,10 +3748,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             },
             {
@@ -3778,10 +3763,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             },
             {
@@ -3793,10 +3778,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             },
             {
@@ -3808,10 +3793,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             },
             {
@@ -3823,10 +3808,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             },
             {
@@ -3838,10 +3823,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             },
             {
@@ -3853,10 +3838,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             },
             {
@@ -3868,10 +3853,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             },
             {
@@ -3883,10 +3868,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             },
             {
@@ -3898,10 +3883,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             },
             {
@@ -3913,10 +3898,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             }
           ],
@@ -3935,10 +3920,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             },
             {
@@ -3950,10 +3935,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             },
             {
@@ -3965,10 +3950,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             },
             {
@@ -3980,10 +3965,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             },
             {
@@ -3995,10 +3980,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             },
             {
@@ -4010,10 +3995,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             },
             {
@@ -4025,10 +4010,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             },
             {
@@ -4040,10 +4025,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             },
             {
@@ -4055,10 +4040,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             },
             {
@@ -4070,10 +4055,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             },
             {
@@ -4085,10 +4070,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             },
             {
@@ -4100,10 +4085,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             }
           ],
@@ -4122,10 +4107,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             },
             {
@@ -4137,10 +4122,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             },
             {
@@ -4152,10 +4137,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             },
             {
@@ -4167,10 +4152,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             },
             {
@@ -4182,10 +4167,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             },
             {
@@ -4197,10 +4182,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             },
             {
@@ -4212,10 +4197,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             },
             {
@@ -4227,10 +4212,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             }
           ],
@@ -4249,10 +4234,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             },
             {
@@ -4264,10 +4249,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             },
             {
@@ -4279,10 +4264,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             }
           ],
@@ -4301,10 +4286,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             },
             {
@@ -4316,10 +4301,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             },
             {
@@ -4331,10 +4316,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             },
             {
@@ -4346,10 +4331,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             },
             {
@@ -4361,10 +4346,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             }
           ],
@@ -4383,10 +4368,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             },
             {
@@ -4398,10 +4383,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             },
             {
@@ -4413,10 +4398,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             },
             {
@@ -4428,10 +4413,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             },
             {
@@ -4443,10 +4428,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             },
             {
@@ -4458,10 +4443,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             },
             {
@@ -4473,10 +4458,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             },
             {
@@ -4488,10 +4473,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             },
             {
@@ -4503,10 +4488,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             },
             {
@@ -4518,10 +4503,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             },
             {
@@ -4533,10 +4518,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             },
             {
@@ -4548,10 +4533,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             },
             {
@@ -4563,10 +4548,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             },
             {
@@ -4578,10 +4563,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             }
           ],
@@ -4600,10 +4585,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             },
             {
@@ -4615,10 +4600,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             },
             {
@@ -4630,10 +4615,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             },
             {
@@ -4645,10 +4630,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             },
             {
@@ -4660,10 +4645,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             },
             {
@@ -4675,10 +4660,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             },
             {
@@ -4690,10 +4675,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             },
             {
@@ -4705,10 +4690,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             },
             {
@@ -4720,10 +4705,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             },
             {
@@ -4735,10 +4720,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             },
             {
@@ -4750,10 +4735,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             },
             {
@@ -4765,10 +4750,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             },
             {
@@ -4780,10 +4765,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             },
             {
@@ -4795,10 +4780,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             },
             {
@@ -4810,10 +4795,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             },
             {
@@ -4825,10 +4810,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             },
             {
@@ -4840,10 +4825,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             },
             {
@@ -4855,10 +4840,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             },
             {
@@ -4870,10 +4855,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             },
             {
@@ -4885,10 +4870,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             },
             {
@@ -4900,10 +4885,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             },
             {
@@ -4915,10 +4900,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             },
             {
@@ -4930,10 +4915,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             }
           ],
@@ -4952,10 +4937,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             },
             {
@@ -4967,10 +4952,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             },
             {
@@ -4982,10 +4967,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             },
             {
@@ -4997,10 +4982,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             },
             {
@@ -5012,10 +4997,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             },
             {
@@ -5027,10 +5012,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             },
             {
@@ -5042,10 +5027,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             },
             {
@@ -5057,10 +5042,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             },
             {
@@ -5072,10 +5057,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             },
             {
@@ -5087,10 +5072,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             },
             {
@@ -5102,10 +5087,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             },
             {
@@ -5117,10 +5102,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             },
             {
@@ -5132,10 +5117,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             },
             {
@@ -5147,10 +5132,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             },
             {
@@ -5162,10 +5147,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             },
             {
@@ -5177,10 +5162,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             },
             {
@@ -5192,10 +5177,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             },
             {
@@ -5207,10 +5192,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             },
             {
@@ -5222,10 +5207,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             },
             {
@@ -5237,10 +5222,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             },
             {
@@ -5252,10 +5237,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             },
             {
@@ -5267,10 +5252,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             },
             {
@@ -5282,10 +5267,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             },
             {
@@ -5297,10 +5282,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             },
             {
@@ -5312,10 +5297,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             }
           ],
@@ -5334,10 +5319,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             },
             {
@@ -5349,10 +5334,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             },
             {
@@ -5364,10 +5349,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             },
             {
@@ -5379,10 +5364,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             },
             {
@@ -5394,10 +5379,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             },
             {
@@ -5409,10 +5394,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             },
             {
@@ -5424,10 +5409,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             }
           ],
@@ -5446,10 +5431,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             },
             {
@@ -5461,10 +5446,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             },
             {
@@ -5476,10 +5461,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             },
             {
@@ -5491,10 +5476,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             },
             {
@@ -5506,10 +5491,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             },
             {
@@ -5521,10 +5506,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             },
             {
@@ -5536,10 +5521,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             },
             {
@@ -5551,10 +5536,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             },
             {
@@ -5566,10 +5551,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             },
             {
@@ -5581,10 +5566,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             },
             {
@@ -5596,10 +5581,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             },
             {
@@ -5611,10 +5596,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             }
           ],
@@ -5633,10 +5618,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             },
             {
@@ -5648,10 +5633,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             }
           ],
@@ -5670,10 +5655,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             },
             {
@@ -5685,10 +5670,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             },
             {
@@ -5700,10 +5685,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             },
             {
@@ -5715,10 +5700,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             },
             {
@@ -5730,10 +5715,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             },
             {
@@ -5745,10 +5730,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             },
             {
@@ -5760,10 +5745,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             },
             {
@@ -5775,10 +5760,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             },
             {
@@ -5790,10 +5775,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             },
             {
@@ -5805,10 +5790,10 @@
                 "archived": false,
                 "id": 1167034425,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:14:51Z",
+                "last_commit": "2026-08-20T23:57:01Z",
                 "owner": "NVIDIA",
                 "repo": "skills",
-                "stars": 3024
+                "stars": 3040
               }
             },
             {
@@ -5820,10 +5805,10 @@
                 "archived": false,
                 "id": 1197652028,
                 "language": "Python",
-                "last_commit": "2026-08-20T04:41:02Z",
+                "last_commit": "2026-08-20T22:12:28Z",
                 "owner": "google",
                 "repo": "skills",
-                "stars": 18532
+                "stars": 18571
               }
             },
             {
@@ -5835,10 +5820,10 @@
                 "archived": false,
                 "id": 1197652028,
                 "language": "Python",
-                "last_commit": "2026-08-20T04:41:02Z",
+                "last_commit": "2026-08-20T22:12:28Z",
                 "owner": "google",
                 "repo": "skills",
-                "stars": 18532
+                "stars": 18571
               }
             },
             {
@@ -5850,10 +5835,10 @@
                 "archived": false,
                 "id": 1197652028,
                 "language": "Python",
-                "last_commit": "2026-08-20T04:41:02Z",
+                "last_commit": "2026-08-20T22:12:28Z",
                 "owner": "google",
                 "repo": "skills",
-                "stars": 18532
+                "stars": 18571
               }
             },
             {
@@ -5865,10 +5850,10 @@
                 "archived": false,
                 "id": 1197652028,
                 "language": "Python",
-                "last_commit": "2026-08-20T04:41:02Z",
+                "last_commit": "2026-08-20T22:12:28Z",
                 "owner": "google",
                 "repo": "skills",
-                "stars": 18532
+                "stars": 18571
               }
             },
             {
@@ -5880,10 +5865,10 @@
                 "archived": false,
                 "id": 1197652028,
                 "language": "Python",
-                "last_commit": "2026-08-20T04:41:02Z",
+                "last_commit": "2026-08-20T22:12:28Z",
                 "owner": "google",
                 "repo": "skills",
-                "stars": 18532
+                "stars": 18571
               }
             },
             {
@@ -5895,10 +5880,10 @@
                 "archived": false,
                 "id": 1197652028,
                 "language": "Python",
-                "last_commit": "2026-08-20T04:41:02Z",
+                "last_commit": "2026-08-20T22:12:28Z",
                 "owner": "google",
                 "repo": "skills",
-                "stars": 18532
+                "stars": 18571
               }
             },
             {
@@ -5910,10 +5895,10 @@
                 "archived": false,
                 "id": 1197652028,
                 "language": "Python",
-                "last_commit": "2026-08-20T04:41:02Z",
+                "last_commit": "2026-08-20T22:12:28Z",
                 "owner": "google",
                 "repo": "skills",
-                "stars": 18532
+                "stars": 18571
               }
             },
             {
@@ -5925,10 +5910,10 @@
                 "archived": false,
                 "id": 1197652028,
                 "language": "Python",
-                "last_commit": "2026-08-20T04:41:02Z",
+                "last_commit": "2026-08-20T22:12:28Z",
                 "owner": "google",
                 "repo": "skills",
-                "stars": 18532
+                "stars": 18571
               }
             },
             {
@@ -5940,10 +5925,10 @@
                 "archived": false,
                 "id": 1197652028,
                 "language": "Python",
-                "last_commit": "2026-08-20T04:41:02Z",
+                "last_commit": "2026-08-20T22:12:28Z",
                 "owner": "google",
                 "repo": "skills",
-                "stars": 18532
+                "stars": 18571
               }
             },
             {
@@ -5955,10 +5940,10 @@
                 "archived": false,
                 "id": 1197652028,
                 "language": "Python",
-                "last_commit": "2026-08-20T04:41:02Z",
+                "last_commit": "2026-08-20T22:12:28Z",
                 "owner": "google",
                 "repo": "skills",
-                "stars": 18532
+                "stars": 18571
               }
             },
             {
@@ -5970,10 +5955,10 @@
                 "archived": false,
                 "id": 1197652028,
                 "language": "Python",
-                "last_commit": "2026-08-20T04:41:02Z",
+                "last_commit": "2026-08-20T22:12:28Z",
                 "owner": "google",
                 "repo": "skills",
-                "stars": 18532
+                "stars": 18571
               }
             },
             {
@@ -5985,10 +5970,10 @@
                 "archived": false,
                 "id": 1197652028,
                 "language": "Python",
-                "last_commit": "2026-08-20T04:41:02Z",
+                "last_commit": "2026-08-20T22:12:28Z",
                 "owner": "google",
                 "repo": "skills",
-                "stars": 18532
+                "stars": 18571
               }
             },
             {
@@ -6000,10 +5985,10 @@
                 "archived": false,
                 "id": 1197652028,
                 "language": "Python",
-                "last_commit": "2026-08-20T04:41:02Z",
+                "last_commit": "2026-08-20T22:12:28Z",
                 "owner": "google",
                 "repo": "skills",
-                "stars": 18532
+                "stars": 18571
               }
             },
             {
@@ -6015,10 +6000,10 @@
                 "archived": false,
                 "id": 1197652028,
                 "language": "Python",
-                "last_commit": "2026-08-20T04:41:02Z",
+                "last_commit": "2026-08-20T22:12:28Z",
                 "owner": "google",
                 "repo": "skills",
-                "stars": 18532
+                "stars": 18571
               }
             },
             {
@@ -6030,10 +6015,10 @@
                 "archived": false,
                 "id": 1197652028,
                 "language": "Python",
-                "last_commit": "2026-08-20T04:41:02Z",
+                "last_commit": "2026-08-20T22:12:28Z",
                 "owner": "google",
                 "repo": "skills",
-                "stars": 18532
+                "stars": 18571
               }
             },
             {
@@ -6045,10 +6030,10 @@
                 "archived": false,
                 "id": 1197652028,
                 "language": "Python",
-                "last_commit": "2026-08-20T04:41:02Z",
+                "last_commit": "2026-08-20T22:12:28Z",
                 "owner": "google",
                 "repo": "skills",
-                "stars": 18532
+                "stars": 18571
               }
             },
             {
@@ -6060,10 +6045,10 @@
                 "archived": false,
                 "id": 1197652028,
                 "language": "Python",
-                "last_commit": "2026-08-20T04:41:02Z",
+                "last_commit": "2026-08-20T22:12:28Z",
                 "owner": "google",
                 "repo": "skills",
-                "stars": 18532
+                "stars": 18571
               }
             },
             {
@@ -6075,10 +6060,10 @@
                 "archived": false,
                 "id": 1197652028,
                 "language": "Python",
-                "last_commit": "2026-08-20T04:41:02Z",
+                "last_commit": "2026-08-20T22:12:28Z",
                 "owner": "google",
                 "repo": "skills",
-                "stars": 18532
+                "stars": 18571
               }
             },
             {
@@ -6090,10 +6075,10 @@
                 "archived": false,
                 "id": 1197652028,
                 "language": "Python",
-                "last_commit": "2026-08-20T04:41:02Z",
+                "last_commit": "2026-08-20T22:12:28Z",
                 "owner": "google",
                 "repo": "skills",
-                "stars": 18532
+                "stars": 18571
               }
             },
             {
@@ -6108,7 +6093,7 @@
                 "last_commit": "2026-08-19T21:16:56Z",
                 "owner": "cypress-io",
                 "repo": "ai-toolkit",
-                "stars": 39
+                "stars": 40
               }
             },
             {
@@ -6123,7 +6108,7 @@
                 "last_commit": "2026-08-19T21:16:56Z",
                 "owner": "cypress-io",
                 "repo": "ai-toolkit",
-                "stars": 39
+                "stars": 40
               }
             },
             {
@@ -6138,7 +6123,7 @@
                 "last_commit": "2026-08-19T21:16:56Z",
                 "owner": "cypress-io",
                 "repo": "ai-toolkit",
-                "stars": 39
+                "stars": 40
               }
             }
           ],
@@ -6160,7 +6145,7 @@
                 "last_commit": "2026-08-19T05:58:53Z",
                 "owner": "blader",
                 "repo": "humanizer",
-                "stars": 36680
+                "stars": 36910
               }
             },
             {
@@ -6172,10 +6157,10 @@
                 "archived": false,
                 "id": 1152014594,
                 "language": "Python",
-                "last_commit": "2026-08-16T00:30:55Z",
+                "last_commit": "2026-08-20T21:13:44Z",
                 "owner": "AgriciDaniel",
                 "repo": "claude-seo",
-                "stars": 14610
+                "stars": 14686
               }
             },
             {
@@ -6190,7 +6175,7 @@
                 "last_commit": "2026-08-14T06:48:07Z",
                 "owner": "nowork-studio",
                 "repo": "notfair-plugin",
-                "stars": 3378
+                "stars": 3384
               }
             },
             {
@@ -6202,10 +6187,10 @@
                 "archived": false,
                 "id": 1118625972,
                 "language": "Python",
-                "last_commit": "2026-08-20T02:25:35Z",
+                "last_commit": "2026-08-21T00:59:31Z",
                 "owner": "aaron-he-zhu",
                 "repo": "aaron-marketing-skills",
-                "stars": 2608
+                "stars": 2612
               }
             },
             {
@@ -6220,7 +6205,7 @@
                 "last_commit": "2026-07-27T19:18:40Z",
                 "owner": "Eronred",
                 "repo": "aso-skills",
-                "stars": 1763
+                "stars": 1770
               }
             },
             {
@@ -6235,7 +6220,7 @@
                 "last_commit": "2026-08-14T11:51:57Z",
                 "owner": "gooseworks-ai",
                 "repo": "goose-skills",
-                "stars": 1169
+                "stars": 1171
               }
             },
             {
@@ -6265,7 +6250,7 @@
                 "last_commit": "2026-08-17T10:50:14Z",
                 "owner": "indranilbanerjee",
                 "repo": "digital-marketing-pro",
-                "stars": 759
+                "stars": 762
               }
             },
             {
@@ -6277,10 +6262,10 @@
                 "archived": false,
                 "id": 1210670063,
                 "language": "Python",
-                "last_commit": "2026-08-18T11:05:52Z",
+                "last_commit": "2026-08-20T20:18:48Z",
                 "owner": "sergebulaev",
                 "repo": "linkedin-skills",
-                "stars": 572
+                "stars": 578
               }
             },
             {
@@ -6295,7 +6280,7 @@
                 "last_commit": "2026-08-19T15:29:39Z",
                 "owner": "gitroomhq",
                 "repo": "postiz-agent",
-                "stars": 414
+                "stars": 415
               }
             },
             {
@@ -6325,7 +6310,7 @@
                 "last_commit": "2026-06-30T20:30:43Z",
                 "owner": "CosmoBlk",
                 "repo": "email-marketing-bible",
-                "stars": 269
+                "stars": 271
               }
             },
             {
@@ -6340,7 +6325,7 @@
                 "last_commit": "2026-07-06T08:18:09Z",
                 "owner": "taisly",
                 "repo": "agent",
-                "stars": 255
+                "stars": 244
               }
             },
             {
@@ -6355,7 +6340,7 @@
                 "last_commit": "2026-08-18T10:12:46Z",
                 "owner": "AIDevGTM",
                 "repo": "gtm-cofounder",
-                "stars": 233
+                "stars": 236
               }
             },
             {
@@ -6367,7 +6352,7 @@
                 "archived": false,
                 "id": 1168120544,
                 "language": "JavaScript",
-                "last_commit": "2026-08-20T05:20:57Z",
+                "last_commit": "2026-08-20T20:53:50Z",
                 "owner": "Xquik-dev",
                 "repo": "x-twitter-scraper",
                 "stars": 184
@@ -6445,7 +6430,7 @@
                 "last_commit": "2026-08-16T05:29:43Z",
                 "owner": "Vladimir-Human",
                 "repo": "humanizer-ru",
-                "stars": 106
+                "stars": 109
               }
             },
             {
@@ -6457,10 +6442,10 @@
                 "archived": false,
                 "id": 1215400589,
                 "language": "Python",
-                "last_commit": "2026-06-29T06:09:56Z",
+                "last_commit": "2026-08-21T03:33:44Z",
                 "owner": "MohamedAbdallah-14",
                 "repo": "unslop",
-                "stars": 98
+                "stars": 101
               }
             },
             {
@@ -6472,7 +6457,7 @@
                 "archived": false,
                 "id": 1180792440,
                 "language": "TypeScript",
-                "last_commit": "2026-08-18T19:22:31Z",
+                "last_commit": "2026-08-21T02:26:07Z",
                 "owner": "Xquik-dev",
                 "repo": "tweetclaw",
                 "stars": 92
@@ -6495,6 +6480,21 @@
             },
             {
               "node_type": "item",
+              "title": "SupercmoHQ/superCMO-skills - Open-source skills + local MCP server for marketing video & image production: UGC videos, ad videos, product photography, and image ads from a product photo and a brief; casts AI actors, picks the best image/video models, edits any-length clips with consistent actor and product, and researches competitor ads. BYO or managed keys, Apache-2.0",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1310971691,
+                "language": "Python",
+                "last_commit": "2026-08-17T09:05:30Z",
+                "owner": "SupercmoHQ",
+                "repo": "superCMO-skills",
+                "stars": 24
+              }
+            },
+            {
+              "node_type": "item",
               "title": "obra/brainstorming - Generate and explore ideas",
               "description": null,
               "children": [],
@@ -6505,7 +6505,7 @@
                 "last_commit": "2026-08-19T17:33:23Z",
                 "owner": "obra",
                 "repo": "superpowers",
-                "stars": 274450
+                "stars": 275143
               }
             },
             {
@@ -6520,7 +6520,7 @@
                 "last_commit": "2026-08-19T17:33:23Z",
                 "owner": "obra",
                 "repo": "superpowers",
-                "stars": 274450
+                "stars": 275143
               }
             },
             {
@@ -6535,7 +6535,7 @@
                 "last_commit": "2026-08-19T17:33:23Z",
                 "owner": "obra",
                 "repo": "superpowers",
-                "stars": 274450
+                "stars": 275143
               }
             },
             {
@@ -6550,22 +6550,7 @@
                 "last_commit": "2026-08-19T17:33:23Z",
                 "owner": "obra",
                 "repo": "superpowers",
-                "stars": 274450
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "obra/sharing-skills - Distribute and communicate capabilities",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1073224795,
-                "language": "Shell",
-                "last_commit": "2026-08-19T17:33:23Z",
-                "owner": "obra",
-                "repo": "superpowers",
-                "stars": 274450
+                "stars": 275143
               }
             },
             {
@@ -6580,7 +6565,7 @@
                 "last_commit": "2026-08-19T17:33:23Z",
                 "owner": "obra",
                 "repo": "superpowers",
-                "stars": 274450
+                "stars": 275143
               }
             },
             {
@@ -6592,10 +6577,10 @@
                 "archived": false,
                 "id": 1201476594,
                 "language": "JavaScript",
-                "last_commit": "2026-08-19T19:08:01Z",
+                "last_commit": "2026-08-21T05:12:07Z",
                 "owner": "santifer",
                 "repo": "career-ops",
-                "stars": 65993
+                "stars": 66922
               }
             },
             {
@@ -6607,10 +6592,10 @@
                 "archived": false,
                 "id": 1140843380,
                 "language": "Python",
-                "last_commit": "2026-08-18T17:14:35Z",
+                "last_commit": "2026-08-20T07:31:53Z",
                 "owner": "mvanhorn",
                 "repo": "last30days-skill",
-                "stars": 58753
+                "stars": 58829
               }
             },
             {
@@ -6625,22 +6610,22 @@
                 "last_commit": "2026-06-23T20:08:19Z",
                 "owner": "zarazhangrui",
                 "repo": "frontend-slides",
-                "stars": 27831
+                "stars": 27890
               }
             },
             {
               "node_type": "item",
-              "title": "kreuzberg-dev/kreuzberg - Extract text, tables, and metadata from 62+ document formats",
+              "title": "kreuzberg-dev/xberg - Extract text, tables, and metadata from 101+ document formats",
               "description": null,
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 925434317,
                 "language": "Rust",
-                "last_commit": "2026-08-19T14:31:06Z",
+                "last_commit": "2026-08-21T04:59:46Z",
                 "owner": "xberg-io",
                 "repo": "xberg",
-                "stars": 9175
+                "stars": 9183
               }
             },
             {
@@ -6655,7 +6640,7 @@
                 "last_commit": "2025-11-21T17:42:12Z",
                 "owner": "PleasePrompto",
                 "repo": "notebooklm-skill",
-                "stars": 7654
+                "stars": 7661
               }
             },
             {
@@ -6670,7 +6655,7 @@
                 "last_commit": "2026-01-19T03:07:23Z",
                 "owner": "op7418",
                 "repo": "NanoBanana-PPT-Skills",
-                "stars": 3212
+                "stars": 3214
               }
             },
             {
@@ -6685,7 +6670,7 @@
                 "last_commit": "2026-01-22T04:56:21Z",
                 "owner": "op7418",
                 "repo": "Youtube-clipper-skill",
-                "stars": 2146
+                "stars": 2150
               }
             },
             {
@@ -6700,7 +6685,7 @@
                 "last_commit": "2026-06-19T07:20:29Z",
                 "owner": "Paramchoudhary",
                 "repo": "ResumeSkills",
-                "stars": 1733
+                "stars": 1745
               }
             },
             {
@@ -6712,10 +6697,10 @@
                 "archived": false,
                 "id": 1136152017,
                 "language": "Python",
-                "last_commit": "2026-08-19T06:50:45Z",
+                "last_commit": "2026-08-20T06:52:22Z",
                 "owner": "ReScienceLab",
                 "repo": "opc-skills",
-                "stars": 1615
+                "stars": 1620
               }
             },
             {
@@ -6727,10 +6712,10 @@
                 "archived": false,
                 "id": 1096085345,
                 "language": "TypeScript",
-                "last_commit": "2026-08-19T23:32:45Z",
+                "last_commit": "2026-08-21T01:00:27Z",
                 "owner": "NeoLabHQ",
                 "repo": "context-engineering-kit",
-                "stars": 1342
+                "stars": 1343
               }
             },
             {
@@ -6745,7 +6730,7 @@
                 "last_commit": "2026-08-06T09:14:00Z",
                 "owner": "deusyu",
                 "repo": "translate-book",
-                "stars": 1168
+                "stars": 1171
               }
             },
             {
@@ -6760,7 +6745,7 @@
                 "last_commit": "2026-02-28T14:41:09Z",
                 "owner": "bevibing",
                 "repo": "tutor-skills",
-                "stars": 1104
+                "stars": 1105
               }
             },
             {
@@ -6775,7 +6760,7 @@
                 "last_commit": "2026-08-07T18:53:22Z",
                 "owner": "tjboudreaux",
                 "repo": "cc-thinking-skills",
-                "stars": 968
+                "stars": 969
               }
             },
             {
@@ -6805,7 +6790,7 @@
                 "last_commit": "2026-07-29T21:42:17Z",
                 "owner": "zapier",
                 "repo": "zapier-mcp",
-                "stars": 383
+                "stars": 385
               }
             },
             {
@@ -6832,10 +6817,10 @@
                 "archived": false,
                 "id": 1206029526,
                 "language": "Python",
-                "last_commit": "2026-08-20T05:14:41Z",
+                "last_commit": "2026-08-21T05:17:51Z",
                 "owner": "openaccountants",
                 "repo": "openaccountants",
-                "stars": 333
+                "stars": 334
               }
             },
             {
@@ -6865,7 +6850,7 @@
                 "last_commit": "2026-01-29T18:00:05Z",
                 "owner": "EveryInc",
                 "repo": "charlie-cfo-skill",
-                "stars": 300
+                "stars": 301
               }
             },
             {
@@ -6910,7 +6895,7 @@
                 "last_commit": "2026-08-19T19:10:43Z",
                 "owner": "gokapso",
                 "repo": "agent-skills",
-                "stars": 150
+                "stars": 151
               }
             },
             {
@@ -6925,7 +6910,7 @@
                 "last_commit": "2026-08-19T19:10:43Z",
                 "owner": "gokapso",
                 "repo": "agent-skills",
-                "stars": 150
+                "stars": 151
               }
             },
             {
@@ -6940,7 +6925,7 @@
                 "last_commit": "2026-08-19T19:10:43Z",
                 "owner": "gokapso",
                 "repo": "agent-skills",
-                "stars": 150
+                "stars": 151
               }
             },
             {
@@ -6990,6 +6975,21 @@
             },
             {
               "node_type": "item",
+              "title": "kgraph57/strategy-consulting-visualization - McKinsey-style charts and consulting slide decks",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1157632149,
+                "language": "Python",
+                "last_commit": "2026-08-12T13:01:24Z",
+                "owner": "kgraph57",
+                "repo": "mckinsey-style-visualization-skill",
+                "stars": 73
+              }
+            },
+            {
+              "node_type": "item",
               "title": "hanfang/claude-memory-skill - Minimal, low-friction hierarchical memory system with background agents and filesystem-based persistence",
               "description": null,
               "children": [],
@@ -7015,7 +7015,7 @@
                 "last_commit": "2026-08-13T10:13:29Z",
                 "owner": "Linked-API",
                 "repo": "linkedin-skills",
-                "stars": 42
+                "stars": 43
               }
             },
             {
@@ -7075,7 +7075,7 @@
                 "last_commit": "2026-08-19T17:33:23Z",
                 "owner": "obra",
                 "repo": "superpowers",
-                "stars": 274450
+                "stars": 275143
               }
             },
             {
@@ -7090,7 +7090,7 @@
                 "last_commit": "2026-08-19T17:33:23Z",
                 "owner": "obra",
                 "repo": "superpowers",
-                "stars": 274450
+                "stars": 275143
               }
             },
             {
@@ -7105,52 +7105,7 @@
                 "last_commit": "2026-08-19T17:33:23Z",
                 "owner": "obra",
                 "repo": "superpowers",
-                "stars": 274450
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "obra/root-cause-tracing - Investigate and identify fundamental problems",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1073224795,
-                "language": "Shell",
-                "last_commit": "2026-08-19T17:33:23Z",
-                "owner": "obra",
-                "repo": "superpowers",
-                "stars": 274450
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "obra/testing-skills-with-subagents - Collaborative testing approaches",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1073224795,
-                "language": "Shell",
-                "last_commit": "2026-08-19T17:33:23Z",
-                "owner": "obra",
-                "repo": "superpowers",
-                "stars": 274450
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "obra/testing-anti-patterns - Identify ineffective testing practices",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1073224795,
-                "language": "Shell",
-                "last_commit": "2026-08-19T17:33:23Z",
-                "owner": "obra",
-                "repo": "superpowers",
-                "stars": 274450
+                "stars": 275143
               }
             },
             {
@@ -7165,7 +7120,7 @@
                 "last_commit": "2026-08-19T17:33:23Z",
                 "owner": "obra",
                 "repo": "superpowers",
-                "stars": 274450
+                "stars": 275143
               }
             },
             {
@@ -7180,7 +7135,7 @@
                 "last_commit": "2026-08-19T17:33:23Z",
                 "owner": "obra",
                 "repo": "superpowers",
-                "stars": 274450
+                "stars": 275143
               }
             },
             {
@@ -7195,7 +7150,7 @@
                 "last_commit": "2026-08-19T17:33:23Z",
                 "owner": "obra",
                 "repo": "superpowers",
-                "stars": 274450
+                "stars": 275143
               }
             },
             {
@@ -7210,7 +7165,7 @@
                 "last_commit": "2026-08-19T17:33:23Z",
                 "owner": "obra",
                 "repo": "superpowers",
-                "stars": 274450
+                "stars": 275143
               }
             },
             {
@@ -7225,37 +7180,7 @@
                 "last_commit": "2026-08-19T17:33:23Z",
                 "owner": "obra",
                 "repo": "superpowers",
-                "stars": 274450
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "obra/condition-based-waiting - Manage conditional pauses or delays",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1073224795,
-                "language": "Shell",
-                "last_commit": "2026-08-19T17:33:23Z",
-                "owner": "obra",
-                "repo": "superpowers",
-                "stars": 274450
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "obra/commands - Create and manage command structures",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1073224795,
-                "language": "Shell",
-                "last_commit": "2026-08-19T17:33:23Z",
-                "owner": "obra",
-                "repo": "superpowers",
-                "stars": 274450
+                "stars": 275143
               }
             },
             {
@@ -7270,7 +7195,7 @@
                 "last_commit": "2026-08-19T17:33:23Z",
                 "owner": "obra",
                 "repo": "superpowers",
-                "stars": 274450
+                "stars": 275143
               }
             },
             {
@@ -7282,10 +7207,10 @@
                 "archived": false,
                 "id": 1148788086,
                 "language": "Shell",
-                "last_commit": "2026-08-19T13:09:36Z",
+                "last_commit": "2026-08-20T10:35:33Z",
                 "owner": "mattpocock",
                 "repo": "skills",
-                "stars": 224260
+                "stars": 227291
               }
             },
             {
@@ -7297,10 +7222,10 @@
                 "archived": false,
                 "id": 1106996539,
                 "language": "Python",
-                "last_commit": "2026-08-18T18:16:41Z",
+                "last_commit": "2026-08-20T11:49:07Z",
                 "owner": "nextlevelbuilder",
                 "repo": "ui-ux-pro-max-skill",
-                "stars": 118334
+                "stars": 118955
               }
             },
             {
@@ -7315,7 +7240,7 @@
                 "last_commit": "2026-08-11T14:13:37Z",
                 "owner": "Egonex-AI",
                 "repo": "Understand-Anything",
-                "stars": 79864
+                "stars": 79960
               }
             },
             {
@@ -7330,7 +7255,7 @@
                 "last_commit": "2026-08-17T22:57:24Z",
                 "owner": "Leonxlnx",
                 "repo": "taste-skill",
-                "stars": 78320
+                "stars": 78732
               }
             },
             {
@@ -7342,10 +7267,10 @@
                 "archived": false,
                 "id": 1166506614,
                 "language": "Python",
-                "last_commit": "2026-08-08T14:55:19Z",
+                "last_commit": "2026-08-20T15:57:02Z",
                 "owner": "mukul975",
                 "repo": "Anthropic-Cybersecurity-Skills",
-                "stars": 30032
+                "stars": 30425
               }
             },
             {
@@ -7360,7 +7285,7 @@
                 "last_commit": "2026-08-09T13:13:26Z",
                 "owner": "yusufkaraaslan",
                 "repo": "Skill_Seekers",
-                "stars": 14786
+                "stars": 14791
               }
             },
             {
@@ -7372,10 +7297,10 @@
                 "archived": false,
                 "id": 1129930192,
                 "language": "TypeScript",
-                "last_commit": "2026-08-18T17:00:03Z",
+                "last_commit": "2026-08-20T17:06:12Z",
                 "owner": "ibelick",
                 "repo": "ui-skills",
-                "stars": 7333
+                "stars": 7348
               }
             },
             {
@@ -7390,7 +7315,7 @@
                 "last_commit": "2026-08-12T03:32:38Z",
                 "owner": "browser-act",
                 "repo": "skills",
-                "stars": 5360
+                "stars": 5382
               }
             },
             {
@@ -7405,22 +7330,7 @@
                 "last_commit": "2026-08-12T13:34:21Z",
                 "owner": "AvdLee",
                 "repo": "SwiftUI-Agent-Skill",
-                "stars": 3425
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "lackeyjb/playwright-skill - Browser automation with Playwright",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1079469057,
-                "language": "JavaScript",
-                "last_commit": "2026-08-14T13:51:33Z",
-                "owner": "lackeyjb",
-                "repo": "playwright-skill",
-                "stars": 3046
+                "stars": 3430
               }
             },
             {
@@ -7435,7 +7345,22 @@
                 "last_commit": "2026-07-09T20:45:53Z",
                 "owner": "CloudAI-X",
                 "repo": "threejs-skills",
-                "stars": 3032
+                "stars": 3055
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "lackeyjb/playwright-skill - Browser automation with Playwright",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1079469057,
+                "language": "JavaScript",
+                "last_commit": "2026-08-14T13:51:33Z",
+                "owner": "lackeyjb",
+                "repo": "playwright-skill",
+                "stars": 3048
               }
             },
             {
@@ -7450,7 +7375,7 @@
                 "last_commit": "2026-08-11T15:42:32Z",
                 "owner": "foryourhealth111-pixel",
                 "repo": "Vibe-Skills",
-                "stars": 2917
+                "stars": 2936
               }
             },
             {
@@ -7462,7 +7387,7 @@
                 "archived": false,
                 "id": 988222683,
                 "language": "Vue",
-                "last_commit": "2026-08-20T05:07:18Z",
+                "last_commit": "2026-08-21T03:16:16Z",
                 "owner": "Simon-He95",
                 "repo": "markstream-vue",
                 "stars": 2905
@@ -7480,7 +7405,7 @@
                 "last_commit": "2026-07-03T05:56:41Z",
                 "owner": "antonbabenko",
                 "repo": "terraform-skill",
-                "stars": 2287
+                "stars": 2292
               }
             },
             {
@@ -7500,17 +7425,17 @@
             },
             {
               "node_type": "item",
-              "title": "NeoLabHQ/code-review - Comprehensive PR code review using specialized agents: bug-hunter, security-auditor, code-quality-reviewer, contracts-reviewer, historical-context-reviewer, test-coverage-reviewer",
+              "title": "NeoLabHQ/review - Comprehensive PR code review using specialized agents: bug-hunter, security-auditor, code-quality-reviewer, contracts-reviewer, historical-context-reviewer, test-coverage-reviewer",
               "description": null,
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 1096085345,
                 "language": "TypeScript",
-                "last_commit": "2026-08-19T23:32:45Z",
+                "last_commit": "2026-08-21T01:00:27Z",
                 "owner": "NeoLabHQ",
                 "repo": "context-engineering-kit",
-                "stars": 1342
+                "stars": 1343
               }
             },
             {
@@ -7522,10 +7447,10 @@
                 "archived": false,
                 "id": 1096085345,
                 "language": "TypeScript",
-                "last_commit": "2026-08-19T23:32:45Z",
+                "last_commit": "2026-08-21T01:00:27Z",
                 "owner": "NeoLabHQ",
                 "repo": "context-engineering-kit",
-                "stars": 1342
+                "stars": 1343
               }
             },
             {
@@ -7537,10 +7462,10 @@
                 "archived": false,
                 "id": 1096085345,
                 "language": "TypeScript",
-                "last_commit": "2026-08-19T23:32:45Z",
+                "last_commit": "2026-08-21T01:00:27Z",
                 "owner": "NeoLabHQ",
                 "repo": "context-engineering-kit",
-                "stars": 1342
+                "stars": 1343
               }
             },
             {
@@ -7552,10 +7477,10 @@
                 "archived": false,
                 "id": 1096085345,
                 "language": "TypeScript",
-                "last_commit": "2026-08-19T23:32:45Z",
+                "last_commit": "2026-08-21T01:00:27Z",
                 "owner": "NeoLabHQ",
                 "repo": "context-engineering-kit",
-                "stars": 1342
+                "stars": 1343
               }
             },
             {
@@ -7567,10 +7492,10 @@
                 "archived": false,
                 "id": 1096085345,
                 "language": "TypeScript",
-                "last_commit": "2026-08-19T23:32:45Z",
+                "last_commit": "2026-08-21T01:00:27Z",
                 "owner": "NeoLabHQ",
                 "repo": "context-engineering-kit",
-                "stars": 1342
+                "stars": 1343
               }
             },
             {
@@ -7582,10 +7507,10 @@
                 "archived": false,
                 "id": 1096085345,
                 "language": "TypeScript",
-                "last_commit": "2026-08-19T23:32:45Z",
+                "last_commit": "2026-08-21T01:00:27Z",
                 "owner": "NeoLabHQ",
                 "repo": "context-engineering-kit",
-                "stars": 1342
+                "stars": 1343
               }
             },
             {
@@ -7600,7 +7525,7 @@
                 "last_commit": "2026-05-29T06:22:31Z",
                 "owner": "truongduy2611",
                 "repo": "app-store-preflight-skills",
-                "stars": 1322
+                "stars": 1323
               }
             },
             {
@@ -7615,7 +7540,7 @@
                 "last_commit": "2026-06-18T15:29:20Z",
                 "owner": "conorluddy",
                 "repo": "ios-simulator-skill",
-                "stars": 1220
+                "stars": 1222
               }
             },
             {
@@ -7630,7 +7555,7 @@
                 "last_commit": "2026-08-19T12:16:35Z",
                 "owner": "GanyuanRan",
                 "repo": "Aegis",
-                "stars": 1079
+                "stars": 1087
               }
             },
             {
@@ -7645,7 +7570,7 @@
                 "last_commit": "2026-08-06T20:06:09Z",
                 "owner": "agiwhitelist",
                 "repo": "auteur",
-                "stars": 1017
+                "stars": 1016
               }
             },
             {
@@ -7657,10 +7582,10 @@
                 "archived": false,
                 "id": 1143403408,
                 "language": "Python",
-                "last_commit": "2026-08-20T05:34:53Z",
+                "last_commit": "2026-08-20T08:02:23Z",
                 "owner": "rorkai",
                 "repo": "app-store-connect-cli-skills",
-                "stars": 970
+                "stars": 971
               }
             },
             {
@@ -7675,7 +7600,7 @@
                 "last_commit": "2026-04-07T15:51:03Z",
                 "owner": "ZhangHanDong",
                 "repo": "makepad-skills",
-                "stars": 746
+                "stars": 745
               }
             },
             {
@@ -7690,7 +7615,7 @@
                 "last_commit": "2026-08-18T06:59:51Z",
                 "owner": "alinaqi",
                 "repo": "maggy",
-                "stars": 705
+                "stars": 704
               }
             },
             {
@@ -7702,10 +7627,25 @@
                 "archived": false,
                 "id": 1285643489,
                 "language": "Python",
-                "last_commit": "2026-08-18T21:15:34Z",
+                "last_commit": "2026-08-20T16:56:58Z",
                 "owner": "plasma-ai",
                 "repo": "fractal",
-                "stars": 693
+                "stars": 694
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "aeonfun/aeon - 70+ Claude Code skills + autonomous GitHub Actions agent framework",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1172886754,
+                "language": "TypeScript",
+                "last_commit": "2026-08-21T01:55:34Z",
+                "owner": "aeonfun",
+                "repo": "aeon",
+                "stars": 677
               }
             },
             {
@@ -7735,7 +7675,22 @@
                 "last_commit": "2026-03-19T05:13:32Z",
                 "owner": "ehmo",
                 "repo": "platform-design-skills",
-                "stars": 493
+                "stars": 495
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "superdesigndev/superdesign-skill - Creates design systems from existing codebases and iterates UI drafts",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1139329853,
+                "language": "JavaScript",
+                "last_commit": "2026-08-21T05:23:23Z",
+                "owner": "superdesigndev",
+                "repo": "superdesign-skill",
+                "stars": 436
               }
             },
             {
@@ -7750,22 +7705,7 @@
                 "last_commit": "2026-07-26T12:42:24Z",
                 "owner": "baskduf",
                 "repo": "FableCodex",
-                "stars": 436
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "superdesigndev/superdesign-skill - Creates design systems from existing codebases and iterates UI drafts",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1139329853,
-                "language": "JavaScript",
-                "last_commit": "2026-08-20T02:38:55Z",
-                "owner": "superdesigndev",
-                "repo": "superdesign-skill",
-                "stars": 436
+                "stars": 435
               }
             },
             {
@@ -7867,10 +7807,10 @@
                 "archived": false,
                 "id": 1126940582,
                 "language": "TypeScript",
-                "last_commit": "2026-08-20T03:13:54Z",
+                "last_commit": "2026-08-21T05:23:50Z",
                 "owner": "squirrelscan",
                 "repo": "squirrelscan",
-                "stars": 254
+                "stars": 255
               }
             },
             {
@@ -7882,7 +7822,7 @@
                 "archived": false,
                 "id": 1092747695,
                 "language": "Python",
-                "last_commit": "2026-08-15T10:10:39Z",
+                "last_commit": "2026-08-20T19:30:50Z",
                 "owner": "scarletkc",
                 "repo": "vexor",
                 "stars": 237
@@ -7900,7 +7840,7 @@
                 "last_commit": "2026-08-19T15:10:08Z",
                 "owner": "drogers0",
                 "repo": "gh-image",
-                "stars": 233
+                "stars": 236
               }
             },
             {
@@ -7960,7 +7900,7 @@
                 "last_commit": "2026-06-16T12:57:39Z",
                 "owner": "csthink",
                 "repo": "dashmotion",
-                "stars": 153
+                "stars": 154
               }
             },
             {
@@ -7975,7 +7915,7 @@
                 "last_commit": "2026-08-19T04:14:10Z",
                 "owner": "JasonColapietro",
                 "repo": "suede-creator-skills",
-                "stars": 153
+                "stars": 151
               }
             },
             {
@@ -8002,7 +7942,7 @@
                 "archived": false,
                 "id": 1153559213,
                 "language": "TypeScript",
-                "last_commit": "2026-08-15T14:42:20Z",
+                "last_commit": "2026-08-20T15:51:39Z",
                 "owner": "Kevin7Qi",
                 "repo": "codex-collab",
                 "stars": 95
@@ -8035,7 +7975,7 @@
                 "last_commit": "2026-08-09T07:30:09Z",
                 "owner": "fvadicamo",
                 "repo": "dev-agent-skills",
-                "stars": 69
+                "stars": 70
               }
             },
             {
@@ -8050,7 +7990,7 @@
                 "last_commit": "2026-07-30T09:10:11Z",
                 "owner": "uucz",
                 "repo": "moyu",
-                "stars": 68
+                "stars": 70
               }
             },
             {
@@ -8140,7 +8080,7 @@
                 "last_commit": "2026-01-25T17:09:27Z",
                 "owner": "massimodeluisa",
                 "repo": "recursive-decomposition-skill",
-                "stars": 44
+                "stars": 45
               }
             },
             {
@@ -8265,6 +8205,21 @@
             },
             {
               "node_type": "item",
+              "title": "thedotmack/claude-mem - Compresses and persists agent memory across sessions",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1048065319,
+                "language": "JavaScript",
+                "last_commit": "2026-08-20T16:23:20Z",
+                "owner": "thedotmack",
+                "repo": "claude-mem",
+                "stars": 91382
+              }
+            },
+            {
+              "node_type": "item",
               "title": "Panniantong/Agent-Reach - Multi-platform search CLI for 17 sites including Chinese platforms",
               "description": null,
               "children": [],
@@ -8275,7 +8230,7 @@
                 "last_commit": "2026-08-12T03:39:49Z",
                 "owner": "Panniantong",
                 "repo": "Agent-Reach",
-                "stars": 73171
+                "stars": 73584
               }
             },
             {
@@ -8290,7 +8245,7 @@
                 "last_commit": "2026-08-19T01:55:00Z",
                 "owner": "muratcankoylan",
                 "repo": "Agent-Skills-for-Context-Engineering",
-                "stars": 17779
+                "stars": 17786
               }
             },
             {
@@ -8305,7 +8260,7 @@
                 "last_commit": "2026-08-19T01:55:00Z",
                 "owner": "muratcankoylan",
                 "repo": "Agent-Skills-for-Context-Engineering",
-                "stars": 17779
+                "stars": 17786
               }
             },
             {
@@ -8320,7 +8275,7 @@
                 "last_commit": "2026-08-19T01:55:00Z",
                 "owner": "muratcankoylan",
                 "repo": "Agent-Skills-for-Context-Engineering",
-                "stars": 17779
+                "stars": 17786
               }
             },
             {
@@ -8335,7 +8290,7 @@
                 "last_commit": "2026-08-19T01:55:00Z",
                 "owner": "muratcankoylan",
                 "repo": "Agent-Skills-for-Context-Engineering",
-                "stars": 17779
+                "stars": 17786
               }
             },
             {
@@ -8350,7 +8305,7 @@
                 "last_commit": "2026-08-19T01:55:00Z",
                 "owner": "muratcankoylan",
                 "repo": "Agent-Skills-for-Context-Engineering",
-                "stars": 17779
+                "stars": 17786
               }
             },
             {
@@ -8365,7 +8320,7 @@
                 "last_commit": "2026-08-19T01:55:00Z",
                 "owner": "muratcankoylan",
                 "repo": "Agent-Skills-for-Context-Engineering",
-                "stars": 17779
+                "stars": 17786
               }
             },
             {
@@ -8380,7 +8335,7 @@
                 "last_commit": "2026-08-19T01:55:00Z",
                 "owner": "muratcankoylan",
                 "repo": "Agent-Skills-for-Context-Engineering",
-                "stars": 17779
+                "stars": 17786
               }
             },
             {
@@ -8395,7 +8350,7 @@
                 "last_commit": "2026-08-19T01:55:00Z",
                 "owner": "muratcankoylan",
                 "repo": "Agent-Skills-for-Context-Engineering",
-                "stars": 17779
+                "stars": 17786
               }
             },
             {
@@ -8407,10 +8362,10 @@
                 "archived": false,
                 "id": 1096085345,
                 "language": "TypeScript",
-                "last_commit": "2026-08-19T23:32:45Z",
+                "last_commit": "2026-08-21T01:00:27Z",
                 "owner": "NeoLabHQ",
                 "repo": "context-engineering-kit",
-                "stars": 1342
+                "stars": 1343
               }
             },
             {
@@ -8425,7 +8380,7 @@
                 "last_commit": "2026-08-18T18:14:30Z",
                 "owner": "ohad6k",
                 "repo": "emulo",
-                "stars": 269
+                "stars": 271
               }
             },
             {
@@ -8437,10 +8392,10 @@
                 "archived": false,
                 "id": 1296383855,
                 "language": "Python",
-                "last_commit": "2026-08-20T06:28:24Z",
+                "last_commit": "2026-08-21T06:29:14Z",
                 "owner": "oliver-zehentleitner",
                 "repo": "keep-the-why",
-                "stars": 143
+                "stars": 144
               }
             },
             {
@@ -8455,7 +8410,7 @@
                 "last_commit": "2026-07-31T06:49:03Z",
                 "owner": "zilliztech",
                 "repo": "mfs",
-                "stars": 120
+                "stars": 121
               }
             },
             {
@@ -8530,7 +8485,7 @@
                 "last_commit": "2026-08-18T10:21:01Z",
                 "owner": "awrshift",
                 "repo": "claude-memory-kit",
-                "stars": 30
+                "stars": 29
               }
             },
             {
@@ -8550,21 +8505,6 @@
             },
             {
               "node_type": "item",
-              "title": "obra/defense-in-depth - Multi-layered security approaches",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1073224795,
-                "language": "Shell",
-                "last_commit": "2026-08-19T17:33:23Z",
-                "owner": "obra",
-                "repo": "superpowers",
-                "stars": 274450
-              }
-            },
-            {
-              "node_type": "item",
               "title": "K-Dense-AI/claude-scientific-skills - Scientific research and analysis skills",
               "description": null,
               "children": [],
@@ -8575,7 +8515,7 @@
                 "last_commit": "2026-08-19T22:41:49Z",
                 "owner": "K-Dense-AI",
                 "repo": "scientific-agent-skills",
-                "stars": 33945
+                "stars": 34025
               }
             },
             {
@@ -8587,10 +8527,10 @@
                 "archived": false,
                 "id": 1177608268,
                 "language": "Python",
-                "last_commit": "2026-08-18T03:45:44Z",
+                "last_commit": "2026-08-21T06:16:43Z",
                 "owner": "wanshuiyin",
                 "repo": "Auto-claude-code-research-in-sleep",
-                "stars": 14916
+                "stars": 14962
               }
             },
             {
@@ -8605,7 +8545,7 @@
                 "last_commit": "2026-06-16T01:36:46Z",
                 "owner": "Orchestra-Research",
                 "repo": "AI-Research-SKILLs",
-                "stars": 11849
+                "stars": 11911
               }
             },
             {
@@ -8620,7 +8560,7 @@
                 "last_commit": "2026-06-16T01:36:46Z",
                 "owner": "Orchestra-Research",
                 "repo": "AI-Research-SKILLs",
-                "stars": 11849
+                "stars": 11911
               }
             },
             {
@@ -8635,7 +8575,7 @@
                 "last_commit": "2026-08-18T09:07:51Z",
                 "owner": "HUANGCHIHHUNGLeo",
                 "repo": "claude-real-video",
-                "stars": 2041
+                "stars": 2048
               }
             },
             {
@@ -8650,7 +8590,7 @@
                 "last_commit": "2026-02-17T14:03:16Z",
                 "owner": "BehiSecc",
                 "repo": "VibeSec-Skill",
-                "stars": 1205
+                "stars": 1209
               }
             },
             {
@@ -8662,7 +8602,7 @@
                 "archived": false,
                 "id": 1150883518,
                 "language": "JavaScript",
-                "last_commit": "2026-08-20T03:32:59Z",
+                "last_commit": "2026-08-21T03:35:39Z",
                 "owner": "prompt-security",
                 "repo": "clawsec",
                 "stars": 1086
@@ -8677,10 +8617,10 @@
                 "archived": false,
                 "id": 1176559390,
                 "language": "Python",
-                "last_commit": "2026-08-18T00:39:12Z",
+                "last_commit": "2026-08-20T23:05:13Z",
                 "owner": "aklofas",
                 "repo": "kicad-happy",
-                "stars": 985
+                "stars": 991
               }
             },
             {
@@ -8710,7 +8650,7 @@
                 "last_commit": "2026-07-16T09:10:17Z",
                 "owner": "huifer",
                 "repo": "WellAlly-health",
-                "stars": 930
+                "stars": 931
               }
             },
             {
@@ -8725,7 +8665,7 @@
                 "last_commit": "2026-07-04T22:43:09Z",
                 "owner": "komal-SkyNET",
                 "repo": "claude-skill-homeassistant",
-                "stars": 800
+                "stars": 894
               }
             },
             {
@@ -8740,7 +8680,7 @@
                 "last_commit": "2026-08-07T13:02:39Z",
                 "owner": "lawve-ai",
                 "repo": "awesome-legal-skills",
-                "stars": 652
+                "stars": 658
               }
             },
             {
@@ -8755,7 +8695,7 @@
                 "last_commit": "2026-08-10T12:50:35Z",
                 "owner": "GarethManning",
                 "repo": "education-agent-skills",
-                "stars": 639
+                "stars": 648
               }
             },
             {
@@ -8770,7 +8710,7 @@
                 "last_commit": "2026-08-10T12:50:35Z",
                 "owner": "GarethManning",
                 "repo": "education-agent-skills",
-                "stars": 639
+                "stars": 648
               }
             },
             {
@@ -8785,7 +8725,7 @@
                 "last_commit": "2026-08-10T12:50:35Z",
                 "owner": "GarethManning",
                 "repo": "education-agent-skills",
-                "stars": 639
+                "stars": 648
               }
             },
             {
@@ -8800,7 +8740,7 @@
                 "last_commit": "2026-08-10T12:50:35Z",
                 "owner": "GarethManning",
                 "repo": "education-agent-skills",
-                "stars": 639
+                "stars": 648
               }
             },
             {
@@ -8815,7 +8755,7 @@
                 "last_commit": "2026-08-10T12:50:35Z",
                 "owner": "GarethManning",
                 "repo": "education-agent-skills",
-                "stars": 639
+                "stars": 648
               }
             },
             {
@@ -8830,7 +8770,7 @@
                 "last_commit": "2026-08-05T08:23:26Z",
                 "owner": "meodai",
                 "repo": "skill.color-expert",
-                "stars": 554
+                "stars": 555
               }
             },
             {
@@ -8845,7 +8785,7 @@
                 "last_commit": "2026-08-18T23:07:46Z",
                 "owner": "ZeroPointRepo",
                 "repo": "youtube-skills",
-                "stars": 541
+                "stars": 544
               }
             },
             {
@@ -8872,10 +8812,10 @@
                 "archived": false,
                 "id": 1133894957,
                 "language": "Python",
-                "last_commit": "2026-08-20T02:26:23Z",
+                "last_commit": "2026-08-20T23:01:51Z",
                 "owner": "bitwize-music-studio",
                 "repo": "claude-ai-music-skills",
-                "stars": 434
+                "stars": 436
               }
             },
             {
@@ -8905,7 +8845,7 @@
                 "last_commit": "2026-08-14T06:38:37Z",
                 "owner": "morluto",
                 "repo": "rea",
-                "stars": 360
+                "stars": 363
               }
             },
             {
@@ -8920,7 +8860,7 @@
                 "last_commit": "2026-06-24T05:32:40Z",
                 "owner": "shouldnotappearcalm",
                 "repo": "a-share-skill",
-                "stars": 226
+                "stars": 227
               }
             },
             {
@@ -8935,7 +8875,7 @@
                 "last_commit": "2026-08-17T07:01:48Z",
                 "owner": "talkstream",
                 "repo": "ru-text",
-                "stars": 206
+                "stars": 208
               }
             },
             {
@@ -8977,10 +8917,10 @@
                 "archived": false,
                 "id": 1154000512,
                 "language": "TypeScript",
-                "last_commit": "2026-08-04T23:24:24Z",
+                "last_commit": "2026-08-20T23:52:02Z",
                 "owner": "raintree-technology",
                 "repo": "hig-doctor",
-                "stars": 110
+                "stars": 111
               }
             },
             {
@@ -9127,10 +9067,10 @@
                 "archived": false,
                 "id": 1150473818,
                 "language": "TypeScript",
-                "last_commit": "2026-08-19T23:26:11Z",
+                "last_commit": "2026-08-20T15:30:05Z",
                 "owner": "helius-labs",
                 "repo": "core-ai",
-                "stars": 24
+                "stars": 25
               }
             },
             {
@@ -9187,10 +9127,10 @@
                 "archived": false,
                 "id": 1079619168,
                 "language": "Shell",
-                "last_commit": "2026-08-07T10:18:39Z",
+                "last_commit": "2026-08-20T11:03:25Z",
                 "owner": "czlonkowski",
                 "repo": "n8n-skills",
-                "stars": 6092
+                "stars": 6100
               }
             },
             {
@@ -9202,10 +9142,10 @@
                 "archived": false,
                 "id": 1079619168,
                 "language": "Shell",
-                "last_commit": "2026-08-07T10:18:39Z",
+                "last_commit": "2026-08-20T11:03:25Z",
                 "owner": "czlonkowski",
                 "repo": "n8n-skills",
-                "stars": 6092
+                "stars": 6100
               }
             },
             {
@@ -9217,10 +9157,10 @@
                 "archived": false,
                 "id": 1079619168,
                 "language": "Shell",
-                "last_commit": "2026-08-07T10:18:39Z",
+                "last_commit": "2026-08-20T11:03:25Z",
                 "owner": "czlonkowski",
                 "repo": "n8n-skills",
-                "stars": 6092
+                "stars": 6100
               }
             },
             {
@@ -9232,10 +9172,10 @@
                 "archived": false,
                 "id": 1079619168,
                 "language": "Shell",
-                "last_commit": "2026-08-07T10:18:39Z",
+                "last_commit": "2026-08-20T11:03:25Z",
                 "owner": "czlonkowski",
                 "repo": "n8n-skills",
-                "stars": 6092
+                "stars": 6100
               }
             },
             {
@@ -9247,10 +9187,10 @@
                 "archived": false,
                 "id": 1079619168,
                 "language": "Shell",
-                "last_commit": "2026-08-07T10:18:39Z",
+                "last_commit": "2026-08-20T11:03:25Z",
                 "owner": "czlonkowski",
                 "repo": "n8n-skills",
-                "stars": 6092
+                "stars": 6100
               }
             },
             {
@@ -9262,10 +9202,10 @@
                 "archived": false,
                 "id": 1079619168,
                 "language": "Shell",
-                "last_commit": "2026-08-07T10:18:39Z",
+                "last_commit": "2026-08-20T11:03:25Z",
                 "owner": "czlonkowski",
                 "repo": "n8n-skills",
-                "stars": 6092
+                "stars": 6100
               }
             },
             {
@@ -9277,10 +9217,10 @@
                 "archived": false,
                 "id": 1079619168,
                 "language": "Shell",
-                "last_commit": "2026-08-07T10:18:39Z",
+                "last_commit": "2026-08-20T11:03:25Z",
                 "owner": "czlonkowski",
                 "repo": "n8n-skills",
-                "stars": 6092
+                "stars": 6100
               }
             }
           ],
@@ -9293,10 +9233,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T06:29:46.618Z",
+    "last_updated": "2026-08-21T06:30:34.972Z",
     "original_repository": "VoltAgent/awesome-agent-skills",
     "original_repository_id": 1084853233,
-    "original_repository_sha": "647c36ba2e8f56013326414cab5f14a6fd198222",
+    "original_repository_sha": "07141e581075c2982d5f0c0b6b8507b97528e6fa",
     "enhanced_repository": "enhansome/enhansome-agent-skills",
     "enhanced_repository_description": null,
     "title": "Awesome Agent Skills with stars"
