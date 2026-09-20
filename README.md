@@ -398,25 +398,25 @@ Production-grade Agent Skills for every major test automation framework, maintai
 
 Official skills by Venice.ai for the Venice API.
 
-* **[veniceai/venice-api-overview](https://github.com/veniceai/skills/tree/main/skills/venice-api-overview) ⭐ 141 | 🐛 11 | 🌐 Python | 📅 2026-09-14** - API basics, auth modes, pricing, and versioning
-* **[veniceai/venice-auth](https://github.com/veniceai/skills/tree/main/skills/venice-auth) ⭐ 141 | 🐛 11 | 🌐 Python | 📅 2026-09-14** - API keys and wallet-based Venice authentication
-* **[veniceai/venice-chat](https://github.com/veniceai/skills/tree/main/skills/venice-chat) ⭐ 141 | 🐛 11 | 🌐 Python | 📅 2026-09-14** - Chat completions, multimodal inputs, tools, and streaming
-* **[veniceai/venice-responses](https://github.com/veniceai/skills/tree/main/skills/venice-responses) ⭐ 141 | 🐛 11 | 🌐 Python | 📅 2026-09-14** - OpenAI-compatible Responses API for Venice
-* **[veniceai/venice-embeddings](https://github.com/veniceai/skills/tree/main/skills/venice-embeddings) ⭐ 141 | 🐛 11 | 🌐 Python | 📅 2026-09-14** - Embeddings models, dimensions, and encoding formats
-* **[veniceai/venice-image-generate](https://github.com/veniceai/skills/tree/main/skills/venice-image-generate) ⭐ 141 | 🐛 11 | 🌐 Python | 📅 2026-09-14** - Image generation endpoints and available styles
-* **[veniceai/venice-image-edit](https://github.com/veniceai/skills/tree/main/skills/venice-image-edit) ⭐ 141 | 🐛 11 | 🌐 Python | 📅 2026-09-14** - Image edits, upscaling, and background removal
-* **[veniceai/venice-audio-speech](https://github.com/veniceai/skills/tree/main/skills/venice-audio-speech) ⭐ 141 | 🐛 11 | 🌐 Python | 📅 2026-09-14** - Text-to-speech models, voices, formats, and streaming
-* **[veniceai/venice-audio-music](https://github.com/veniceai/skills/tree/main/skills/venice-audio-music) ⭐ 141 | 🐛 11 | 🌐 Python | 📅 2026-09-14** - Music generation queueing, retrieval, and completion endpoints
-* **[veniceai/venice-audio-transcription](https://github.com/veniceai/skills/tree/main/skills/venice-audio-transcription) ⭐ 141 | 🐛 11 | 🌐 Python | 📅 2026-09-14** - Audio transcription models and speech-to-text options
-* **[veniceai/venice-video](https://github.com/veniceai/skills/tree/main/skills/venice-video) ⭐ 141 | 🐛 11 | 🌐 Python | 📅 2026-09-14** - Video generation and transcription workflows
-* **[veniceai/venice-models](https://github.com/veniceai/skills/tree/main/skills/venice-models) ⭐ 141 | 🐛 11 | 🌐 Python | 📅 2026-09-14** - Model catalog, traits, and compatibility mappings
-* **[veniceai/venice-characters](https://github.com/veniceai/skills/tree/main/skills/venice-characters) ⭐ 141 | 🐛 11 | 🌐 Python | 📅 2026-09-14** - Character endpoints and `character_slug` usage
-* **[veniceai/venice-api-keys](https://github.com/veniceai/skills/tree/main/skills/venice-api-keys) ⭐ 141 | 🐛 11 | 🌐 Python | 📅 2026-09-14** - API key CRUD, rate limits, and Web3 keys
-* **[veniceai/venice-billing](https://github.com/veniceai/skills/tree/main/skills/venice-billing) ⭐ 141 | 🐛 11 | 🌐 Python | 📅 2026-09-14** - Balance, usage, and billing analytics endpoints
-* **[veniceai/venice-x402](https://github.com/veniceai/skills/tree/main/skills/venice-x402) ⭐ 141 | 🐛 11 | 🌐 Python | 📅 2026-09-14** - Wallet credits and x402 payments on Base
-* **[veniceai/venice-crypto-rpc](https://github.com/veniceai/skills/tree/main/skills/venice-crypto-rpc) ⭐ 141 | 🐛 11 | 🌐 Python | 📅 2026-09-14** - JSON-RPC proxying for supported crypto networks
-* **[veniceai/venice-augment](https://github.com/veniceai/skills/tree/main/skills/venice-augment) ⭐ 141 | 🐛 11 | 🌐 Python | 📅 2026-09-14** - Search, scraping, and text parsing endpoints
-* **[veniceai/venice-errors](https://github.com/veniceai/skills/tree/main/skills/venice-errors) ⭐ 141 | 🐛 11 | 🌐 Python | 📅 2026-09-14** - Error handling, retries, and API status codes
+* **[veniceai/venice-api-overview](https://github.com/veniceai/skills/tree/main/skills/venice-api-overview) ⭐ 142 | 🐛 11 | 🌐 Python | 📅 2026-09-14** - API basics, auth modes, pricing, and versioning
+* **[veniceai/venice-auth](https://github.com/veniceai/skills/tree/main/skills/venice-auth) ⭐ 142 | 🐛 11 | 🌐 Python | 📅 2026-09-14** - API keys and wallet-based Venice authentication
+* **[veniceai/venice-chat](https://github.com/veniceai/skills/tree/main/skills/venice-chat) ⭐ 142 | 🐛 11 | 🌐 Python | 📅 2026-09-14** - Chat completions, multimodal inputs, tools, and streaming
+* **[veniceai/venice-responses](https://github.com/veniceai/skills/tree/main/skills/venice-responses) ⭐ 142 | 🐛 11 | 🌐 Python | 📅 2026-09-14** - OpenAI-compatible Responses API for Venice
+* **[veniceai/venice-embeddings](https://github.com/veniceai/skills/tree/main/skills/venice-embeddings) ⭐ 142 | 🐛 11 | 🌐 Python | 📅 2026-09-14** - Embeddings models, dimensions, and encoding formats
+* **[veniceai/venice-image-generate](https://github.com/veniceai/skills/tree/main/skills/venice-image-generate) ⭐ 142 | 🐛 11 | 🌐 Python | 📅 2026-09-14** - Image generation endpoints and available styles
+* **[veniceai/venice-image-edit](https://github.com/veniceai/skills/tree/main/skills/venice-image-edit) ⭐ 142 | 🐛 11 | 🌐 Python | 📅 2026-09-14** - Image edits, upscaling, and background removal
+* **[veniceai/venice-audio-speech](https://github.com/veniceai/skills/tree/main/skills/venice-audio-speech) ⭐ 142 | 🐛 11 | 🌐 Python | 📅 2026-09-14** - Text-to-speech models, voices, formats, and streaming
+* **[veniceai/venice-audio-music](https://github.com/veniceai/skills/tree/main/skills/venice-audio-music) ⭐ 142 | 🐛 11 | 🌐 Python | 📅 2026-09-14** - Music generation queueing, retrieval, and completion endpoints
+* **[veniceai/venice-audio-transcription](https://github.com/veniceai/skills/tree/main/skills/venice-audio-transcription) ⭐ 142 | 🐛 11 | 🌐 Python | 📅 2026-09-14** - Audio transcription models and speech-to-text options
+* **[veniceai/venice-video](https://github.com/veniceai/skills/tree/main/skills/venice-video) ⭐ 142 | 🐛 11 | 🌐 Python | 📅 2026-09-14** - Video generation and transcription workflows
+* **[veniceai/venice-models](https://github.com/veniceai/skills/tree/main/skills/venice-models) ⭐ 142 | 🐛 11 | 🌐 Python | 📅 2026-09-14** - Model catalog, traits, and compatibility mappings
+* **[veniceai/venice-characters](https://github.com/veniceai/skills/tree/main/skills/venice-characters) ⭐ 142 | 🐛 11 | 🌐 Python | 📅 2026-09-14** - Character endpoints and `character_slug` usage
+* **[veniceai/venice-api-keys](https://github.com/veniceai/skills/tree/main/skills/venice-api-keys) ⭐ 142 | 🐛 11 | 🌐 Python | 📅 2026-09-14** - API key CRUD, rate limits, and Web3 keys
+* **[veniceai/venice-billing](https://github.com/veniceai/skills/tree/main/skills/venice-billing) ⭐ 142 | 🐛 11 | 🌐 Python | 📅 2026-09-14** - Balance, usage, and billing analytics endpoints
+* **[veniceai/venice-x402](https://github.com/veniceai/skills/tree/main/skills/venice-x402) ⭐ 142 | 🐛 11 | 🌐 Python | 📅 2026-09-14** - Wallet credits and x402 payments on Base
+* **[veniceai/venice-crypto-rpc](https://github.com/veniceai/skills/tree/main/skills/venice-crypto-rpc) ⭐ 142 | 🐛 11 | 🌐 Python | 📅 2026-09-14** - JSON-RPC proxying for supported crypto networks
+* **[veniceai/venice-augment](https://github.com/veniceai/skills/tree/main/skills/venice-augment) ⭐ 142 | 🐛 11 | 🌐 Python | 📅 2026-09-14** - Search, scraping, and text parsing endpoints
+* **[veniceai/venice-errors](https://github.com/veniceai/skills/tree/main/skills/venice-errors) ⭐ 142 | 🐛 11 | 🌐 Python | 📅 2026-09-14** - Error handling, retries, and API status codes
 
 </details>
 
@@ -869,37 +869,37 @@ Official skills from Figma's MCP server guide.
 
 Official marketing skills by [Corey Haines](https://github.com/coreyhaines31), covering the full SaaS marketing stack from SEO and copywriting to growth, CRO, and paid acquisition.
 
-* **[coreyhaines31/ab-testing](https://github.com/coreyhaines31/marketingskills/tree/main/skills/ab-testing) ⭐ 50,866 | 🐛 114 | 🌐 JavaScript | 📅 2026-09-05** - Plan and implement A/B tests or experiments for any digital experience
-* **[coreyhaines31/ad-creative](https://github.com/coreyhaines31/marketingskills/tree/main/skills/ad-creative) ⭐ 50,866 | 🐛 114 | 🌐 JavaScript | 📅 2026-09-05** - Generate and iterate ad creative including headlines, descriptions, and primary text
-* **[coreyhaines31/ai-seo](https://github.com/coreyhaines31/marketingskills/tree/main/skills/ai-seo) ⭐ 50,866 | 🐛 114 | 🌐 JavaScript | 📅 2026-09-05** - Optimize content to appear in AI-generated answers and LLM search results
-* **[coreyhaines31/analytics](https://github.com/coreyhaines31/marketingskills/tree/main/skills/analytics) ⭐ 50,866 | 🐛 114 | 🌐 JavaScript | 📅 2026-09-05** - Set up and audit analytics tracking and measurement pipelines
-* **[coreyhaines31/churn-prevention](https://github.com/coreyhaines31/marketingskills/tree/main/skills/churn-prevention) ⭐ 50,866 | 🐛 114 | 🌐 JavaScript | 📅 2026-09-05** - Build cancellation flows, save offers, and recover failed payments
-* **[coreyhaines31/cold-email](https://github.com/coreyhaines31/marketingskills/tree/main/skills/cold-email) ⭐ 50,866 | 🐛 114 | 🌐 JavaScript | 📅 2026-09-05** - Write B2B cold emails and follow-up sequences that convert
-* **[coreyhaines31/competitors](https://github.com/coreyhaines31/marketingskills/tree/main/skills/competitors) ⭐ 50,866 | 🐛 114 | 🌐 JavaScript | 📅 2026-09-05** - Build competitor comparison and alternative landing pages for SEO
-* **[coreyhaines31/content-strategy](https://github.com/coreyhaines31/marketingskills/tree/main/skills/content-strategy) ⭐ 50,866 | 🐛 114 | 🌐 JavaScript | 📅 2026-09-05** - Plan content strategy and decide what topics and formats to prioritize
-* **[coreyhaines31/copy-editing](https://github.com/coreyhaines31/marketingskills/tree/main/skills/copy-editing) ⭐ 50,866 | 🐛 114 | 🌐 JavaScript | 📅 2026-09-05** - Edit and improve existing marketing copy for clarity and impact
-* **[coreyhaines31/copywriting](https://github.com/coreyhaines31/marketingskills/tree/main/skills/copywriting) ⭐ 50,866 | 🐛 114 | 🌐 JavaScript | 📅 2026-09-05** - Write and rewrite marketing copy for landing pages, homepages, and ads
-* **[coreyhaines31/emails](https://github.com/coreyhaines31/marketingskills/tree/main/skills/emails) ⭐ 50,866 | 🐛 114 | 🌐 JavaScript | 📅 2026-09-05** - Build email sequences, drip campaigns, and lifecycle email flows
-* **[coreyhaines31/free-tools](https://github.com/coreyhaines31/marketingskills/tree/main/skills/free-tools) ⭐ 50,866 | 🐛 114 | 🌐 JavaScript | 📅 2026-09-05** - Plan and build free tools for lead generation and SEO value
-* **[coreyhaines31/launch](https://github.com/coreyhaines31/marketingskills/tree/main/skills/launch) ⭐ 50,866 | 🐛 114 | 🌐 JavaScript | 📅 2026-09-05** - Plan product launches, feature announcements, and go-to-market strategies
-* **[coreyhaines31/marketing-ideas](https://github.com/coreyhaines31/marketingskills/tree/main/skills/marketing-ideas) ⭐ 50,866 | 🐛 114 | 🌐 JavaScript | 📅 2026-09-05** - Generate marketing strategies and campaign ideas for SaaS products
-* **[coreyhaines31/marketing-psychology](https://github.com/coreyhaines31/marketingskills/tree/main/skills/marketing-psychology) ⭐ 50,866 | 🐛 114 | 🌐 JavaScript | 📅 2026-09-05** - Apply psychological principles and behavioral science to copy and design
-* **[coreyhaines31/onboarding](https://github.com/coreyhaines31/marketingskills/tree/main/skills/onboarding) ⭐ 50,866 | 🐛 114 | 🌐 JavaScript | 📅 2026-09-05** - Optimize post-signup onboarding and user activation to improve time-to-value
-* **[coreyhaines31/cro](https://github.com/coreyhaines31/marketingskills/tree/main/skills/cro) ⭐ 50,866 | 🐛 114 | 🌐 JavaScript | 📅 2026-09-05** - Improve conversion rates on any marketing page or form, including homepages, landing pages, and contact forms
-* **[coreyhaines31/ads](https://github.com/coreyhaines31/marketingskills/tree/main/skills/ads) ⭐ 50,866 | 🐛 114 | 🌐 JavaScript | 📅 2026-09-05** - Create and optimize paid campaigns on Google, Meta, LinkedIn, and more
-* **[coreyhaines31/paywalls](https://github.com/coreyhaines31/marketingskills/tree/main/skills/paywalls) ⭐ 50,866 | 🐛 114 | 🌐 JavaScript | 📅 2026-09-05** - Design and optimize upgrade screens, paywalls, and upsell modals
-* **[coreyhaines31/popups](https://github.com/coreyhaines31/marketingskills/tree/main/skills/popups) ⭐ 50,866 | 🐛 114 | 🌐 JavaScript | 📅 2026-09-05** - Create and optimize popups, modals, and slide-ins for conversions
-* **[coreyhaines31/pricing](https://github.com/coreyhaines31/marketingskills/tree/main/skills/pricing) ⭐ 50,866 | 🐛 114 | 🌐 JavaScript | 📅 2026-09-05** - Define pricing, packaging, and monetization strategy for SaaS products
-* **[coreyhaines31/product-marketing](https://github.com/coreyhaines31/marketingskills/tree/main/skills/product-marketing) ⭐ 50,866 | 🐛 114 | 🌐 JavaScript | 📅 2026-09-05** - Create and maintain a product marketing context document for consistent messaging
-* **[coreyhaines31/programmatic-seo](https://github.com/coreyhaines31/marketingskills/tree/main/skills/programmatic-seo) ⭐ 50,866 | 🐛 114 | 🌐 JavaScript | 📅 2026-09-05** - Build SEO-driven page templates for large-scale content generation
-* **[coreyhaines31/referrals](https://github.com/coreyhaines31/marketingskills/tree/main/skills/referrals) ⭐ 50,866 | 🐛 114 | 🌐 JavaScript | 📅 2026-09-05** - Design and optimize referral, affiliate, and word-of-mouth programs
-* **[coreyhaines31/revops](https://github.com/coreyhaines31/marketingskills/tree/main/skills/revops) ⭐ 50,866 | 🐛 114 | 🌐 JavaScript | 📅 2026-09-05** - Streamline revenue operations, lead lifecycle, and marketing-to-sales handoff
-* **[coreyhaines31/sales-enablement](https://github.com/coreyhaines31/marketingskills/tree/main/skills/sales-enablement) ⭐ 50,866 | 🐛 114 | 🌐 JavaScript | 📅 2026-09-05** - Create pitch decks, one-pagers, objection handling docs, and demo scripts
-* **[coreyhaines31/schema](https://github.com/coreyhaines31/marketingskills/tree/main/skills/schema) ⭐ 50,866 | 🐛 114 | 🌐 JavaScript | 📅 2026-09-05** - Add and optimize schema markup and structured data for better SEO
-* **[coreyhaines31/seo-audit](https://github.com/coreyhaines31/marketingskills/tree/main/skills/seo-audit) ⭐ 50,866 | 🐛 114 | 🌐 JavaScript | 📅 2026-09-05** - Audit and diagnose technical and on-page SEO issues on a site
-* **[coreyhaines31/signup](https://github.com/coreyhaines31/marketingskills/tree/main/skills/signup) ⭐ 50,866 | 🐛 114 | 🌐 JavaScript | 📅 2026-09-05** - Optimize signup, registration, and trial activation flows for higher conversion
-* **[coreyhaines31/site-architecture](https://github.com/coreyhaines31/marketingskills/tree/main/skills/site-architecture) ⭐ 50,866 | 🐛 114 | 🌐 JavaScript | 📅 2026-09-05** - Plan and restructure page hierarchy, navigation, and URL structure
-* **[coreyhaines31/social](https://github.com/coreyhaines31/marketingskills/tree/main/skills/social) ⭐ 50,866 | 🐛 114 | 🌐 JavaScript | 📅 2026-09-05** - Create and schedule social media content for LinkedIn, Twitter/X, and Instagram
+* **[coreyhaines31/ab-testing](https://github.com/coreyhaines31/marketingskills/tree/main/skills/ab-testing) ⭐ 50,963 | 🐛 114 | 🌐 JavaScript | 📅 2026-09-05** - Plan and implement A/B tests or experiments for any digital experience
+* **[coreyhaines31/ad-creative](https://github.com/coreyhaines31/marketingskills/tree/main/skills/ad-creative) ⭐ 50,963 | 🐛 114 | 🌐 JavaScript | 📅 2026-09-05** - Generate and iterate ad creative including headlines, descriptions, and primary text
+* **[coreyhaines31/ai-seo](https://github.com/coreyhaines31/marketingskills/tree/main/skills/ai-seo) ⭐ 50,963 | 🐛 114 | 🌐 JavaScript | 📅 2026-09-05** - Optimize content to appear in AI-generated answers and LLM search results
+* **[coreyhaines31/analytics](https://github.com/coreyhaines31/marketingskills/tree/main/skills/analytics) ⭐ 50,963 | 🐛 114 | 🌐 JavaScript | 📅 2026-09-05** - Set up and audit analytics tracking and measurement pipelines
+* **[coreyhaines31/churn-prevention](https://github.com/coreyhaines31/marketingskills/tree/main/skills/churn-prevention) ⭐ 50,963 | 🐛 114 | 🌐 JavaScript | 📅 2026-09-05** - Build cancellation flows, save offers, and recover failed payments
+* **[coreyhaines31/cold-email](https://github.com/coreyhaines31/marketingskills/tree/main/skills/cold-email) ⭐ 50,963 | 🐛 114 | 🌐 JavaScript | 📅 2026-09-05** - Write B2B cold emails and follow-up sequences that convert
+* **[coreyhaines31/competitors](https://github.com/coreyhaines31/marketingskills/tree/main/skills/competitors) ⭐ 50,963 | 🐛 114 | 🌐 JavaScript | 📅 2026-09-05** - Build competitor comparison and alternative landing pages for SEO
+* **[coreyhaines31/content-strategy](https://github.com/coreyhaines31/marketingskills/tree/main/skills/content-strategy) ⭐ 50,963 | 🐛 114 | 🌐 JavaScript | 📅 2026-09-05** - Plan content strategy and decide what topics and formats to prioritize
+* **[coreyhaines31/copy-editing](https://github.com/coreyhaines31/marketingskills/tree/main/skills/copy-editing) ⭐ 50,963 | 🐛 114 | 🌐 JavaScript | 📅 2026-09-05** - Edit and improve existing marketing copy for clarity and impact
+* **[coreyhaines31/copywriting](https://github.com/coreyhaines31/marketingskills/tree/main/skills/copywriting) ⭐ 50,963 | 🐛 114 | 🌐 JavaScript | 📅 2026-09-05** - Write and rewrite marketing copy for landing pages, homepages, and ads
+* **[coreyhaines31/emails](https://github.com/coreyhaines31/marketingskills/tree/main/skills/emails) ⭐ 50,963 | 🐛 114 | 🌐 JavaScript | 📅 2026-09-05** - Build email sequences, drip campaigns, and lifecycle email flows
+* **[coreyhaines31/free-tools](https://github.com/coreyhaines31/marketingskills/tree/main/skills/free-tools) ⭐ 50,963 | 🐛 114 | 🌐 JavaScript | 📅 2026-09-05** - Plan and build free tools for lead generation and SEO value
+* **[coreyhaines31/launch](https://github.com/coreyhaines31/marketingskills/tree/main/skills/launch) ⭐ 50,963 | 🐛 114 | 🌐 JavaScript | 📅 2026-09-05** - Plan product launches, feature announcements, and go-to-market strategies
+* **[coreyhaines31/marketing-ideas](https://github.com/coreyhaines31/marketingskills/tree/main/skills/marketing-ideas) ⭐ 50,963 | 🐛 114 | 🌐 JavaScript | 📅 2026-09-05** - Generate marketing strategies and campaign ideas for SaaS products
+* **[coreyhaines31/marketing-psychology](https://github.com/coreyhaines31/marketingskills/tree/main/skills/marketing-psychology) ⭐ 50,963 | 🐛 114 | 🌐 JavaScript | 📅 2026-09-05** - Apply psychological principles and behavioral science to copy and design
+* **[coreyhaines31/onboarding](https://github.com/coreyhaines31/marketingskills/tree/main/skills/onboarding) ⭐ 50,963 | 🐛 114 | 🌐 JavaScript | 📅 2026-09-05** - Optimize post-signup onboarding and user activation to improve time-to-value
+* **[coreyhaines31/cro](https://github.com/coreyhaines31/marketingskills/tree/main/skills/cro) ⭐ 50,963 | 🐛 114 | 🌐 JavaScript | 📅 2026-09-05** - Improve conversion rates on any marketing page or form, including homepages, landing pages, and contact forms
+* **[coreyhaines31/ads](https://github.com/coreyhaines31/marketingskills/tree/main/skills/ads) ⭐ 50,963 | 🐛 114 | 🌐 JavaScript | 📅 2026-09-05** - Create and optimize paid campaigns on Google, Meta, LinkedIn, and more
+* **[coreyhaines31/paywalls](https://github.com/coreyhaines31/marketingskills/tree/main/skills/paywalls) ⭐ 50,963 | 🐛 114 | 🌐 JavaScript | 📅 2026-09-05** - Design and optimize upgrade screens, paywalls, and upsell modals
+* **[coreyhaines31/popups](https://github.com/coreyhaines31/marketingskills/tree/main/skills/popups) ⭐ 50,963 | 🐛 114 | 🌐 JavaScript | 📅 2026-09-05** - Create and optimize popups, modals, and slide-ins for conversions
+* **[coreyhaines31/pricing](https://github.com/coreyhaines31/marketingskills/tree/main/skills/pricing) ⭐ 50,963 | 🐛 114 | 🌐 JavaScript | 📅 2026-09-05** - Define pricing, packaging, and monetization strategy for SaaS products
+* **[coreyhaines31/product-marketing](https://github.com/coreyhaines31/marketingskills/tree/main/skills/product-marketing) ⭐ 50,963 | 🐛 114 | 🌐 JavaScript | 📅 2026-09-05** - Create and maintain a product marketing context document for consistent messaging
+* **[coreyhaines31/programmatic-seo](https://github.com/coreyhaines31/marketingskills/tree/main/skills/programmatic-seo) ⭐ 50,963 | 🐛 114 | 🌐 JavaScript | 📅 2026-09-05** - Build SEO-driven page templates for large-scale content generation
+* **[coreyhaines31/referrals](https://github.com/coreyhaines31/marketingskills/tree/main/skills/referrals) ⭐ 50,963 | 🐛 114 | 🌐 JavaScript | 📅 2026-09-05** - Design and optimize referral, affiliate, and word-of-mouth programs
+* **[coreyhaines31/revops](https://github.com/coreyhaines31/marketingskills/tree/main/skills/revops) ⭐ 50,963 | 🐛 114 | 🌐 JavaScript | 📅 2026-09-05** - Streamline revenue operations, lead lifecycle, and marketing-to-sales handoff
+* **[coreyhaines31/sales-enablement](https://github.com/coreyhaines31/marketingskills/tree/main/skills/sales-enablement) ⭐ 50,963 | 🐛 114 | 🌐 JavaScript | 📅 2026-09-05** - Create pitch decks, one-pagers, objection handling docs, and demo scripts
+* **[coreyhaines31/schema](https://github.com/coreyhaines31/marketingskills/tree/main/skills/schema) ⭐ 50,963 | 🐛 114 | 🌐 JavaScript | 📅 2026-09-05** - Add and optimize schema markup and structured data for better SEO
+* **[coreyhaines31/seo-audit](https://github.com/coreyhaines31/marketingskills/tree/main/skills/seo-audit) ⭐ 50,963 | 🐛 114 | 🌐 JavaScript | 📅 2026-09-05** - Audit and diagnose technical and on-page SEO issues on a site
+* **[coreyhaines31/signup](https://github.com/coreyhaines31/marketingskills/tree/main/skills/signup) ⭐ 50,963 | 🐛 114 | 🌐 JavaScript | 📅 2026-09-05** - Optimize signup, registration, and trial activation flows for higher conversion
+* **[coreyhaines31/site-architecture](https://github.com/coreyhaines31/marketingskills/tree/main/skills/site-architecture) ⭐ 50,963 | 🐛 114 | 🌐 JavaScript | 📅 2026-09-05** - Plan and restructure page hierarchy, navigation, and URL structure
+* **[coreyhaines31/social](https://github.com/coreyhaines31/marketingskills/tree/main/skills/social) ⭐ 50,963 | 🐛 114 | 🌐 JavaScript | 📅 2026-09-05** - Create and schedule social media content for LinkedIn, Twitter/X, and Instagram
 
 </details>
 
@@ -908,18 +908,18 @@ Official marketing skills by [Corey Haines](https://github.com/coreyhaines31), c
 
 Direct-response advertising skills by Kim Barrett, organized into foundations, copy-chief, operator-os, orchestrators, and QA — covering avatar work, offer design, Schwartz-style copywriting, creative testing, and full-funnel campaign orchestration.
 
-* **[realkimbarrett/avatar-extraction](https://github.com/realkimbarrett/advertising-skills/tree/main/skills/foundations/avatar-extraction) ⭐ 752 | 🐛 2 | 📅 2026-03-26** - Define exactly who the buyer is, what they want, what they've tried, and what's driving their decisions
-* **[realkimbarrett/offer-extraction](https://github.com/realkimbarrett/advertising-skills/tree/main/skills/foundations/offer-extraction) ⭐ 752 | 🐛 2 | 📅 2026-03-26** - Turn a product or service into a compelling, high-converting offer
-* **[realkimbarrett/schwartz-awareness-mapper](https://github.com/realkimbarrett/advertising-skills/tree/main/skills/copy-chief/schwartz-awareness-mapper) ⭐ 752 | 🐛 2 | 📅 2026-03-26** - Determine audience awareness level and the correct messaging approach
-* **[realkimbarrett/mechanism-builder](https://github.com/realkimbarrett/advertising-skills/tree/main/skills/copy-chief/mechanism-builder) ⭐ 752 | 🐛 2 | 📅 2026-03-26** - Explain why your solution works and others failed with a unique mechanism
-* **[realkimbarrett/headline-matrix](https://github.com/realkimbarrett/advertising-skills/tree/main/skills/copy-chief/headline-matrix) ⭐ 752 | 🐛 2 | 📅 2026-03-26** - Generate high-performing headline variations across different angles
-* **[realkimbarrett/objection-crusher](https://github.com/realkimbarrett/advertising-skills/tree/main/skills/copy-chief/objection-crusher) ⭐ 752 | 🐛 2 | 📅 2026-03-26** - Identify and neutralize buyer objections and hesitation
-* **[realkimbarrett/ad-angle-multiplier](https://github.com/realkimbarrett/advertising-skills/tree/main/skills/operator-os/ad-angle-multiplier) ⭐ 752 | 🐛 2 | 📅 2026-03-26** - Expand a core idea into multiple distinct ad angles for creative testing
-* **[realkimbarrett/scroll-stopping-creative](https://github.com/realkimbarrett/advertising-skills/tree/main/skills/operator-os/scroll-stopping-creative) ⭐ 752 | 🐛 2 | 📅 2026-03-26** - Create ad concepts that stop attention in the first 3 seconds
-* **[realkimbarrett/conversion-path-builder](https://github.com/realkimbarrett/advertising-skills/tree/main/skills/operator-os/conversion-path-builder) ⭐ 752 | 🐛 2 | 📅 2026-03-26** - Design the optimal funnel from click to conversion and booked calls
-* **[realkimbarrett/performance-diagnosis](https://github.com/realkimbarrett/advertising-skills/tree/main/skills/operator-os/performance-diagnosis) ⭐ 752 | 🐛 2 | 📅 2026-03-26** - Diagnose why campaigns are underperforming — low conversion, high CPL, bad ads
-* **[realkimbarrett/full-funnel-campaign-orchestrator](https://github.com/realkimbarrett/advertising-skills/tree/main/skills/orchestrators/full-funnel-campaign-orchestrator) ⭐ 752 | 🐛 2 | 📅 2026-03-26** - Coordinate all skills to build a complete ads + funnel campaign end-to-end
-* **[realkimbarrett/generic-language-killer](https://github.com/realkimbarrett/advertising-skills/tree/main/skills/qa/generic-language-killer) ⭐ 752 | 🐛 2 | 📅 2026-03-26** - Remove vague, corporate, or AI-sounding language and replace it with clear, specific, human wording
+* **[realkimbarrett/avatar-extraction](https://github.com/realkimbarrett/advertising-skills/tree/main/skills/foundations/avatar-extraction) ⭐ 753 | 🐛 2 | 📅 2026-03-26** - Define exactly who the buyer is, what they want, what they've tried, and what's driving their decisions
+* **[realkimbarrett/offer-extraction](https://github.com/realkimbarrett/advertising-skills/tree/main/skills/foundations/offer-extraction) ⭐ 753 | 🐛 2 | 📅 2026-03-26** - Turn a product or service into a compelling, high-converting offer
+* **[realkimbarrett/schwartz-awareness-mapper](https://github.com/realkimbarrett/advertising-skills/tree/main/skills/copy-chief/schwartz-awareness-mapper) ⭐ 753 | 🐛 2 | 📅 2026-03-26** - Determine audience awareness level and the correct messaging approach
+* **[realkimbarrett/mechanism-builder](https://github.com/realkimbarrett/advertising-skills/tree/main/skills/copy-chief/mechanism-builder) ⭐ 753 | 🐛 2 | 📅 2026-03-26** - Explain why your solution works and others failed with a unique mechanism
+* **[realkimbarrett/headline-matrix](https://github.com/realkimbarrett/advertising-skills/tree/main/skills/copy-chief/headline-matrix) ⭐ 753 | 🐛 2 | 📅 2026-03-26** - Generate high-performing headline variations across different angles
+* **[realkimbarrett/objection-crusher](https://github.com/realkimbarrett/advertising-skills/tree/main/skills/copy-chief/objection-crusher) ⭐ 753 | 🐛 2 | 📅 2026-03-26** - Identify and neutralize buyer objections and hesitation
+* **[realkimbarrett/ad-angle-multiplier](https://github.com/realkimbarrett/advertising-skills/tree/main/skills/operator-os/ad-angle-multiplier) ⭐ 753 | 🐛 2 | 📅 2026-03-26** - Expand a core idea into multiple distinct ad angles for creative testing
+* **[realkimbarrett/scroll-stopping-creative](https://github.com/realkimbarrett/advertising-skills/tree/main/skills/operator-os/scroll-stopping-creative) ⭐ 753 | 🐛 2 | 📅 2026-03-26** - Create ad concepts that stop attention in the first 3 seconds
+* **[realkimbarrett/conversion-path-builder](https://github.com/realkimbarrett/advertising-skills/tree/main/skills/operator-os/conversion-path-builder) ⭐ 753 | 🐛 2 | 📅 2026-03-26** - Design the optimal funnel from click to conversion and booked calls
+* **[realkimbarrett/performance-diagnosis](https://github.com/realkimbarrett/advertising-skills/tree/main/skills/operator-os/performance-diagnosis) ⭐ 753 | 🐛 2 | 📅 2026-03-26** - Diagnose why campaigns are underperforming — low conversion, high CPL, bad ads
+* **[realkimbarrett/full-funnel-campaign-orchestrator](https://github.com/realkimbarrett/advertising-skills/tree/main/skills/orchestrators/full-funnel-campaign-orchestrator) ⭐ 753 | 🐛 2 | 📅 2026-03-26** - Coordinate all skills to build a complete ads + funnel campaign end-to-end
+* **[realkimbarrett/generic-language-killer](https://github.com/realkimbarrett/advertising-skills/tree/main/skills/qa/generic-language-killer) ⭐ 753 | 🐛 2 | 📅 2026-03-26** - Remove vague, corporate, or AI-sounding language and replace it with clear, specific, human wording
 
 </details>
 
@@ -1115,58 +1115,58 @@ Official skills from the Flutter team covering layouts, state, navigation, nativ
 
 **Component Skills**
 
-* **[deanpeters/acquisition-channel-advisor](https://github.com/deanpeters/Product-Manager-Skills/tree/main/skills/acquisition-channel-advisor) ⭐ 7,004 | 🐛 9 | 🌐 Shell | 📅 2026-09-01** - Evaluate channels using unit economics and recommend scale/test/kill decisions
-* **[deanpeters/ai-shaped-readiness-advisor](https://github.com/deanpeters/Product-Manager-Skills/tree/main/skills/ai-shaped-readiness-advisor) ⭐ 7,004 | 🐛 9 | 🌐 Shell | 📅 2026-09-01** - Assess automation vs. redesign opportunities across five competencies
-* **[deanpeters/altitude-horizon-framework](https://github.com/deanpeters/Product-Manager-Skills/tree/main/skills/altitude-horizon-framework) ⭐ 7,004 | 🐛 9 | 🌐 Shell | 📅 2026-09-01** - Navigate the PM→Director mindset shift covering scope, time horizons, and failure modes
-* **[deanpeters/business-health-diagnostic](https://github.com/deanpeters/Product-Manager-Skills/tree/main/skills/business-health-diagnostic) ⭐ 7,004 | 🐛 9 | 🌐 Shell | 📅 2026-09-01** - Diagnose SaaS health, identify red flags, and prioritize recovery actions
-* **[deanpeters/company-research](https://github.com/deanpeters/Product-Manager-Skills/tree/main/skills/company-research) ⭐ 7,004 | 🐛 9 | 🌐 Shell | 📅 2026-09-01** - Deep-dive competitor or company analysis
-* **[deanpeters/customer-journey-map](https://github.com/deanpeters/Product-Manager-Skills/tree/main/skills/customer-journey-map) ⭐ 7,004 | 🐛 9 | 🌐 Shell | 📅 2026-09-01** - Map customer experience across touchpoints using the NNGroup framework
-* **[deanpeters/eol-message](https://github.com/deanpeters/Product-Manager-Skills/tree/main/skills/eol-message) ⭐ 7,004 | 🐛 9 | 🌐 Shell | 📅 2026-09-01** - Communicate product or feature deprecation gracefully
-* **[deanpeters/epic-hypothesis](https://github.com/deanpeters/Product-Manager-Skills/tree/main/skills/epic-hypothesis) ⭐ 7,004 | 🐛 9 | 🌐 Shell | 📅 2026-09-01** - Turn initiatives into testable hypotheses with measurable success metrics
-* **[deanpeters/finance-metrics-quickref](https://github.com/deanpeters/Product-Manager-Skills/tree/main/skills/finance-metrics-quickref) ⭐ 7,004 | 🐛 9 | 🌐 Shell | 📅 2026-09-01** - Reference guide for 32+ SaaS finance metrics with formulas and benchmarks
-* **[deanpeters/jobs-to-be-done](https://github.com/deanpeters/Product-Manager-Skills/tree/main/skills/jobs-to-be-done) ⭐ 7,004 | 🐛 9 | 🌐 Shell | 📅 2026-09-01** - Understand customer objectives using the JTBD framework
-* **[deanpeters/pestel-analysis](https://github.com/deanpeters/Product-Manager-Skills/tree/main/skills/pestel-analysis) ⭐ 7,004 | 🐛 9 | 🌐 Shell | 📅 2026-09-01** - Analyze external factors across Political, Economic, Social, Tech, Environmental, and Legal dimensions
-* **[deanpeters/pol-probe](https://github.com/deanpeters/Product-Manager-Skills/tree/main/skills/pol-probe) ⭐ 7,004 | 🐛 9 | 🌐 Shell | 📅 2026-09-01** - Define lightweight validation experiments to test hypotheses
-* **[deanpeters/positioning-statement](https://github.com/deanpeters/Product-Manager-Skills/tree/main/skills/positioning-statement) ⭐ 7,004 | 🐛 9 | 🌐 Shell | 📅 2026-09-01** - Define target audience, problem solved, and differentiation using Geoffrey Moore's framework
-* **[deanpeters/press-release](https://github.com/deanpeters/Product-Manager-Skills/tree/main/skills/press-release) ⭐ 7,004 | 🐛 9 | 🌐 Shell | 📅 2026-09-01** - Clarify product vision with a future press release using Amazon's Working Backwards method
-* **[deanpeters/problem-statement](https://github.com/deanpeters/Product-Manager-Skills/tree/main/skills/problem-statement) ⭐ 7,004 | 🐛 9 | 🌐 Shell | 📅 2026-09-01** - Frame customer problems with evidence before jumping to solutions
-* **[deanpeters/proto-persona](https://github.com/deanpeters/Product-Manager-Skills/tree/main/skills/proto-persona) ⭐ 7,004 | 🐛 9 | 🌐 Shell | 📅 2026-09-01** - Create hypothesis-driven personas before conducting full research
-* **[deanpeters/recommendation-canvas](https://github.com/deanpeters/Product-Manager-Skills/tree/main/skills/recommendation-canvas) ⭐ 7,004 | 🐛 9 | 🌐 Shell | 📅 2026-09-01** - Document AI-powered product recommendations
-* **[deanpeters/saas-economics-efficiency-metrics](https://github.com/deanpeters/Product-Manager-Skills/tree/main/skills/saas-economics-efficiency-metrics) ⭐ 7,004 | 🐛 9 | 🌐 Shell | 📅 2026-09-01** - Calculate unit economics and capital efficiency including CAC, LTV, payback, and Rule of 40
-* **[deanpeters/saas-revenue-growth-metrics](https://github.com/deanpeters/Product-Manager-Skills/tree/main/skills/saas-revenue-growth-metrics) ⭐ 7,004 | 🐛 9 | 🌐 Shell | 📅 2026-09-01** - Track revenue, retention, and growth metrics including MRR/ARR, churn, NRR, and expansion
-* **[deanpeters/storyboard](https://github.com/deanpeters/Product-Manager-Skills/tree/main/skills/storyboard) ⭐ 7,004 | 🐛 9 | 🌐 Shell | 📅 2026-09-01** - Visualize user journeys with 6-frame narrative storyboards
-* **[deanpeters/user-story](https://github.com/deanpeters/Product-Manager-Skills/tree/main/skills/user-story) ⭐ 7,004 | 🐛 9 | 🌐 Shell | 📅 2026-09-01** - Write user stories with acceptance criteria using Mike Cohn and Gherkin formats
-* **[deanpeters/user-story-mapping](https://github.com/deanpeters/Product-Manager-Skills/tree/main/skills/user-story-mapping) ⭐ 7,004 | 🐛 9 | 🌐 Shell | 📅 2026-09-01** - Organize stories by user workflow using Jeff Patton's story mapping approach
-* **[deanpeters/user-story-splitting](https://github.com/deanpeters/Product-Manager-Skills/tree/main/skills/user-story-splitting) ⭐ 7,004 | 🐛 9 | 🌐 Shell | 📅 2026-09-01** - Break down large stories using 8 proven splitting patterns
+* **[deanpeters/acquisition-channel-advisor](https://github.com/deanpeters/Product-Manager-Skills/tree/main/skills/acquisition-channel-advisor) ⭐ 7,017 | 🐛 9 | 🌐 Shell | 📅 2026-09-01** - Evaluate channels using unit economics and recommend scale/test/kill decisions
+* **[deanpeters/ai-shaped-readiness-advisor](https://github.com/deanpeters/Product-Manager-Skills/tree/main/skills/ai-shaped-readiness-advisor) ⭐ 7,017 | 🐛 9 | 🌐 Shell | 📅 2026-09-01** - Assess automation vs. redesign opportunities across five competencies
+* **[deanpeters/altitude-horizon-framework](https://github.com/deanpeters/Product-Manager-Skills/tree/main/skills/altitude-horizon-framework) ⭐ 7,017 | 🐛 9 | 🌐 Shell | 📅 2026-09-01** - Navigate the PM→Director mindset shift covering scope, time horizons, and failure modes
+* **[deanpeters/business-health-diagnostic](https://github.com/deanpeters/Product-Manager-Skills/tree/main/skills/business-health-diagnostic) ⭐ 7,017 | 🐛 9 | 🌐 Shell | 📅 2026-09-01** - Diagnose SaaS health, identify red flags, and prioritize recovery actions
+* **[deanpeters/company-research](https://github.com/deanpeters/Product-Manager-Skills/tree/main/skills/company-research) ⭐ 7,017 | 🐛 9 | 🌐 Shell | 📅 2026-09-01** - Deep-dive competitor or company analysis
+* **[deanpeters/customer-journey-map](https://github.com/deanpeters/Product-Manager-Skills/tree/main/skills/customer-journey-map) ⭐ 7,017 | 🐛 9 | 🌐 Shell | 📅 2026-09-01** - Map customer experience across touchpoints using the NNGroup framework
+* **[deanpeters/eol-message](https://github.com/deanpeters/Product-Manager-Skills/tree/main/skills/eol-message) ⭐ 7,017 | 🐛 9 | 🌐 Shell | 📅 2026-09-01** - Communicate product or feature deprecation gracefully
+* **[deanpeters/epic-hypothesis](https://github.com/deanpeters/Product-Manager-Skills/tree/main/skills/epic-hypothesis) ⭐ 7,017 | 🐛 9 | 🌐 Shell | 📅 2026-09-01** - Turn initiatives into testable hypotheses with measurable success metrics
+* **[deanpeters/finance-metrics-quickref](https://github.com/deanpeters/Product-Manager-Skills/tree/main/skills/finance-metrics-quickref) ⭐ 7,017 | 🐛 9 | 🌐 Shell | 📅 2026-09-01** - Reference guide for 32+ SaaS finance metrics with formulas and benchmarks
+* **[deanpeters/jobs-to-be-done](https://github.com/deanpeters/Product-Manager-Skills/tree/main/skills/jobs-to-be-done) ⭐ 7,017 | 🐛 9 | 🌐 Shell | 📅 2026-09-01** - Understand customer objectives using the JTBD framework
+* **[deanpeters/pestel-analysis](https://github.com/deanpeters/Product-Manager-Skills/tree/main/skills/pestel-analysis) ⭐ 7,017 | 🐛 9 | 🌐 Shell | 📅 2026-09-01** - Analyze external factors across Political, Economic, Social, Tech, Environmental, and Legal dimensions
+* **[deanpeters/pol-probe](https://github.com/deanpeters/Product-Manager-Skills/tree/main/skills/pol-probe) ⭐ 7,017 | 🐛 9 | 🌐 Shell | 📅 2026-09-01** - Define lightweight validation experiments to test hypotheses
+* **[deanpeters/positioning-statement](https://github.com/deanpeters/Product-Manager-Skills/tree/main/skills/positioning-statement) ⭐ 7,017 | 🐛 9 | 🌐 Shell | 📅 2026-09-01** - Define target audience, problem solved, and differentiation using Geoffrey Moore's framework
+* **[deanpeters/press-release](https://github.com/deanpeters/Product-Manager-Skills/tree/main/skills/press-release) ⭐ 7,017 | 🐛 9 | 🌐 Shell | 📅 2026-09-01** - Clarify product vision with a future press release using Amazon's Working Backwards method
+* **[deanpeters/problem-statement](https://github.com/deanpeters/Product-Manager-Skills/tree/main/skills/problem-statement) ⭐ 7,017 | 🐛 9 | 🌐 Shell | 📅 2026-09-01** - Frame customer problems with evidence before jumping to solutions
+* **[deanpeters/proto-persona](https://github.com/deanpeters/Product-Manager-Skills/tree/main/skills/proto-persona) ⭐ 7,017 | 🐛 9 | 🌐 Shell | 📅 2026-09-01** - Create hypothesis-driven personas before conducting full research
+* **[deanpeters/recommendation-canvas](https://github.com/deanpeters/Product-Manager-Skills/tree/main/skills/recommendation-canvas) ⭐ 7,017 | 🐛 9 | 🌐 Shell | 📅 2026-09-01** - Document AI-powered product recommendations
+* **[deanpeters/saas-economics-efficiency-metrics](https://github.com/deanpeters/Product-Manager-Skills/tree/main/skills/saas-economics-efficiency-metrics) ⭐ 7,017 | 🐛 9 | 🌐 Shell | 📅 2026-09-01** - Calculate unit economics and capital efficiency including CAC, LTV, payback, and Rule of 40
+* **[deanpeters/saas-revenue-growth-metrics](https://github.com/deanpeters/Product-Manager-Skills/tree/main/skills/saas-revenue-growth-metrics) ⭐ 7,017 | 🐛 9 | 🌐 Shell | 📅 2026-09-01** - Track revenue, retention, and growth metrics including MRR/ARR, churn, NRR, and expansion
+* **[deanpeters/storyboard](https://github.com/deanpeters/Product-Manager-Skills/tree/main/skills/storyboard) ⭐ 7,017 | 🐛 9 | 🌐 Shell | 📅 2026-09-01** - Visualize user journeys with 6-frame narrative storyboards
+* **[deanpeters/user-story](https://github.com/deanpeters/Product-Manager-Skills/tree/main/skills/user-story) ⭐ 7,017 | 🐛 9 | 🌐 Shell | 📅 2026-09-01** - Write user stories with acceptance criteria using Mike Cohn and Gherkin formats
+* **[deanpeters/user-story-mapping](https://github.com/deanpeters/Product-Manager-Skills/tree/main/skills/user-story-mapping) ⭐ 7,017 | 🐛 9 | 🌐 Shell | 📅 2026-09-01** - Organize stories by user workflow using Jeff Patton's story mapping approach
+* **[deanpeters/user-story-splitting](https://github.com/deanpeters/Product-Manager-Skills/tree/main/skills/user-story-splitting) ⭐ 7,017 | 🐛 9 | 🌐 Shell | 📅 2026-09-01** - Break down large stories using 8 proven splitting patterns
 
 **Interactive Skills**
 
-* **[deanpeters/context-engineering-advisor](https://github.com/deanpeters/Product-Manager-Skills/tree/main/skills/context-engineering-advisor) ⭐ 7,004 | 🐛 9 | 🌐 Shell | 📅 2026-09-01** - Diagnose context stuffing vs. engineering and guide memory and retrieval design
-* **[deanpeters/customer-journey-mapping-workshop](https://github.com/deanpeters/Product-Manager-Skills/tree/main/skills/customer-journey-mapping-workshop) ⭐ 7,004 | 🐛 9 | 🌐 Shell | 📅 2026-09-01** - Guide journey mapping sessions with pain point identification
-* **[deanpeters/director-readiness-advisor](https://github.com/deanpeters/Product-Manager-Skills/tree/main/skills/director-readiness-advisor) ⭐ 7,004 | 🐛 9 | 🌐 Shell | 📅 2026-09-01** - Coach the PM→Director transition across four key situations
-* **[deanpeters/discovery-interview-prep](https://github.com/deanpeters/Product-Manager-Skills/tree/main/skills/discovery-interview-prep) ⭐ 7,004 | 🐛 9 | 🌐 Shell | 📅 2026-09-01** - Plan customer interviews using Mom Test style based on research goals
-* **[deanpeters/epic-breakdown-advisor](https://github.com/deanpeters/Product-Manager-Skills/tree/main/skills/epic-breakdown-advisor) ⭐ 7,004 | 🐛 9 | 🌐 Shell | 📅 2026-09-01** - Split epics into stories using Richard Lawrence's 9 splitting patterns
-* **[deanpeters/feature-investment-advisor](https://github.com/deanpeters/Product-Manager-Skills/tree/main/skills/feature-investment-advisor) ⭐ 7,004 | 🐛 9 | 🌐 Shell | 📅 2026-09-01** - Evaluate features using ROI and strategic value scoring
-* **[deanpeters/finance-based-pricing-advisor](https://github.com/deanpeters/Product-Manager-Skills/tree/main/skills/finance-based-pricing-advisor) ⭐ 7,004 | 🐛 9 | 🌐 Shell | 📅 2026-09-01** - Evaluate pricing changes using financial impact analysis
-* **[deanpeters/lean-ux-canvas](https://github.com/deanpeters/Product-Manager-Skills/tree/main/skills/lean-ux-canvas) ⭐ 7,004 | 🐛 9 | 🌐 Shell | 📅 2026-09-01** - Set up hypothesis-driven planning using Jeff Gothelf's Lean UX Canvas v2
-* **[deanpeters/opportunity-solution-tree](https://github.com/deanpeters/Product-Manager-Skills/tree/main/skills/opportunity-solution-tree) ⭐ 7,004 | 🐛 9 | 🌐 Shell | 📅 2026-09-01** - Generate opportunities and solutions and recommend proof-of-concept tests
-* **[deanpeters/pol-probe-advisor](https://github.com/deanpeters/Product-Manager-Skills/tree/main/skills/pol-probe-advisor) ⭐ 7,004 | 🐛 9 | 🌐 Shell | 📅 2026-09-01** - Recommend prototype type: Feasibility, Task-Focused, Narrative, Synthetic, or Vibe
-* **[deanpeters/positioning-workshop](https://github.com/deanpeters/Product-Manager-Skills/tree/main/skills/positioning-workshop) ⭐ 7,004 | 🐛 9 | 🌐 Shell | 📅 2026-09-01** - Guide positioning definition with adaptive discovery questions
-* **[deanpeters/prioritization-advisor](https://github.com/deanpeters/Product-Manager-Skills/tree/main/skills/prioritization-advisor) ⭐ 7,004 | 🐛 9 | 🌐 Shell | 📅 2026-09-01** - Recommend the right prioritization framework (RICE, ICE, Kano, etc.) for your situation
-* **[deanpeters/problem-framing-canvas](https://github.com/deanpeters/Product-Manager-Skills/tree/main/skills/problem-framing-canvas) ⭐ 7,004 | 🐛 9 | 🌐 Shell | 📅 2026-09-01** - Lead through MITRE Problem Framing: Look Inward, Outward, and Reframe
-* **[deanpeters/tam-sam-som-calculator](https://github.com/deanpeters/Product-Manager-Skills/tree/main/skills/tam-sam-som-calculator) ⭐ 7,004 | 🐛 9 | 🌐 Shell | 📅 2026-09-01** - Project market size with real-world data and citations
-* **[deanpeters/user-story-mapping-workshop](https://github.com/deanpeters/Product-Manager-Skills/tree/main/skills/user-story-mapping-workshop) ⭐ 7,004 | 🐛 9 | 🌐 Shell | 📅 2026-09-01** - Walk through creating story maps with backbone and release slices
-* **[deanpeters/vp-cpo-readiness-advisor](https://github.com/deanpeters/Product-Manager-Skills/tree/main/skills/vp-cpo-readiness-advisor) ⭐ 7,004 | 🐛 9 | 🌐 Shell | 📅 2026-09-01** - Coach the Director→VP/CPO transition including a CEO interview framework
-* **[deanpeters/workshop-facilitation](https://github.com/deanpeters/Product-Manager-Skills/tree/main/skills/workshop-facilitation) ⭐ 7,004 | 🐛 9 | 🌐 Shell | 📅 2026-09-01** - Add step-by-step facilitation with numbered recommendations to any workshop
+* **[deanpeters/context-engineering-advisor](https://github.com/deanpeters/Product-Manager-Skills/tree/main/skills/context-engineering-advisor) ⭐ 7,017 | 🐛 9 | 🌐 Shell | 📅 2026-09-01** - Diagnose context stuffing vs. engineering and guide memory and retrieval design
+* **[deanpeters/customer-journey-mapping-workshop](https://github.com/deanpeters/Product-Manager-Skills/tree/main/skills/customer-journey-mapping-workshop) ⭐ 7,017 | 🐛 9 | 🌐 Shell | 📅 2026-09-01** - Guide journey mapping sessions with pain point identification
+* **[deanpeters/director-readiness-advisor](https://github.com/deanpeters/Product-Manager-Skills/tree/main/skills/director-readiness-advisor) ⭐ 7,017 | 🐛 9 | 🌐 Shell | 📅 2026-09-01** - Coach the PM→Director transition across four key situations
+* **[deanpeters/discovery-interview-prep](https://github.com/deanpeters/Product-Manager-Skills/tree/main/skills/discovery-interview-prep) ⭐ 7,017 | 🐛 9 | 🌐 Shell | 📅 2026-09-01** - Plan customer interviews using Mom Test style based on research goals
+* **[deanpeters/epic-breakdown-advisor](https://github.com/deanpeters/Product-Manager-Skills/tree/main/skills/epic-breakdown-advisor) ⭐ 7,017 | 🐛 9 | 🌐 Shell | 📅 2026-09-01** - Split epics into stories using Richard Lawrence's 9 splitting patterns
+* **[deanpeters/feature-investment-advisor](https://github.com/deanpeters/Product-Manager-Skills/tree/main/skills/feature-investment-advisor) ⭐ 7,017 | 🐛 9 | 🌐 Shell | 📅 2026-09-01** - Evaluate features using ROI and strategic value scoring
+* **[deanpeters/finance-based-pricing-advisor](https://github.com/deanpeters/Product-Manager-Skills/tree/main/skills/finance-based-pricing-advisor) ⭐ 7,017 | 🐛 9 | 🌐 Shell | 📅 2026-09-01** - Evaluate pricing changes using financial impact analysis
+* **[deanpeters/lean-ux-canvas](https://github.com/deanpeters/Product-Manager-Skills/tree/main/skills/lean-ux-canvas) ⭐ 7,017 | 🐛 9 | 🌐 Shell | 📅 2026-09-01** - Set up hypothesis-driven planning using Jeff Gothelf's Lean UX Canvas v2
+* **[deanpeters/opportunity-solution-tree](https://github.com/deanpeters/Product-Manager-Skills/tree/main/skills/opportunity-solution-tree) ⭐ 7,017 | 🐛 9 | 🌐 Shell | 📅 2026-09-01** - Generate opportunities and solutions and recommend proof-of-concept tests
+* **[deanpeters/pol-probe-advisor](https://github.com/deanpeters/Product-Manager-Skills/tree/main/skills/pol-probe-advisor) ⭐ 7,017 | 🐛 9 | 🌐 Shell | 📅 2026-09-01** - Recommend prototype type: Feasibility, Task-Focused, Narrative, Synthetic, or Vibe
+* **[deanpeters/positioning-workshop](https://github.com/deanpeters/Product-Manager-Skills/tree/main/skills/positioning-workshop) ⭐ 7,017 | 🐛 9 | 🌐 Shell | 📅 2026-09-01** - Guide positioning definition with adaptive discovery questions
+* **[deanpeters/prioritization-advisor](https://github.com/deanpeters/Product-Manager-Skills/tree/main/skills/prioritization-advisor) ⭐ 7,017 | 🐛 9 | 🌐 Shell | 📅 2026-09-01** - Recommend the right prioritization framework (RICE, ICE, Kano, etc.) for your situation
+* **[deanpeters/problem-framing-canvas](https://github.com/deanpeters/Product-Manager-Skills/tree/main/skills/problem-framing-canvas) ⭐ 7,017 | 🐛 9 | 🌐 Shell | 📅 2026-09-01** - Lead through MITRE Problem Framing: Look Inward, Outward, and Reframe
+* **[deanpeters/tam-sam-som-calculator](https://github.com/deanpeters/Product-Manager-Skills/tree/main/skills/tam-sam-som-calculator) ⭐ 7,017 | 🐛 9 | 🌐 Shell | 📅 2026-09-01** - Project market size with real-world data and citations
+* **[deanpeters/user-story-mapping-workshop](https://github.com/deanpeters/Product-Manager-Skills/tree/main/skills/user-story-mapping-workshop) ⭐ 7,017 | 🐛 9 | 🌐 Shell | 📅 2026-09-01** - Walk through creating story maps with backbone and release slices
+* **[deanpeters/vp-cpo-readiness-advisor](https://github.com/deanpeters/Product-Manager-Skills/tree/main/skills/vp-cpo-readiness-advisor) ⭐ 7,017 | 🐛 9 | 🌐 Shell | 📅 2026-09-01** - Coach the Director→VP/CPO transition including a CEO interview framework
+* **[deanpeters/workshop-facilitation](https://github.com/deanpeters/Product-Manager-Skills/tree/main/skills/workshop-facilitation) ⭐ 7,017 | 🐛 9 | 🌐 Shell | 📅 2026-09-01** - Add step-by-step facilitation with numbered recommendations to any workshop
 
 **Workflow Skills**
 
-* **[deanpeters/discovery-process](https://github.com/deanpeters/Product-Manager-Skills/tree/main/skills/discovery-process) ⭐ 7,004 | 🐛 9 | 🌐 Shell | 📅 2026-09-01** - Full discovery cycle: frame problem → research → synthesize → validate (3-4 weeks)
-* **[deanpeters/executive-onboarding-playbook](https://github.com/deanpeters/Product-Manager-Skills/tree/main/skills/executive-onboarding-playbook) ⭐ 7,004 | 🐛 9 | 🌐 Shell | 📅 2026-09-01** - 30-60-90 day diagnostic playbook for VP/CPO onboarding transitions
-* **[deanpeters/prd-development](https://github.com/deanpeters/Product-Manager-Skills/tree/main/skills/prd-development) ⭐ 7,004 | 🐛 9 | 🌐 Shell | 📅 2026-09-01** - Structured PRD process: problem → personas → solution → metrics → stories (2-4 days)
-* **[deanpeters/product-strategy-session](https://github.com/deanpeters/Product-Manager-Skills/tree/main/skills/product-strategy-session) ⭐ 7,004 | 🐛 9 | 🌐 Shell | 📅 2026-09-01** - Full strategy session: positioning → framing → exploration → roadmap (2-4 weeks)
-* **[deanpeters/roadmap-planning](https://github.com/deanpeters/Product-Manager-Skills/tree/main/skills/roadmap-planning) ⭐ 7,004 | 🐛 9 | 🌐 Shell | 📅 2026-09-01** - Strategic roadmap process: inputs → epics → prioritize → sequence → communicate (1-2 weeks)
-* **[deanpeters/skill-authoring-workflow](https://github.com/deanpeters/Product-Manager-Skills/tree/main/skills/skill-authoring-workflow) ⭐ 7,004 | 🐛 9 | 🌐 Shell | 📅 2026-09-01** - Meta workflow for authoring skills: choose path → validate → update docs → package
+* **[deanpeters/discovery-process](https://github.com/deanpeters/Product-Manager-Skills/tree/main/skills/discovery-process) ⭐ 7,017 | 🐛 9 | 🌐 Shell | 📅 2026-09-01** - Full discovery cycle: frame problem → research → synthesize → validate (3-4 weeks)
+* **[deanpeters/executive-onboarding-playbook](https://github.com/deanpeters/Product-Manager-Skills/tree/main/skills/executive-onboarding-playbook) ⭐ 7,017 | 🐛 9 | 🌐 Shell | 📅 2026-09-01** - 30-60-90 day diagnostic playbook for VP/CPO onboarding transitions
+* **[deanpeters/prd-development](https://github.com/deanpeters/Product-Manager-Skills/tree/main/skills/prd-development) ⭐ 7,017 | 🐛 9 | 🌐 Shell | 📅 2026-09-01** - Structured PRD process: problem → personas → solution → metrics → stories (2-4 days)
+* **[deanpeters/product-strategy-session](https://github.com/deanpeters/Product-Manager-Skills/tree/main/skills/product-strategy-session) ⭐ 7,017 | 🐛 9 | 🌐 Shell | 📅 2026-09-01** - Full strategy session: positioning → framing → exploration → roadmap (2-4 weeks)
+* **[deanpeters/roadmap-planning](https://github.com/deanpeters/Product-Manager-Skills/tree/main/skills/roadmap-planning) ⭐ 7,017 | 🐛 9 | 🌐 Shell | 📅 2026-09-01** - Strategic roadmap process: inputs → epics → prioritize → sequence → communicate (1-2 weeks)
+* **[deanpeters/skill-authoring-workflow](https://github.com/deanpeters/Product-Manager-Skills/tree/main/skills/skill-authoring-workflow) ⭐ 7,017 | 🐛 9 | 🌐 Shell | 📅 2026-09-01** - Meta workflow for authoring skills: choose path → validate → update docs → package
 
 </details>
 
@@ -1177,92 +1177,92 @@ Official skills from the Flutter team covering layouts, state, navigation, nativ
 
 **Data Analytics**
 
-* **[phuryn/ab-test-analysis](https://github.com/phuryn/pm-skills/tree/main/pm-data-analytics/skills/ab-test-analysis) ⭐ 26,438 | 🐛 41 | 📅 2026-09-14** - Analyze A/B test results with statistical significance and recommendations
-* **[phuryn/cohort-analysis](https://github.com/phuryn/pm-skills/tree/main/pm-data-analytics/skills/cohort-analysis) ⭐ 26,438 | 🐛 41 | 📅 2026-09-14** - Cohort retention curves, feature adoption, and segment insights
-* **[phuryn/sql-queries](https://github.com/phuryn/pm-skills/tree/main/pm-data-analytics/skills/sql-queries) ⭐ 26,438 | 🐛 41 | 📅 2026-09-14** - Generate SQL queries from natural language across major dialects
+* **[phuryn/ab-test-analysis](https://github.com/phuryn/pm-skills/tree/main/pm-data-analytics/skills/ab-test-analysis) ⭐ 26,460 | 🐛 41 | 📅 2026-09-14** - Analyze A/B test results with statistical significance and recommendations
+* **[phuryn/cohort-analysis](https://github.com/phuryn/pm-skills/tree/main/pm-data-analytics/skills/cohort-analysis) ⭐ 26,460 | 🐛 41 | 📅 2026-09-14** - Cohort retention curves, feature adoption, and segment insights
+* **[phuryn/sql-queries](https://github.com/phuryn/pm-skills/tree/main/pm-data-analytics/skills/sql-queries) ⭐ 26,460 | 🐛 41 | 📅 2026-09-14** - Generate SQL queries from natural language across major dialects
 
 **Execution**
 
-* **[phuryn/brainstorm-okrs](https://github.com/phuryn/pm-skills/tree/main/pm-execution/skills/brainstorm-okrs) ⭐ 26,438 | 🐛 41 | 📅 2026-09-14** - Brainstorm team OKRs aligned with company objectives
-* **[phuryn/create-prd](https://github.com/phuryn/pm-skills/tree/main/pm-execution/skills/create-prd) ⭐ 26,438 | 🐛 41 | 📅 2026-09-14** - Create a PRD with 8-section template covering problem to release
-* **[phuryn/dummy-dataset](https://github.com/phuryn/pm-skills/tree/main/pm-execution/skills/dummy-dataset) ⭐ 26,438 | 🐛 41 | 📅 2026-09-14** - Generate realistic dummy datasets in CSV, JSON, or SQL
-* **[phuryn/job-stories](https://github.com/phuryn/pm-skills/tree/main/pm-execution/skills/job-stories) ⭐ 26,438 | 🐛 41 | 📅 2026-09-14** - Create job stories with acceptance criteria in JTBD format
-* **[phuryn/outcome-roadmap](https://github.com/phuryn/pm-skills/tree/main/pm-execution/skills/outcome-roadmap) ⭐ 26,438 | 🐛 41 | 📅 2026-09-14** - Transform output roadmaps into outcome-focused strategic plans
-* **[phuryn/pre-mortem](https://github.com/phuryn/pm-skills/tree/main/pm-execution/skills/pre-mortem) ⭐ 26,438 | 🐛 41 | 📅 2026-09-14** - Run pre-mortem risk analysis on PRDs and launch plans
-* **[phuryn/prioritization-frameworks](https://github.com/phuryn/pm-skills/tree/main/pm-execution/skills/prioritization-frameworks) ⭐ 26,438 | 🐛 41 | 📅 2026-09-14** - Reference guide to 9 prioritization frameworks with templates
-* **[phuryn/release-notes](https://github.com/phuryn/pm-skills/tree/main/pm-execution/skills/release-notes) ⭐ 26,438 | 🐛 41 | 📅 2026-09-14** - Generate user-facing release notes from tickets or changelogs
-* **[phuryn/retro](https://github.com/phuryn/pm-skills/tree/main/pm-execution/skills/retro) ⭐ 26,438 | 🐛 41 | 📅 2026-09-14** - Facilitate structured sprint retrospectives with action items
-* **[phuryn/sprint-plan](https://github.com/phuryn/pm-skills/tree/main/pm-execution/skills/sprint-plan) ⭐ 26,438 | 🐛 41 | 📅 2026-09-14** - Plan sprints with capacity, story selection, and risk mapping
-* **[phuryn/stakeholder-map](https://github.com/phuryn/pm-skills/tree/main/pm-execution/skills/stakeholder-map) ⭐ 26,438 | 🐛 41 | 📅 2026-09-14** - Build stakeholder maps with power/interest grid and comms plan
-* **[phuryn/summarize-meeting](https://github.com/phuryn/pm-skills/tree/main/pm-execution/skills/summarize-meeting) ⭐ 26,438 | 🐛 41 | 📅 2026-09-14** - Summarize meeting transcripts into structured notes and actions
-* **[phuryn/test-scenarios](https://github.com/phuryn/pm-skills/tree/main/pm-execution/skills/test-scenarios) ⭐ 26,438 | 🐛 41 | 📅 2026-09-14** - Create comprehensive test scenarios from user stories
-* **[phuryn/user-stories](https://github.com/phuryn/pm-skills/tree/main/pm-execution/skills/user-stories) ⭐ 26,438 | 🐛 41 | 📅 2026-09-14** - Create INVEST-compliant user stories with 3 C's structure
-* **[phuryn/wwas](https://github.com/phuryn/pm-skills/tree/main/pm-execution/skills/wwas) ⭐ 26,438 | 🐛 41 | 📅 2026-09-14** - Create backlog items in Why-What-Acceptance format
+* **[phuryn/brainstorm-okrs](https://github.com/phuryn/pm-skills/tree/main/pm-execution/skills/brainstorm-okrs) ⭐ 26,460 | 🐛 41 | 📅 2026-09-14** - Brainstorm team OKRs aligned with company objectives
+* **[phuryn/create-prd](https://github.com/phuryn/pm-skills/tree/main/pm-execution/skills/create-prd) ⭐ 26,460 | 🐛 41 | 📅 2026-09-14** - Create a PRD with 8-section template covering problem to release
+* **[phuryn/dummy-dataset](https://github.com/phuryn/pm-skills/tree/main/pm-execution/skills/dummy-dataset) ⭐ 26,460 | 🐛 41 | 📅 2026-09-14** - Generate realistic dummy datasets in CSV, JSON, or SQL
+* **[phuryn/job-stories](https://github.com/phuryn/pm-skills/tree/main/pm-execution/skills/job-stories) ⭐ 26,460 | 🐛 41 | 📅 2026-09-14** - Create job stories with acceptance criteria in JTBD format
+* **[phuryn/outcome-roadmap](https://github.com/phuryn/pm-skills/tree/main/pm-execution/skills/outcome-roadmap) ⭐ 26,460 | 🐛 41 | 📅 2026-09-14** - Transform output roadmaps into outcome-focused strategic plans
+* **[phuryn/pre-mortem](https://github.com/phuryn/pm-skills/tree/main/pm-execution/skills/pre-mortem) ⭐ 26,460 | 🐛 41 | 📅 2026-09-14** - Run pre-mortem risk analysis on PRDs and launch plans
+* **[phuryn/prioritization-frameworks](https://github.com/phuryn/pm-skills/tree/main/pm-execution/skills/prioritization-frameworks) ⭐ 26,460 | 🐛 41 | 📅 2026-09-14** - Reference guide to 9 prioritization frameworks with templates
+* **[phuryn/release-notes](https://github.com/phuryn/pm-skills/tree/main/pm-execution/skills/release-notes) ⭐ 26,460 | 🐛 41 | 📅 2026-09-14** - Generate user-facing release notes from tickets or changelogs
+* **[phuryn/retro](https://github.com/phuryn/pm-skills/tree/main/pm-execution/skills/retro) ⭐ 26,460 | 🐛 41 | 📅 2026-09-14** - Facilitate structured sprint retrospectives with action items
+* **[phuryn/sprint-plan](https://github.com/phuryn/pm-skills/tree/main/pm-execution/skills/sprint-plan) ⭐ 26,460 | 🐛 41 | 📅 2026-09-14** - Plan sprints with capacity, story selection, and risk mapping
+* **[phuryn/stakeholder-map](https://github.com/phuryn/pm-skills/tree/main/pm-execution/skills/stakeholder-map) ⭐ 26,460 | 🐛 41 | 📅 2026-09-14** - Build stakeholder maps with power/interest grid and comms plan
+* **[phuryn/summarize-meeting](https://github.com/phuryn/pm-skills/tree/main/pm-execution/skills/summarize-meeting) ⭐ 26,460 | 🐛 41 | 📅 2026-09-14** - Summarize meeting transcripts into structured notes and actions
+* **[phuryn/test-scenarios](https://github.com/phuryn/pm-skills/tree/main/pm-execution/skills/test-scenarios) ⭐ 26,460 | 🐛 41 | 📅 2026-09-14** - Create comprehensive test scenarios from user stories
+* **[phuryn/user-stories](https://github.com/phuryn/pm-skills/tree/main/pm-execution/skills/user-stories) ⭐ 26,460 | 🐛 41 | 📅 2026-09-14** - Create INVEST-compliant user stories with 3 C's structure
+* **[phuryn/wwas](https://github.com/phuryn/pm-skills/tree/main/pm-execution/skills/wwas) ⭐ 26,460 | 🐛 41 | 📅 2026-09-14** - Create backlog items in Why-What-Acceptance format
 
 **Go-to-Market**
 
-* **[phuryn/beachhead-segment](https://github.com/phuryn/pm-skills/tree/main/pm-go-to-market/skills/beachhead-segment) ⭐ 26,438 | 🐛 41 | 📅 2026-09-14** - Identify the first beachhead market segment for product launch
-* **[phuryn/competitive-battlecard](https://github.com/phuryn/pm-skills/tree/main/pm-go-to-market/skills/competitive-battlecard) ⭐ 26,438 | 🐛 41 | 📅 2026-09-14** - Create sales-ready battlecards against specific competitors
-* **[phuryn/growth-loops](https://github.com/phuryn/pm-skills/tree/main/pm-go-to-market/skills/growth-loops) ⭐ 26,438 | 🐛 41 | 📅 2026-09-14** - Identify growth loops across 5 flywheel types for traction
-* **[phuryn/gtm-motions](https://github.com/phuryn/pm-skills/tree/main/pm-go-to-market/skills/gtm-motions) ⭐ 26,438 | 🐛 41 | 📅 2026-09-14** - Identify best GTM motions across 7 types including PLG and ABM
-* **[phuryn/gtm-strategy](https://github.com/phuryn/pm-skills/tree/main/pm-go-to-market/skills/gtm-strategy) ⭐ 26,438 | 🐛 41 | 📅 2026-09-14** - Create GTM strategy with channels, messaging, and launch timeline
-* **[phuryn/ideal-customer-profile](https://github.com/phuryn/pm-skills/tree/main/pm-go-to-market/skills/ideal-customer-profile) ⭐ 26,438 | 🐛 41 | 📅 2026-09-14** - Identify ICP with demographics, behaviors, and JTBD
+* **[phuryn/beachhead-segment](https://github.com/phuryn/pm-skills/tree/main/pm-go-to-market/skills/beachhead-segment) ⭐ 26,460 | 🐛 41 | 📅 2026-09-14** - Identify the first beachhead market segment for product launch
+* **[phuryn/competitive-battlecard](https://github.com/phuryn/pm-skills/tree/main/pm-go-to-market/skills/competitive-battlecard) ⭐ 26,460 | 🐛 41 | 📅 2026-09-14** - Create sales-ready battlecards against specific competitors
+* **[phuryn/growth-loops](https://github.com/phuryn/pm-skills/tree/main/pm-go-to-market/skills/growth-loops) ⭐ 26,460 | 🐛 41 | 📅 2026-09-14** - Identify growth loops across 5 flywheel types for traction
+* **[phuryn/gtm-motions](https://github.com/phuryn/pm-skills/tree/main/pm-go-to-market/skills/gtm-motions) ⭐ 26,460 | 🐛 41 | 📅 2026-09-14** - Identify best GTM motions across 7 types including PLG and ABM
+* **[phuryn/gtm-strategy](https://github.com/phuryn/pm-skills/tree/main/pm-go-to-market/skills/gtm-strategy) ⭐ 26,460 | 🐛 41 | 📅 2026-09-14** - Create GTM strategy with channels, messaging, and launch timeline
+* **[phuryn/ideal-customer-profile](https://github.com/phuryn/pm-skills/tree/main/pm-go-to-market/skills/ideal-customer-profile) ⭐ 26,460 | 🐛 41 | 📅 2026-09-14** - Identify ICP with demographics, behaviors, and JTBD
 
 **Market Research**
 
-* **[phuryn/competitor-analysis](https://github.com/phuryn/pm-skills/tree/main/pm-market-research/skills/competitor-analysis) ⭐ 26,438 | 🐛 41 | 📅 2026-09-14** - Analyze competitors with strengths, weaknesses, and differentiation
-* **[phuryn/customer-journey-map](https://github.com/phuryn/pm-skills/tree/main/pm-market-research/skills/customer-journey-map) ⭐ 26,438 | 🐛 41 | 📅 2026-09-14** - Map customer journeys with touchpoints, emotions, and opportunities
-* **[phuryn/market-segments](https://github.com/phuryn/pm-skills/tree/main/pm-market-research/skills/market-segments) ⭐ 26,438 | 🐛 41 | 📅 2026-09-14** - Identify 3-5 customer segments with JTBD and product fit
-* **[phuryn/market-sizing](https://github.com/phuryn/pm-skills/tree/main/pm-market-research/skills/market-sizing) ⭐ 26,438 | 🐛 41 | 📅 2026-09-14** - Estimate TAM, SAM, SOM with top-down and bottom-up approaches
-* **[phuryn/sentiment-analysis](https://github.com/phuryn/pm-skills/tree/main/pm-market-research/skills/sentiment-analysis) ⭐ 26,438 | 🐛 41 | 📅 2026-09-14** - Analyze user feedback with sentiment scores and JTBD insights
-* **[phuryn/user-personas](https://github.com/phuryn/pm-skills/tree/main/pm-market-research/skills/user-personas) ⭐ 26,438 | 🐛 41 | 📅 2026-09-14** - Create 3 user personas with JTBD, pains, and gains
-* **[phuryn/user-segmentation](https://github.com/phuryn/pm-skills/tree/main/pm-market-research/skills/user-segmentation) ⭐ 26,438 | 🐛 41 | 📅 2026-09-14** - Segment users by behavior, JTBD, and needs from feedback data
+* **[phuryn/competitor-analysis](https://github.com/phuryn/pm-skills/tree/main/pm-market-research/skills/competitor-analysis) ⭐ 26,460 | 🐛 41 | 📅 2026-09-14** - Analyze competitors with strengths, weaknesses, and differentiation
+* **[phuryn/customer-journey-map](https://github.com/phuryn/pm-skills/tree/main/pm-market-research/skills/customer-journey-map) ⭐ 26,460 | 🐛 41 | 📅 2026-09-14** - Map customer journeys with touchpoints, emotions, and opportunities
+* **[phuryn/market-segments](https://github.com/phuryn/pm-skills/tree/main/pm-market-research/skills/market-segments) ⭐ 26,460 | 🐛 41 | 📅 2026-09-14** - Identify 3-5 customer segments with JTBD and product fit
+* **[phuryn/market-sizing](https://github.com/phuryn/pm-skills/tree/main/pm-market-research/skills/market-sizing) ⭐ 26,460 | 🐛 41 | 📅 2026-09-14** - Estimate TAM, SAM, SOM with top-down and bottom-up approaches
+* **[phuryn/sentiment-analysis](https://github.com/phuryn/pm-skills/tree/main/pm-market-research/skills/sentiment-analysis) ⭐ 26,460 | 🐛 41 | 📅 2026-09-14** - Analyze user feedback with sentiment scores and JTBD insights
+* **[phuryn/user-personas](https://github.com/phuryn/pm-skills/tree/main/pm-market-research/skills/user-personas) ⭐ 26,460 | 🐛 41 | 📅 2026-09-14** - Create 3 user personas with JTBD, pains, and gains
+* **[phuryn/user-segmentation](https://github.com/phuryn/pm-skills/tree/main/pm-market-research/skills/user-segmentation) ⭐ 26,460 | 🐛 41 | 📅 2026-09-14** - Segment users by behavior, JTBD, and needs from feedback data
 
 **Marketing & Growth**
 
-* **[phuryn/marketing-ideas](https://github.com/phuryn/pm-skills/tree/main/pm-marketing-growth/skills/marketing-ideas) ⭐ 26,438 | 🐛 41 | 📅 2026-09-14** - Generate 5 creative, cost-effective marketing ideas with rationale
-* **[phuryn/north-star-metric](https://github.com/phuryn/pm-skills/tree/main/pm-marketing-growth/skills/north-star-metric) ⭐ 26,438 | 🐛 41 | 📅 2026-09-14** - Define North Star Metric and input metrics constellation
-* **[phuryn/positioning-ideas](https://github.com/phuryn/pm-skills/tree/main/pm-marketing-growth/skills/positioning-ideas) ⭐ 26,438 | 🐛 41 | 📅 2026-09-14** - Brainstorm positioning ideas differentiated from competitors
-* **[phuryn/product-name](https://github.com/phuryn/pm-skills/tree/main/pm-marketing-growth/skills/product-name) ⭐ 26,438 | 🐛 41 | 📅 2026-09-14** - Brainstorm 5 memorable product names aligned to brand values
-* **[phuryn/value-prop-statements](https://github.com/phuryn/pm-skills/tree/main/pm-marketing-growth/skills/value-prop-statements) ⭐ 26,438 | 🐛 41 | 📅 2026-09-14** - Generate value prop statements for marketing, sales, and onboarding
+* **[phuryn/marketing-ideas](https://github.com/phuryn/pm-skills/tree/main/pm-marketing-growth/skills/marketing-ideas) ⭐ 26,460 | 🐛 41 | 📅 2026-09-14** - Generate 5 creative, cost-effective marketing ideas with rationale
+* **[phuryn/north-star-metric](https://github.com/phuryn/pm-skills/tree/main/pm-marketing-growth/skills/north-star-metric) ⭐ 26,460 | 🐛 41 | 📅 2026-09-14** - Define North Star Metric and input metrics constellation
+* **[phuryn/positioning-ideas](https://github.com/phuryn/pm-skills/tree/main/pm-marketing-growth/skills/positioning-ideas) ⭐ 26,460 | 🐛 41 | 📅 2026-09-14** - Brainstorm positioning ideas differentiated from competitors
+* **[phuryn/product-name](https://github.com/phuryn/pm-skills/tree/main/pm-marketing-growth/skills/product-name) ⭐ 26,460 | 🐛 41 | 📅 2026-09-14** - Brainstorm 5 memorable product names aligned to brand values
+* **[phuryn/value-prop-statements](https://github.com/phuryn/pm-skills/tree/main/pm-marketing-growth/skills/value-prop-statements) ⭐ 26,460 | 🐛 41 | 📅 2026-09-14** - Generate value prop statements for marketing, sales, and onboarding
 
 **Product Discovery**
 
-* **[phuryn/analyze-feature-requests](https://github.com/phuryn/pm-skills/tree/main/pm-product-discovery/skills/analyze-feature-requests) ⭐ 26,438 | 🐛 41 | 📅 2026-09-14** - Prioritize feature requests by theme, impact, effort, and risk
-* **[phuryn/brainstorm-experiments-existing](https://github.com/phuryn/pm-skills/tree/main/pm-product-discovery/skills/brainstorm-experiments-existing) ⭐ 26,438 | 🐛 41 | 📅 2026-09-14** - Design experiments to test assumptions for existing products
-* **[phuryn/brainstorm-experiments-new](https://github.com/phuryn/pm-skills/tree/main/pm-product-discovery/skills/brainstorm-experiments-new) ⭐ 26,438 | 🐛 41 | 📅 2026-09-14** - Design lean pretotypes for new product validation
-* **[phuryn/brainstorm-ideas-existing](https://github.com/phuryn/pm-skills/tree/main/pm-product-discovery/skills/brainstorm-ideas-existing) ⭐ 26,438 | 🐛 41 | 📅 2026-09-14** - Brainstorm product ideas from PM, Designer, Engineer perspectives
-* **[phuryn/brainstorm-ideas-new](https://github.com/phuryn/pm-skills/tree/main/pm-product-discovery/skills/brainstorm-ideas-new) ⭐ 26,438 | 🐛 41 | 📅 2026-09-14** - Brainstorm feature ideas for new products in early discovery
-* **[phuryn/identify-assumptions-existing](https://github.com/phuryn/pm-skills/tree/main/pm-product-discovery/skills/identify-assumptions-existing) ⭐ 26,438 | 🐛 41 | 📅 2026-09-14** - Identify risky assumptions across Value, Usability, Viability, Feasibility
-* **[phuryn/identify-assumptions-new](https://github.com/phuryn/pm-skills/tree/main/pm-product-discovery/skills/identify-assumptions-new) ⭐ 26,438 | 🐛 41 | 📅 2026-09-14** - Identify risky assumptions for new products across 8 risk categories
-* **[phuryn/interview-script](https://github.com/phuryn/pm-skills/tree/main/pm-product-discovery/skills/interview-script) ⭐ 26,438 | 🐛 41 | 📅 2026-09-14** - Create structured customer interview scripts with JTBD probing
-* **[phuryn/metrics-dashboard](https://github.com/phuryn/pm-skills/tree/main/pm-product-discovery/skills/metrics-dashboard) ⭐ 26,438 | 🐛 41 | 📅 2026-09-14** - Define product metrics dashboard with sources and alert thresholds
-* **[phuryn/opportunity-solution-tree](https://github.com/phuryn/pm-skills/tree/main/pm-product-discovery/skills/opportunity-solution-tree) ⭐ 26,438 | 🐛 41 | 📅 2026-09-14** - Build Opportunity Solution Trees based on Teresa Torres' method
-* **[phuryn/prioritize-assumptions](https://github.com/phuryn/pm-skills/tree/main/pm-product-discovery/skills/prioritize-assumptions) ⭐ 26,438 | 🐛 41 | 📅 2026-09-14** - Prioritize assumptions with Impact × Risk matrix and experiments
-* **[phuryn/prioritize-features](https://github.com/phuryn/pm-skills/tree/main/pm-product-discovery/skills/prioritize-features) ⭐ 26,438 | 🐛 41 | 📅 2026-09-14** - Prioritize backlog by impact, effort, risk, and strategic alignment
-* **[phuryn/summarize-interview](https://github.com/phuryn/pm-skills/tree/main/pm-product-discovery/skills/summarize-interview) ⭐ 26,438 | 🐛 41 | 📅 2026-09-14** - Summarize interview transcripts with JTBD and action items
+* **[phuryn/analyze-feature-requests](https://github.com/phuryn/pm-skills/tree/main/pm-product-discovery/skills/analyze-feature-requests) ⭐ 26,460 | 🐛 41 | 📅 2026-09-14** - Prioritize feature requests by theme, impact, effort, and risk
+* **[phuryn/brainstorm-experiments-existing](https://github.com/phuryn/pm-skills/tree/main/pm-product-discovery/skills/brainstorm-experiments-existing) ⭐ 26,460 | 🐛 41 | 📅 2026-09-14** - Design experiments to test assumptions for existing products
+* **[phuryn/brainstorm-experiments-new](https://github.com/phuryn/pm-skills/tree/main/pm-product-discovery/skills/brainstorm-experiments-new) ⭐ 26,460 | 🐛 41 | 📅 2026-09-14** - Design lean pretotypes for new product validation
+* **[phuryn/brainstorm-ideas-existing](https://github.com/phuryn/pm-skills/tree/main/pm-product-discovery/skills/brainstorm-ideas-existing) ⭐ 26,460 | 🐛 41 | 📅 2026-09-14** - Brainstorm product ideas from PM, Designer, Engineer perspectives
+* **[phuryn/brainstorm-ideas-new](https://github.com/phuryn/pm-skills/tree/main/pm-product-discovery/skills/brainstorm-ideas-new) ⭐ 26,460 | 🐛 41 | 📅 2026-09-14** - Brainstorm feature ideas for new products in early discovery
+* **[phuryn/identify-assumptions-existing](https://github.com/phuryn/pm-skills/tree/main/pm-product-discovery/skills/identify-assumptions-existing) ⭐ 26,460 | 🐛 41 | 📅 2026-09-14** - Identify risky assumptions across Value, Usability, Viability, Feasibility
+* **[phuryn/identify-assumptions-new](https://github.com/phuryn/pm-skills/tree/main/pm-product-discovery/skills/identify-assumptions-new) ⭐ 26,460 | 🐛 41 | 📅 2026-09-14** - Identify risky assumptions for new products across 8 risk categories
+* **[phuryn/interview-script](https://github.com/phuryn/pm-skills/tree/main/pm-product-discovery/skills/interview-script) ⭐ 26,460 | 🐛 41 | 📅 2026-09-14** - Create structured customer interview scripts with JTBD probing
+* **[phuryn/metrics-dashboard](https://github.com/phuryn/pm-skills/tree/main/pm-product-discovery/skills/metrics-dashboard) ⭐ 26,460 | 🐛 41 | 📅 2026-09-14** - Define product metrics dashboard with sources and alert thresholds
+* **[phuryn/opportunity-solution-tree](https://github.com/phuryn/pm-skills/tree/main/pm-product-discovery/skills/opportunity-solution-tree) ⭐ 26,460 | 🐛 41 | 📅 2026-09-14** - Build Opportunity Solution Trees based on Teresa Torres' method
+* **[phuryn/prioritize-assumptions](https://github.com/phuryn/pm-skills/tree/main/pm-product-discovery/skills/prioritize-assumptions) ⭐ 26,460 | 🐛 41 | 📅 2026-09-14** - Prioritize assumptions with Impact × Risk matrix and experiments
+* **[phuryn/prioritize-features](https://github.com/phuryn/pm-skills/tree/main/pm-product-discovery/skills/prioritize-features) ⭐ 26,460 | 🐛 41 | 📅 2026-09-14** - Prioritize backlog by impact, effort, risk, and strategic alignment
+* **[phuryn/summarize-interview](https://github.com/phuryn/pm-skills/tree/main/pm-product-discovery/skills/summarize-interview) ⭐ 26,460 | 🐛 41 | 📅 2026-09-14** - Summarize interview transcripts with JTBD and action items
 
 **Product Strategy**
 
-* **[phuryn/ansoff-matrix](https://github.com/phuryn/pm-skills/tree/main/pm-product-strategy/skills/ansoff-matrix) ⭐ 26,438 | 🐛 41 | 📅 2026-09-14** - Ansoff Matrix analysis across 4 growth strategy quadrants
-* **[phuryn/business-model](https://github.com/phuryn/pm-skills/tree/main/pm-product-strategy/skills/business-model) ⭐ 26,438 | 🐛 41 | 📅 2026-09-14** - Generate Business Model Canvas with all 9 building blocks
-* **[phuryn/lean-canvas](https://github.com/phuryn/pm-skills/tree/main/pm-product-strategy/skills/lean-canvas) ⭐ 26,438 | 🐛 41 | 📅 2026-09-14** - Generate Lean Canvas with problem, solution, UVP, and metrics
-* **[phuryn/monetization-strategy](https://github.com/phuryn/pm-skills/tree/main/pm-product-strategy/skills/monetization-strategy) ⭐ 26,438 | 🐛 41 | 📅 2026-09-14** - Brainstorm 3-5 monetization strategies with validation experiments
-* **[phuryn/pestle-analysis](https://github.com/phuryn/pm-skills/tree/main/pm-product-strategy/skills/pestle-analysis) ⭐ 26,438 | 🐛 41 | 📅 2026-09-14** - PESTLE analysis across Political, Economic, Social, Tech, Legal, Environmental
-* **[phuryn/porters-five-forces](https://github.com/phuryn/pm-skills/tree/main/pm-product-strategy/skills/porters-five-forces) ⭐ 26,438 | 🐛 41 | 📅 2026-09-14** - Porter's Five Forces competitive analysis with strategic insights
-* **[phuryn/pricing-strategy](https://github.com/phuryn/pm-skills/tree/main/pm-product-strategy/skills/pricing-strategy) ⭐ 26,438 | 🐛 41 | 📅 2026-09-14** - Design pricing strategies with competitive analysis and WTP estimation
-* **[phuryn/product-strategy](https://github.com/phuryn/pm-skills/tree/main/pm-product-strategy/skills/product-strategy) ⭐ 26,438 | 🐛 41 | 📅 2026-09-14** - Create product strategy using 9-section Product Strategy Canvas
-* **[phuryn/product-vision](https://github.com/phuryn/pm-skills/tree/main/pm-product-strategy/skills/product-vision) ⭐ 26,438 | 🐛 41 | 📅 2026-09-14** - Brainstorm inspiring, achievable product vision statements
-* **[phuryn/startup-canvas](https://github.com/phuryn/pm-skills/tree/main/pm-product-strategy/skills/startup-canvas) ⭐ 26,438 | 🐛 41 | 📅 2026-09-14** - Generate Startup Canvas combining Product Strategy and Business Model
-* **[phuryn/swot-analysis](https://github.com/phuryn/pm-skills/tree/main/pm-product-strategy/skills/swot-analysis) ⭐ 26,438 | 🐛 41 | 📅 2026-09-14** - SWOT analysis with actionable recommendations per quadrant
-* **[phuryn/value-proposition](https://github.com/phuryn/pm-skills/tree/main/pm-product-strategy/skills/value-proposition) ⭐ 26,438 | 🐛 41 | 📅 2026-09-14** - Design value propositions using 6-part JTBD template
+* **[phuryn/ansoff-matrix](https://github.com/phuryn/pm-skills/tree/main/pm-product-strategy/skills/ansoff-matrix) ⭐ 26,460 | 🐛 41 | 📅 2026-09-14** - Ansoff Matrix analysis across 4 growth strategy quadrants
+* **[phuryn/business-model](https://github.com/phuryn/pm-skills/tree/main/pm-product-strategy/skills/business-model) ⭐ 26,460 | 🐛 41 | 📅 2026-09-14** - Generate Business Model Canvas with all 9 building blocks
+* **[phuryn/lean-canvas](https://github.com/phuryn/pm-skills/tree/main/pm-product-strategy/skills/lean-canvas) ⭐ 26,460 | 🐛 41 | 📅 2026-09-14** - Generate Lean Canvas with problem, solution, UVP, and metrics
+* **[phuryn/monetization-strategy](https://github.com/phuryn/pm-skills/tree/main/pm-product-strategy/skills/monetization-strategy) ⭐ 26,460 | 🐛 41 | 📅 2026-09-14** - Brainstorm 3-5 monetization strategies with validation experiments
+* **[phuryn/pestle-analysis](https://github.com/phuryn/pm-skills/tree/main/pm-product-strategy/skills/pestle-analysis) ⭐ 26,460 | 🐛 41 | 📅 2026-09-14** - PESTLE analysis across Political, Economic, Social, Tech, Legal, Environmental
+* **[phuryn/porters-five-forces](https://github.com/phuryn/pm-skills/tree/main/pm-product-strategy/skills/porters-five-forces) ⭐ 26,460 | 🐛 41 | 📅 2026-09-14** - Porter's Five Forces competitive analysis with strategic insights
+* **[phuryn/pricing-strategy](https://github.com/phuryn/pm-skills/tree/main/pm-product-strategy/skills/pricing-strategy) ⭐ 26,460 | 🐛 41 | 📅 2026-09-14** - Design pricing strategies with competitive analysis and WTP estimation
+* **[phuryn/product-strategy](https://github.com/phuryn/pm-skills/tree/main/pm-product-strategy/skills/product-strategy) ⭐ 26,460 | 🐛 41 | 📅 2026-09-14** - Create product strategy using 9-section Product Strategy Canvas
+* **[phuryn/product-vision](https://github.com/phuryn/pm-skills/tree/main/pm-product-strategy/skills/product-vision) ⭐ 26,460 | 🐛 41 | 📅 2026-09-14** - Brainstorm inspiring, achievable product vision statements
+* **[phuryn/startup-canvas](https://github.com/phuryn/pm-skills/tree/main/pm-product-strategy/skills/startup-canvas) ⭐ 26,460 | 🐛 41 | 📅 2026-09-14** - Generate Startup Canvas combining Product Strategy and Business Model
+* **[phuryn/swot-analysis](https://github.com/phuryn/pm-skills/tree/main/pm-product-strategy/skills/swot-analysis) ⭐ 26,460 | 🐛 41 | 📅 2026-09-14** - SWOT analysis with actionable recommendations per quadrant
+* **[phuryn/value-proposition](https://github.com/phuryn/pm-skills/tree/main/pm-product-strategy/skills/value-proposition) ⭐ 26,460 | 🐛 41 | 📅 2026-09-14** - Design value propositions using 6-part JTBD template
 
 **Toolkit**
 
-* **[phuryn/draft-nda](https://github.com/phuryn/pm-skills/tree/main/pm-toolkit/skills/draft-nda) ⭐ 26,438 | 🐛 41 | 📅 2026-09-14** - Draft NDAs covering information types, jurisdiction, and clauses
-* **[phuryn/grammar-check](https://github.com/phuryn/pm-skills/tree/main/pm-toolkit/skills/grammar-check) ⭐ 26,438 | 🐛 41 | 📅 2026-09-14** - Identify grammar and flow errors with targeted fix suggestions
-* **[phuryn/privacy-policy](https://github.com/phuryn/pm-skills/tree/main/pm-toolkit/skills/privacy-policy) ⭐ 26,438 | 🐛 41 | 📅 2026-09-14** - Draft privacy policies with GDPR compliance considerations
-* **[phuryn/review-resume](https://github.com/phuryn/pm-skills/tree/main/pm-toolkit/skills/review-resume) ⭐ 26,438 | 🐛 41 | 📅 2026-09-14** - PM resume review against 10 best practices including XYZ+S formula
+* **[phuryn/draft-nda](https://github.com/phuryn/pm-skills/tree/main/pm-toolkit/skills/draft-nda) ⭐ 26,460 | 🐛 41 | 📅 2026-09-14** - Draft NDAs covering information types, jurisdiction, and clauses
+* **[phuryn/grammar-check](https://github.com/phuryn/pm-skills/tree/main/pm-toolkit/skills/grammar-check) ⭐ 26,460 | 🐛 41 | 📅 2026-09-14** - Identify grammar and flow errors with targeted fix suggestions
+* **[phuryn/privacy-policy](https://github.com/phuryn/pm-skills/tree/main/pm-toolkit/skills/privacy-policy) ⭐ 26,460 | 🐛 41 | 📅 2026-09-14** - Draft privacy policies with GDPR compliance considerations
+* **[phuryn/review-resume](https://github.com/phuryn/pm-skills/tree/main/pm-toolkit/skills/review-resume) ⭐ 26,460 | 🐛 41 | 📅 2026-09-14** - PM resume review against 10 best practices including XYZ+S formula
 
 </details>
 
@@ -1355,7 +1355,7 @@ Official GSAP animation skills covering the full GreenSock ecosystem — core AP
 
 Official skills from Notion's repositories — workspace-aware skills for capturing knowledge, preparing meetings, researching, and turning specs into tasks.
 
-**From [notion-cookbook](https://github.com/makenotion/notion-cookbook/tree/main/skills/claude) ⭐ 210 | 🐛 19 | 🌐 TypeScript | 📅 2026-09-18:**
+**From [notion-cookbook](https://github.com/makenotion/notion-cookbook/tree/main/skills/claude) ⭐ 210 | 🐛 18 | 🌐 TypeScript | 📅 2026-09-19:**
 
 * **[makenotion/knowledge-capture](https://officialskills.sh/makenotion/skills/knowledge-capture)** - Transform conversations into structured Notion documentation pages with proper organization and linking
 * **[makenotion/meeting-intelligence](https://officialskills.sh/makenotion/skills/meeting-intelligence)** - Prepare meeting materials by gathering Notion context and creating pre-reads and agendas
@@ -1376,11 +1376,11 @@ Official skills from Notion's repositories — workspace-aware skills for captur
 
 Official Resend skills to send and receive emails, build email templates and power your agent with email expertise.
 
-* **[resend/resend](https://github.com/resend/resend-skills/tree/main/skills/resend) ⭐ 177 | 🐛 6 | 🌐 JavaScript | 📅 2026-09-18** - Send and manage emails via the Resend API
-* **[resend/react-email](https://github.com/resend/resend-skills/tree/main/skills/react-email) ⭐ 177 | 🐛 6 | 🌐 JavaScript | 📅 2026-09-18** - Build emails with React Email components
-* **[resend/email-best-practices](https://github.com/resend/resend-skills/tree/main/skills/email-best-practices) ⭐ 177 | 🐛 6 | 🌐 JavaScript | 📅 2026-09-18** - Email deliverability and design best practices
-* **[resend/agent-email-inbox](https://github.com/resend/resend-skills/tree/main/skills/agent-email-inbox) ⭐ 177 | 🐛 6 | 🌐 JavaScript | 📅 2026-09-18** - AI agent email inbox management
-* **[resend/resend-cli](https://github.com/resend/resend-skills/tree/main/skills/resend-cli) ⭐ 177 | 🐛 6 | 🌐 JavaScript | 📅 2026-09-18** - Resend CLI commands and workflows
+* **[resend/resend](https://github.com/resend/resend-skills/tree/main/skills/resend) ⭐ 178 | 🐛 6 | 🌐 JavaScript | 📅 2026-09-18** - Send and manage emails via the Resend API
+* **[resend/react-email](https://github.com/resend/resend-skills/tree/main/skills/react-email) ⭐ 178 | 🐛 6 | 🌐 JavaScript | 📅 2026-09-18** - Build emails with React Email components
+* **[resend/email-best-practices](https://github.com/resend/resend-skills/tree/main/skills/email-best-practices) ⭐ 178 | 🐛 6 | 🌐 JavaScript | 📅 2026-09-18** - Email deliverability and design best practices
+* **[resend/agent-email-inbox](https://github.com/resend/resend-skills/tree/main/skills/agent-email-inbox) ⭐ 178 | 🐛 6 | 🌐 JavaScript | 📅 2026-09-18** - AI agent email inbox management
+* **[resend/resend-cli](https://github.com/resend/resend-skills/tree/main/skills/resend-cli) ⭐ 178 | 🐛 6 | 🌐 JavaScript | 📅 2026-09-18** - Resend CLI commands and workflows
 
 </details>
 
@@ -1425,7 +1425,7 @@ Official MongoDB Agent Skills for agentic workflows — connection management, s
 
 Official skills published by NVIDIA for its AI, accelerated computing, robotics, simulation, and developer platforms. NVIDIA updates and reorganizes this catalog frequently, so this list links to the maintained source instead of duplicating a snapshot.
 
-* **[Browse NVIDIA's official Agent Skills catalog](https://github.com/NVIDIA/skills/tree/main/skills) ⭐ 3,353 | 🐛 14 | 🌐 Python | 📅 2026-09-19** - View the current collection directly in NVIDIA's repository.
+* **[Browse NVIDIA's official Agent Skills catalog](https://github.com/NVIDIA/skills/tree/main/skills) ⭐ 3,383 | 🐛 14 | 🌐 Python | 📅 2026-09-19** - View the current collection directly in NVIDIA's repository.
 
 </details>
 
@@ -1434,25 +1434,25 @@ Official skills published by NVIDIA for its AI, accelerated computing, robotics,
 
 Official Google Cloud skills covering Firebase, BigQuery, Cloud Run, GKE, AlloyDB, Cloud SQL, Gemini Enterprise Agent Platform, networking observability, and the Well-Architected Framework. 19 skills.
 
-* **[google/cloud/agent-platform-skill-registry](https://github.com/google/skills/tree/main/skills/cloud/agent-platform-skill-registry) ⭐ 20,162 | 🐛 19 | 🌐 Python | 📅 2026-09-18** - Interact with the Gemini Enterprise Agent Platform Skill Registry to create and search for available skills.
-* **[google/cloud/alloydb-basics](https://github.com/google/skills/tree/main/skills/cloud/alloydb-basics) ⭐ 20,162 | 🐛 19 | 🌐 Python | 📅 2026-09-18** - Manages clusters, instances, and backups for AlloyDB for PostgreSQL, and integrates with AlloyDB model context protocol (MCP) tools for automated database operations.
-* **[google/cloud/bigquery-basics](https://github.com/google/skills/tree/main/skills/cloud/bigquery-basics) ⭐ 20,162 | 🐛 19 | 🌐 Python | 📅 2026-09-18** - Manages datasets, tables, and jobs in BigQuery, and integrates with BigQuery ML and Gemini for advanced data analytics and AI-driven insights.
-* **[google/cloud/cloud-run-basics](https://github.com/google/skills/tree/main/skills/cloud/cloud-run-basics) ⭐ 20,162 | 🐛 19 | 🌐 Python | 📅 2026-09-18** - Manages Cloud Run services, jobs, and worker pools.
-* **[google/cloud/cloud-sql-basics](https://github.com/google/skills/tree/main/skills/cloud/cloud-sql-basics) ⭐ 20,162 | 🐛 19 | 🌐 Python | 📅 2026-09-18** - This file generates or explains Cloud SQL resources.
-* **[google/cloud/firebase-basics](https://github.com/google/skills/tree/main/skills/cloud/firebase-basics) ⭐ 20,162 | 🐛 19 | 🌐 Python | 📅 2026-09-18** - Use this skill whenever you are working on a project that uses Firebase products or services, especially for mobile or web apps.
-* **[google/cloud/gemini-agents-api](https://github.com/google/skills/tree/main/skills/cloud/gemini-agents-api) ⭐ 20,162 | 🐛 19 | 🌐 Python | 📅 2026-09-18** - Manages custom Agent resources on Gemini Enterprise Agent Platform.
-* **[google/cloud/gemini-api](https://github.com/google/skills/tree/main/skills/cloud/gemini-api) ⭐ 20,162 | 🐛 19 | 🌐 Python | 📅 2026-09-18** - Guides the usage of the Gemini API on Agent Platform with the Google Gen AI SDK.
-* **[google/cloud/gemini-interactions-api](https://github.com/google/skills/tree/main/skills/cloud/gemini-interactions-api) ⭐ 20,162 | 🐛 19 | 🌐 Python | 📅 2026-09-18** - Guides the usage of Gemini Interactions API on Gemini Enterprise Agent Platform.
-* **[google/cloud/gke-basics](https://github.com/google/skills/tree/main/skills/cloud/gke-basics) ⭐ 20,162 | 🐛 19 | 🌐 Python | 📅 2026-09-18** - Plan, create, and configure production-ready Google Kubernetes Engine (GKE) clusters using the golden path Autopilot configuration.
-* **[google/cloud/google-cloud-networking-observability](https://github.com/google/skills/tree/main/skills/cloud/google-cloud-networking-observability) ⭐ 20,162 | 🐛 19 | 🌐 Python | 📅 2026-09-18** - Investigates Google Cloud networking issues by analyzing logs, metrics, and diagnostics.
-* **[google/cloud/google-cloud-recipe-auth](https://github.com/google/skills/tree/main/skills/cloud/google-cloud-recipe-auth) ⭐ 20,162 | 🐛 19 | 🌐 Python | 📅 2026-09-18** - Provides expert guidance on authenticating and authorizing to Google Cloud services and APIs, covering human users, service identities, Application Default Credentials (ADC), and b...
-* **[google/cloud/google-cloud-recipe-onboarding](https://github.com/google/skills/tree/main/skills/cloud/google-cloud-recipe-onboarding) ⭐ 20,162 | 🐛 19 | 🌐 Python | 📅 2026-09-18** - Guidance for a developer's first steps on Google Cloud, covering account creation, billing setup, project management, and deploying a first resource.
-* **[google/cloud/google-cloud-waf-cost-optimization](https://github.com/google/skills/tree/main/skills/cloud/google-cloud-waf-cost-optimization) ⭐ 20,162 | 🐛 19 | 🌐 Python | 📅 2026-09-18** - Generates cost optimization guidance for Google Cloud workloads based on the Google Cloud Well-Architected Framework (WAF).
-* **[google/cloud/google-cloud-waf-operational-excellence](https://github.com/google/skills/tree/main/skills/cloud/google-cloud-waf-operational-excellence) ⭐ 20,162 | 🐛 19 | 🌐 Python | 📅 2026-09-18** - Generates operations-focused guidance for Google Cloud workloads based on the design principles and recommendations in the Operational Excellence pillar of the Google Cloud Well-Ar...
-* **[google/cloud/google-cloud-waf-performance-optimization](https://github.com/google/skills/tree/main/skills/cloud/google-cloud-waf-performance-optimization) ⭐ 20,162 | 🐛 19 | 🌐 Python | 📅 2026-09-18** - Generates performance-focused guidance for Google Cloud workloads based on the design principles and recommendations in the Performance Optimization pillar of the Google Cloud Well...
-* **[google/cloud/google-cloud-waf-reliability](https://github.com/google/skills/tree/main/skills/cloud/google-cloud-waf-reliability) ⭐ 20,162 | 🐛 19 | 🌐 Python | 📅 2026-09-18** - Generates reliability-focused guidance for Google Cloud workloads based on the design principles and recommendations in the Google Cloud Well-Architected Framework.
-* **[google/cloud/google-cloud-waf-security](https://github.com/google/skills/tree/main/skills/cloud/google-cloud-waf-security) ⭐ 20,162 | 🐛 19 | 🌐 Python | 📅 2026-09-18** - Generates security-focused guidance for Google Cloud workloads based on the design principles and recommendations in the Google Cloud Well-Architected Framework (WAF).
-* **[google/cloud/google-cloud-waf-sustainability](https://github.com/google/skills/tree/main/skills/cloud/google-cloud-waf-sustainability) ⭐ 20,162 | 🐛 19 | 🌐 Python | 📅 2026-09-18** - Generates sustainability-focused guidance for Google Cloud workloads based on the design principles and recommendations in the Google Cloud Well-Architected Framework (WAF).
+* **[google/cloud/agent-platform-skill-registry](https://github.com/google/skills/tree/main/skills/cloud/agent-platform-skill-registry) ⭐ 20,189 | 🐛 19 | 🌐 Python | 📅 2026-09-18** - Interact with the Gemini Enterprise Agent Platform Skill Registry to create and search for available skills.
+* **[google/cloud/alloydb-basics](https://github.com/google/skills/tree/main/skills/cloud/alloydb-basics) ⭐ 20,189 | 🐛 19 | 🌐 Python | 📅 2026-09-18** - Manages clusters, instances, and backups for AlloyDB for PostgreSQL, and integrates with AlloyDB model context protocol (MCP) tools for automated database operations.
+* **[google/cloud/bigquery-basics](https://github.com/google/skills/tree/main/skills/cloud/bigquery-basics) ⭐ 20,189 | 🐛 19 | 🌐 Python | 📅 2026-09-18** - Manages datasets, tables, and jobs in BigQuery, and integrates with BigQuery ML and Gemini for advanced data analytics and AI-driven insights.
+* **[google/cloud/cloud-run-basics](https://github.com/google/skills/tree/main/skills/cloud/cloud-run-basics) ⭐ 20,189 | 🐛 19 | 🌐 Python | 📅 2026-09-18** - Manages Cloud Run services, jobs, and worker pools.
+* **[google/cloud/cloud-sql-basics](https://github.com/google/skills/tree/main/skills/cloud/cloud-sql-basics) ⭐ 20,189 | 🐛 19 | 🌐 Python | 📅 2026-09-18** - This file generates or explains Cloud SQL resources.
+* **[google/cloud/firebase-basics](https://github.com/google/skills/tree/main/skills/cloud/firebase-basics) ⭐ 20,189 | 🐛 19 | 🌐 Python | 📅 2026-09-18** - Use this skill whenever you are working on a project that uses Firebase products or services, especially for mobile or web apps.
+* **[google/cloud/gemini-agents-api](https://github.com/google/skills/tree/main/skills/cloud/gemini-agents-api) ⭐ 20,189 | 🐛 19 | 🌐 Python | 📅 2026-09-18** - Manages custom Agent resources on Gemini Enterprise Agent Platform.
+* **[google/cloud/gemini-api](https://github.com/google/skills/tree/main/skills/cloud/gemini-api) ⭐ 20,189 | 🐛 19 | 🌐 Python | 📅 2026-09-18** - Guides the usage of the Gemini API on Agent Platform with the Google Gen AI SDK.
+* **[google/cloud/gemini-interactions-api](https://github.com/google/skills/tree/main/skills/cloud/gemini-interactions-api) ⭐ 20,189 | 🐛 19 | 🌐 Python | 📅 2026-09-18** - Guides the usage of Gemini Interactions API on Gemini Enterprise Agent Platform.
+* **[google/cloud/gke-basics](https://github.com/google/skills/tree/main/skills/cloud/gke-basics) ⭐ 20,189 | 🐛 19 | 🌐 Python | 📅 2026-09-18** - Plan, create, and configure production-ready Google Kubernetes Engine (GKE) clusters using the golden path Autopilot configuration.
+* **[google/cloud/google-cloud-networking-observability](https://github.com/google/skills/tree/main/skills/cloud/google-cloud-networking-observability) ⭐ 20,189 | 🐛 19 | 🌐 Python | 📅 2026-09-18** - Investigates Google Cloud networking issues by analyzing logs, metrics, and diagnostics.
+* **[google/cloud/google-cloud-recipe-auth](https://github.com/google/skills/tree/main/skills/cloud/google-cloud-recipe-auth) ⭐ 20,189 | 🐛 19 | 🌐 Python | 📅 2026-09-18** - Provides expert guidance on authenticating and authorizing to Google Cloud services and APIs, covering human users, service identities, Application Default Credentials (ADC), and b...
+* **[google/cloud/google-cloud-recipe-onboarding](https://github.com/google/skills/tree/main/skills/cloud/google-cloud-recipe-onboarding) ⭐ 20,189 | 🐛 19 | 🌐 Python | 📅 2026-09-18** - Guidance for a developer's first steps on Google Cloud, covering account creation, billing setup, project management, and deploying a first resource.
+* **[google/cloud/google-cloud-waf-cost-optimization](https://github.com/google/skills/tree/main/skills/cloud/google-cloud-waf-cost-optimization) ⭐ 20,189 | 🐛 19 | 🌐 Python | 📅 2026-09-18** - Generates cost optimization guidance for Google Cloud workloads based on the Google Cloud Well-Architected Framework (WAF).
+* **[google/cloud/google-cloud-waf-operational-excellence](https://github.com/google/skills/tree/main/skills/cloud/google-cloud-waf-operational-excellence) ⭐ 20,189 | 🐛 19 | 🌐 Python | 📅 2026-09-18** - Generates operations-focused guidance for Google Cloud workloads based on the design principles and recommendations in the Operational Excellence pillar of the Google Cloud Well-Ar...
+* **[google/cloud/google-cloud-waf-performance-optimization](https://github.com/google/skills/tree/main/skills/cloud/google-cloud-waf-performance-optimization) ⭐ 20,189 | 🐛 19 | 🌐 Python | 📅 2026-09-18** - Generates performance-focused guidance for Google Cloud workloads based on the design principles and recommendations in the Performance Optimization pillar of the Google Cloud Well...
+* **[google/cloud/google-cloud-waf-reliability](https://github.com/google/skills/tree/main/skills/cloud/google-cloud-waf-reliability) ⭐ 20,189 | 🐛 19 | 🌐 Python | 📅 2026-09-18** - Generates reliability-focused guidance for Google Cloud workloads based on the design principles and recommendations in the Google Cloud Well-Architected Framework.
+* **[google/cloud/google-cloud-waf-security](https://github.com/google/skills/tree/main/skills/cloud/google-cloud-waf-security) ⭐ 20,189 | 🐛 19 | 🌐 Python | 📅 2026-09-18** - Generates security-focused guidance for Google Cloud workloads based on the design principles and recommendations in the Google Cloud Well-Architected Framework (WAF).
+* **[google/cloud/google-cloud-waf-sustainability](https://github.com/google/skills/tree/main/skills/cloud/google-cloud-waf-sustainability) ⭐ 20,189 | 🐛 19 | 🌐 Python | 📅 2026-09-18** - Generates sustainability-focused guidance for Google Cloud workloads based on the design principles and recommendations in the Google Cloud Well-Architected Framework (WAF).
 
 </details>
 
@@ -1487,91 +1487,91 @@ Official skills published by Cypress to help create, maintain, understand, and f
 <details>
 <summary><h3 style="display:inline">Vector Databases</h3></summary>
 
-* **[qdrant/skills](https://github.com/qdrant/skills) ⭐ 237 | 🐛 6 | 🌐 Python | 📅 2026-09-18** - Agent skills for Qdrant vector search, covering scaling, performance optimization, search quality, monitoring, deployment, model migration, version upgrades, and SDK usage across Python, TypeScript, Rust, Go, .NET, and Java
+* **[qdrant/skills](https://github.com/qdrant/skills) ⭐ 241 | 🐛 6 | 🌐 Python | 📅 2026-09-18** - Agent skills for Qdrant vector search, covering scaling, performance optimization, search quality, monitoring, deployment, model migration, version upgrades, and SDK usage across Python, TypeScript, Rust, Go, .NET, and Java
 
 </details>
 
 <details>
 <summary><h3 style="display:inline">Marketing</h3></summary>
 
-* **[blader/humanizer](https://github.com/blader/humanizer) ⭐ 50,061 | 🐛 22 | 🌐 Python | 📅 2026-09-06** - Remove signs of AI-generated writing from text, making it sound more natural and human
-* **[AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) ⭐ 17,194 | 🐛 21 | 🌐 Python | 📅 2026-09-11** - Universal SEO skill for comprehensive website analysis and optimization
-* **[nowork-studio/notfair-plugin](https://github.com/nowork-studio/notfair-plugin) ⭐ 3,825 | 🐛 11 | 🌐 TypeScript | 📅 2026-09-19** - SEO, GEO, Google Ads, and Meta Ads skills with live data
-* **[sergebulaev/linkedin-skills](https://github.com/sergebulaev/linkedin-skills) ⭐ 2,823 | 🐛 1 | 🌐 Python | 📅 2026-09-18** - LinkedIn marketing skills: viral hooks, comment drafting, algorithm audit, humanizer
-* **[aaron-he-zhu/aaron-marketing-skills](https://github.com/aaron-he-zhu/aaron-marketing-skills) ⭐ 2,804 | 🐛 0 | 🌐 Python | 📅 2026-09-19** - 69 marketing skills across SEO/GEO, influencer, paid ads, and email on one shared contract, with 5 benchmark-driven auditor gates (CORE-EEAT, CITE, C³, ROAS, SEND) and keyless data connectors
-* **[Nanako0129/sepia](https://github.com/Nanako0129/sepia) ⭐ 2,683 | 🐛 6 | 🌐 Python | 📅 2026-09-19** - De-AI writing skill fixing narrative structure before word choice
-* **[ScrapeCreators/social-media-research-skills](https://github.com/ScrapeCreators/social-media-research-skills) ⭐ 2,527 | 🐛 3 | 🌐 Python | 📅 2026-08-26** - Research social outliers, comments, competitors, ads, and trends
-* **[Eronred/aso-skills](https://github.com/Eronred/aso-skills) ⭐ 2,060 | 🐛 0 | 🌐 MDX | 📅 2026-08-22** - 30+ App Store Optimization skills for keyword research, metadata optimization, competitor analysis, creative optimization, and mobile growth strategies via Appeeky API
-* **[gooseworks-ai/goose-skills](https://github.com/gooseworks-ai/goose-skills) ⭐ 1,215 | 🐛 59 | 🌐 Python | 📅 2026-09-01** - 125 growth and GTM skills: ads, content, lead gen, SEO
-* **[wshuyi/x-article-publisher-skill](https://github.com/wshuyi/x-article-publisher-skill) ⭐ 867 | 🐛 6 | 🌐 Python | 📅 2026-01-25** - Publish articles to X/Twitter
-* **[indranilbanerjee/digital-marketing-pro](https://github.com/indranilbanerjee/digital-marketing-pro) ⭐ 826 | 🐛 2 | 🌐 Python | 📅 2026-09-07** - 150-skill engagement methodology — 12-Part Strategy Flow, 25 specialist agents, EU AI Act Article 50 ready (C2PA signing), 6-platform AEO/GEO incl. Google AI Mode
-* **[gitroomhq/postiz-agent](https://github.com/gitroomhq/postiz-agent) ⭐ 472 | 🐛 16 | 🌐 TypeScript | 📅 2026-09-16** - Schedule social media posts across 28+ platforms programmatically
+* **[blader/humanizer](https://github.com/blader/humanizer) ⭐ 50,432 | 🐛 22 | 🌐 Python | 📅 2026-09-06** - Remove signs of AI-generated writing from text, making it sound more natural and human
+* **[AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) ⭐ 17,274 | 🐛 22 | 🌐 Python | 📅 2026-09-11** - Universal SEO skill for comprehensive website analysis and optimization
+* **[nowork-studio/notfair-plugin](https://github.com/nowork-studio/notfair-plugin) ⭐ 3,829 | 🐛 11 | 🌐 TypeScript | 📅 2026-09-19** - SEO, GEO, Google Ads, and Meta Ads skills with live data
+* **[sergebulaev/linkedin-skills](https://github.com/sergebulaev/linkedin-skills) ⭐ 2,924 | 🐛 1 | 🌐 Python | 📅 2026-09-18** - LinkedIn marketing skills: viral hooks, comment drafting, algorithm audit, humanizer
+* **[aaron-he-zhu/aaron-marketing-skills](https://github.com/aaron-he-zhu/aaron-marketing-skills) ⭐ 2,807 | 🐛 0 | 🌐 Python | 📅 2026-09-20** - 69 marketing skills across SEO/GEO, influencer, paid ads, and email on one shared contract, with 5 benchmark-driven auditor gates (CORE-EEAT, CITE, C³, ROAS, SEND) and keyless data connectors
+* **[Nanako0129/sepia](https://github.com/Nanako0129/sepia) ⭐ 2,699 | 🐛 6 | 🌐 Python | 📅 2026-09-20** - De-AI writing skill fixing narrative structure before word choice
+* **[ScrapeCreators/social-media-research-skills](https://github.com/ScrapeCreators/social-media-research-skills) ⭐ 2,562 | 🐛 3 | 🌐 Python | 📅 2026-08-26** - Research social outliers, comments, competitors, ads, and trends
+* **[Eronred/aso-skills](https://github.com/Eronred/aso-skills) ⭐ 2,072 | 🐛 0 | 🌐 MDX | 📅 2026-08-22** - 30+ App Store Optimization skills for keyword research, metadata optimization, competitor analysis, creative optimization, and mobile growth strategies via Appeeky API
+* **[gooseworks-ai/goose-skills](https://github.com/gooseworks-ai/goose-skills) ⭐ 1,219 | 🐛 59 | 🌐 Python | 📅 2026-09-01** - 125 growth and GTM skills: ads, content, lead gen, SEO
+* **[wshuyi/x-article-publisher-skill](https://github.com/wshuyi/x-article-publisher-skill) ⭐ 866 | 🐛 6 | 🌐 Python | 📅 2026-01-25** - Publish articles to X/Twitter
+* **[indranilbanerjee/digital-marketing-pro](https://github.com/indranilbanerjee/digital-marketing-pro) ⭐ 828 | 🐛 2 | 🌐 Python | 📅 2026-09-07** - 150-skill engagement methodology — 12-Part Strategy Flow, 25 specialist agents, EU AI Act Article 50 ready (C2PA signing), 6-platform AEO/GEO incl. Google AI Mode
+* **[gitroomhq/postiz-agent](https://github.com/gitroomhq/postiz-agent) ⭐ 479 | 🐛 16 | 🌐 TypeScript | 📅 2026-09-16** - Schedule social media posts across 28+ platforms programmatically
 * **[BrianRWagner/ai-marketing-claude-code-skills](https://github.com/BrianRWagner/ai-marketing-claude-code-skills) ⭐ 421 | 🐛 2 | 🌐 Shell | 📅 2026-03-19** - 17 marketing frameworks for cold outreach, homepage audit, social cards, and more
-* **[ilyautov/humanizer-ru](https://github.com/ilyautov/humanizer-ru/tree/main/skills/humanizer-ru) ⭐ 365 | 🐛 10 | 🌐 Python | 📅 2026-09-18** - Removes 64 AI-writing markers from Russian text, with scanner
-* **[CosmoBlk/email-marketing-bible](https://github.com/CosmoBlk/email-marketing-bible) ⭐ 303 | 🐛 1 | 📅 2026-09-08** - 55K-word email marketing guide as an AI skill
-* **[AIDevGTM/gtm-cofounder](https://github.com/AIDevGTM/gtm-cofounder) ⭐ 287 | 🐛 3 | 📅 2026-09-16** - 18 go-to-market skills for solo technical founders: positioning, first users, launch, pricing, and founder-led sales; grounded in Adam Frankl and Jakub Czakon
+* **[ilyautov/humanizer-ru](https://github.com/ilyautov/humanizer-ru/tree/main/skills/humanizer-ru) ⭐ 366 | 🐛 0 | 🌐 Python | 📅 2026-09-19** - Removes 64 AI-writing markers from Russian text, with scanner
+* **[CosmoBlk/email-marketing-bible](https://github.com/CosmoBlk/email-marketing-bible) ⭐ 310 | 🐛 1 | 📅 2026-09-08** - 55K-word email marketing guide as an AI skill
+* **[AIDevGTM/gtm-cofounder](https://github.com/AIDevGTM/gtm-cofounder) ⭐ 295 | 🐛 4 | 📅 2026-09-19** - 18 go-to-market skills for solo technical founders: positioning, first users, launch, pricing, and founder-led sales; grounded in Adam Frankl and Jakub Czakon
+* **[smixs/creative-director-skill](https://github.com/smixs/creative-director-skill) ⭐ 213 | 🐛 0 | 🌐 Python | 📅 2026-08-08** - AI creative director with recursive self-assessment: 20+ methodologies (SIT, TRIZ, Bisociation, SCAMPER, Synectics), 3-axis evaluation calibrated against Cannes/D\&AD/HumanKind, 5-phase process from brief to presentation
 * **[taisly/agent](https://github.com/taisly/agent) ⭐ 213 | 🐛 2 | 🌐 JavaScript | 📅 2026-07-06** - Codex plugin, Agent Skill, CLI, and MCP server for publishing approved short-form videos to TikTok, Instagram Reels, YouTube Shorts, X, and Facebook through Taisly
-* **[smixs/creative-director-skill](https://github.com/smixs/creative-director-skill) ⭐ 207 | 🐛 0 | 🌐 Python | 📅 2026-08-08** - AI creative director with recursive self-assessment: 20+ methodologies (SIT, TRIZ, Bisociation, SCAMPER, Synectics), 3-axis evaluation calibrated against Cannes/D\&AD/HumanKind, 5-phase process from brief to presentation
-* **[Xquik-dev/x-twitter-scraper](https://github.com/Xquik-dev/x-twitter-scraper) ⭐ 202 | 🐛 3 | 🌐 JavaScript | 📅 2026-09-18** - Tweet search, profile tweets, follower export, media, posting, replies, MCP
+* **[Xquik-dev/x-twitter-scraper](https://github.com/Xquik-dev/x-twitter-scraper) ⭐ 205 | 🐛 3 | 🌐 JavaScript | 📅 2026-09-18** - Tweet search, profile tweets, follower export, media, posting, replies, MCP
+* **[Bomx/distribb-skill](https://github.com/Bomx/distribb-skill) ⭐ 195 | 🐛 5 | 🌐 Python | 📅 2026-08-21** - SEO articles, keyword research, CMS publishing, high-DR backlink exchange
 * **[sandbaseai/sandbase-skills/multi-source-search](https://github.com/sandbaseai/sandbase-skills/tree/main/research/multi-source-search) ⭐ 195 | 🐛 2 | 🌐 Python | 📅 2026-09-08** - Evidence-led multi-source research with offline validation
-* **[Bomx/distribb-skill](https://github.com/Bomx/distribb-skill) ⭐ 194 | 🐛 5 | 🌐 Python | 📅 2026-08-21** - SEO articles, keyword research, CMS publishing, high-DR backlink exchange
 * **[degausai/wonda](https://github.com/degausai/wonda) ⭐ 153 | 🐛 3 | 🌐 TypeScript | 📅 2026-09-15** - AI content creation: images, video, music, audio, editing, publishing
-* **[MohamedAbdallah-14/unslop](https://github.com/MohamedAbdallah-14/unslop) ⭐ 140 | 🐛 3 | 🌐 Python | 📅 2026-09-14** - Removes named AI writing tells (tricolons, em-dash pileups, hedging stacks, sycophancy openers, stock vocab like "delve"/"crucial"). Split lint/rewrite modes for auditing your own text without auto-rewriting. Five intensity levels, MIT
+* **[MohamedAbdallah-14/unslop](https://github.com/MohamedAbdallah-14/unslop) ⭐ 144 | 🐛 3 | 🌐 Python | 📅 2026-09-14** - Removes named AI writing tells (tricolons, em-dash pileups, hedging stacks, sycophancy openers, stock vocab like "delve"/"crucial"). Split lint/rewrite modes for auditing your own text without auto-rewriting. Five intensity levels, MIT
 * **[Vladimir-Human/humanizer-ru](https://github.com/Vladimir-Human/humanizer-ru) ⭐ 126 | 🐛 2 | 🌐 Python | 📅 2026-09-18** - Removes AI-writing markers from Russian text
 * **[infrasity-labs/dev-gtm-claude-skills](https://github.com/infrasity-labs/dev-gtm-claude-skills) ⭐ 123 | 🐛 0 | 🌐 Python | 📅 2026-06-28**: GTM-focused skill collection for developer go-to-market workflows including launch planning, positioning, and outbound sequences.
 * **[Xquik-dev/tweetclaw](https://github.com/Xquik-dev/tweetclaw) ⭐ 95 | 🐛 9 | 🌐 TypeScript | 📅 2026-09-11** - Post tweets, replies, DMs; search, monitor, run giveaways
 * **[SHADOWPR0/beautiful\_prose](https://github.com/SHADOWPR0/beautiful_prose) ⭐ 55 | 🐛 0 | 📅 2025-12-30** - Hard-edged writing style contract for timeless, forceful English prose without AI tics
-* **[SupercmoHQ/superCMO-skills](https://github.com/SupercmoHQ/superCMO-skills) ⭐ 44 | 🐛 7 | 🌐 Python | 📅 2026-08-28** - Open-source skills + local MCP server for marketing video & image production: UGC videos, ad videos, product photography, and image ads from a product photo and a brief; casts AI actors, picks the best image/video models, edits any-length clips with consistent actor and product, and researches competitor ads. BYO or managed keys, Apache-2.0
+* **[SupercmoHQ/superCMO-skills](https://github.com/SupercmoHQ/superCMO-skills) ⭐ 46 | 🐛 7 | 🌐 Python | 📅 2026-08-28** - Open-source skills + local MCP server for marketing video & image production: UGC videos, ad videos, product photography, and image ads from a product photo and a brief; casts AI actors, picks the best image/video models, edits any-length clips with consistent actor and product, and researches competitor ads. BYO or managed keys, Apache-2.0
 * **[axelfreeman/marketing-mindset](https://github.com/axelfreeman/marketing-mindset) ⭐ 32 | 🐛 1 | 🌐 HTML | 📅 2026-09-18** - Marketing OS for AI agents — think like a marketer first, get tactics as the output
 * **[mailtrap/mailtrap-skills](https://github.com/mailtrap/mailtrap-skills) ⭐ 10 | 🐛 2 | 🌐 Python | 📅 2026-09-14** - Send emails via API/SMTP with sandbox testing
 * **[YannisKiefer/dark-psychology-skills](https://github.com/YannisKiefer/dark-psychology-skills) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2026-08-25** - 13 sales and negotiation skills for agents distilled from 36 books (CIA psyop manuals, FBI behavioral research, propaganda science, persuasion classics); every tactic passes an honest-influence filter: it must still work when fully disclosed
-* **[Citlyze/citlyze-skills](https://github.com/citlyze/citlyze-skills) ⭐ 0 | 🐛 0 | 📅 2026-08-12** - AI search visibility skills from the Citlyze team: window-over-window visibility reports, citation gap analysis, prompt audits, and action plans via the Citlyze MCP server, plus a standalone AEO page audit that grades any URL without an account
+* **[Citlyze/citlyze-skills](https://github.com/citlyze/citlyze-skills) ⭐ 0 | 🐛 0 | 📅 2026-09-19** - AI search visibility skills from the Citlyze team: window-over-window visibility reports, citation gap analysis, prompt audits, and action plans via the Citlyze MCP server, plus a standalone AEO page audit that grades any URL without an account
 
 </details>
 
 <details>
 <summary><h3 style="display:inline">Productivity and Collaboration</h3></summary>
 
-* **[obra/brainstorming](https://github.com/obra/superpowers/blob/main/skills/brainstorming/SKILL.md) ⭐ 288,649 | 🐛 366 | 🌐 Shell | 📅 2026-09-19** - Generate and explore ideas
-* **[obra/writing-plans](https://github.com/obra/superpowers/blob/main/skills/writing-plans/SKILL.md) ⭐ 288,649 | 🐛 366 | 🌐 Shell | 📅 2026-09-19** - Create strategic documentation
-* **[obra/executing-plans](https://github.com/obra/superpowers/blob/main/skills/executing-plans/SKILL.md) ⭐ 288,649 | 🐛 366 | 🌐 Shell | 📅 2026-09-19** - Implement and run strategic plans
-* **[obra/dispatching-parallel-agents](https://github.com/obra/superpowers/blob/main/skills/dispatching-parallel-agents/SKILL.md) ⭐ 288,649 | 🐛 366 | 🌐 Shell | 📅 2026-09-19** - Coordinate multiple simultaneous agents
-* **[obra/using-superpowers](https://github.com/obra/superpowers/blob/main/skills/using-superpowers/SKILL.md) ⭐ 288,649 | 🐛 366 | 🌐 Shell | 📅 2026-09-19** - Leverage core platform capabilities
-* **[santifer/career-ops](https://github.com/santifer/career-ops) ⭐ 72,105 | 🐛 522 | 🌐 JavaScript | 📅 2026-09-19** - 14-skill collection for AI-powered job search: JD evaluation with A-F scoring, ATS-optimized PDF generation, portal scanners (Greenhouse/Ashby/Lever), interview prep with STAR+R, batch processing, and a Go dashboard TUI
-* **[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) ⭐ 62,320 | 🐛 111 | 🌐 Python | 📅 2026-09-19** - Research any topic across Reddit, X, YouTube, HN, Polymarket, and the web, ranked by upvotes, likes, and real money instead of editors
-* **[zarazhangrui/frontend-slides](https://github.com/zarazhangrui/frontend-slides) ⭐ 29,534 | 🐛 68 | 🌐 JavaScript | 📅 2026-06-23** - Generate animation-rich HTML presentations with visual style previews
-* **[xberg-io/xberg](https://github.com/xberg-io/xberg/tree/main/plugin/skills/xberg) ⭐ 9,325 | 🐛 38 | 🌐 Rust | 📅 2026-09-19** - Extract text, tables, and metadata from 101+ document formats
+* **[obra/brainstorming](https://github.com/obra/superpowers/blob/main/skills/brainstorming/SKILL.md) ⭐ 288,990 | 🐛 371 | 🌐 Shell | 📅 2026-09-19** - Generate and explore ideas
+* **[obra/writing-plans](https://github.com/obra/superpowers/blob/main/skills/writing-plans/SKILL.md) ⭐ 288,990 | 🐛 371 | 🌐 Shell | 📅 2026-09-19** - Create strategic documentation
+* **[obra/executing-plans](https://github.com/obra/superpowers/blob/main/skills/executing-plans/SKILL.md) ⭐ 288,990 | 🐛 371 | 🌐 Shell | 📅 2026-09-19** - Implement and run strategic plans
+* **[obra/dispatching-parallel-agents](https://github.com/obra/superpowers/blob/main/skills/dispatching-parallel-agents/SKILL.md) ⭐ 288,990 | 🐛 371 | 🌐 Shell | 📅 2026-09-19** - Coordinate multiple simultaneous agents
+* **[obra/using-superpowers](https://github.com/obra/superpowers/blob/main/skills/using-superpowers/SKILL.md) ⭐ 288,990 | 🐛 371 | 🌐 Shell | 📅 2026-09-19** - Leverage core platform capabilities
+* **[santifer/career-ops](https://github.com/santifer/career-ops) ⭐ 72,215 | 🐛 538 | 🌐 JavaScript | 📅 2026-09-19** - 14-skill collection for AI-powered job search: JD evaluation with A-F scoring, ATS-optimized PDF generation, portal scanners (Greenhouse/Ashby/Lever), interview prep with STAR+R, batch processing, and a Go dashboard TUI
+* **[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) ⭐ 62,390 | 🐛 112 | 🌐 Python | 📅 2026-09-19** - Research any topic across Reddit, X, YouTube, HN, Polymarket, and the web, ranked by upvotes, likes, and real money instead of editors
+* **[zarazhangrui/frontend-slides](https://github.com/zarazhangrui/frontend-slides) ⭐ 29,589 | 🐛 68 | 🌐 JavaScript | 📅 2026-06-23** - Generate animation-rich HTML presentations with visual style previews
+* **[xberg-io/xberg](https://github.com/xberg-io/xberg/tree/main/plugin/skills/xberg) ⭐ 9,329 | 🐛 1 | 🌐 Rust | 📅 2026-09-20** - Extract text, tables, and metadata from 101+ document formats
 * **[PleasePrompto/notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) ⚠️ Archived** - Interact with NotebookLM for document-based conversations
 * **[op7418/NanoBanana-PPT-Skills](https://github.com/op7418/NanoBanana-PPT-Skills) ⭐ 3,255 | 🐛 7 | 🌐 Python | 📅 2026-01-19** - AI-powered PPT generation with document analysis and styled images
-* **[Paramchoudhary/ResumeSkills](https://github.com/Paramchoudhary/ResumeSkills) ⭐ 2,349 | 🐛 5 | 📅 2026-06-19** - 20 specialized skills for resume optimization, ATS analysis, interview prep, and career transitions
-* **[op7418/Youtube-clipper-skill](https://github.com/op7418/Youtube-clipper-skill) ⭐ 2,210 | 🐛 11 | 🌐 Python | 📅 2026-01-22** - YouTube clip generation and editing with automated workflows
-* **[deusyu/translate-book](https://github.com/deusyu/translate-book) ⭐ 1,904 | 🐛 32 | 🌐 Python | 📅 2026-09-07** - Translate books (PDF/DOCX/EPUB) via parallel sub-agents with resume
-* **[ReScienceLab/opc-skills](https://github.com/ReScienceLab/opc-skills) ⭐ 1,818 | 🐛 11 | 🌐 Python | 📅 2026-09-18** - Agent skills for solopreneurs with SEO, geo, and LLM tools
-* **[NeoLabHQ/write-concisely](https://github.com/NeoLabHQ/context-engineering-kit/tree/master/plugins/docs/skills/write-concisely) ⭐ 1,711 | 🐛 9 | 🌐 TypeScript | 📅 2026-08-26** - Applies the famous *The Elements of Style* book principles to make documentation and writing clearer and more professional by eliminating wordiness and improving structure.
-* **[tjboudreaux/cc-thinking-skills](https://github.com/tjboudreaux/cc-thinking-skills) ⭐ 1,321 | 🐛 4 | 🌐 JavaScript | 📅 2026-08-07** - 28 eval-informed mental models for decisions, debugging, systems, and strategy
-* **[bevibing/tutor-skills](https://github.com/bevibing/tutor-skills) ⭐ 1,150 | 🐛 7 | 🌐 Shell | 📅 2026-02-28** - Transform docs or codebases into Obsidian StudyVaults with interactive quizzes
+* **[Paramchoudhary/ResumeSkills](https://github.com/Paramchoudhary/ResumeSkills) ⭐ 2,368 | 🐛 5 | 📅 2026-06-19** - 20 specialized skills for resume optimization, ATS analysis, interview prep, and career transitions
+* **[op7418/Youtube-clipper-skill](https://github.com/op7418/Youtube-clipper-skill) ⭐ 2,211 | 🐛 11 | 🌐 Python | 📅 2026-01-22** - YouTube clip generation and editing with automated workflows
+* **[deusyu/translate-book](https://github.com/deusyu/translate-book) ⭐ 1,919 | 🐛 32 | 🌐 Python | 📅 2026-09-07** - Translate books (PDF/DOCX/EPUB) via parallel sub-agents with resume
+* **[ReScienceLab/opc-skills](https://github.com/ReScienceLab/opc-skills) ⭐ 1,819 | 🐛 11 | 🌐 Python | 📅 2026-09-19** - Agent skills for solopreneurs with SEO, geo, and LLM tools
+* **[NeoLabHQ/write-concisely](https://github.com/NeoLabHQ/context-engineering-kit/tree/master/plugins/docs/skills/write-concisely) ⭐ 1,715 | 🐛 9 | 🌐 TypeScript | 📅 2026-08-26** - Applies the famous *The Elements of Style* book principles to make documentation and writing clearer and more professional by eliminating wordiness and improving structure.
+* **[tjboudreaux/cc-thinking-skills](https://github.com/tjboudreaux/cc-thinking-skills) ⭐ 1,323 | 🐛 4 | 🌐 JavaScript | 📅 2026-08-07** - 28 eval-informed mental models for decisions, debugging, systems, and strategy
+* **[bevibing/tutor-skills](https://github.com/bevibing/tutor-skills) ⭐ 1,157 | 🐛 7 | 🌐 Shell | 📅 2026-02-28** - Transform docs or codebases into Obsidian StudyVaults with interactive quizzes
 * **[JimmySadek/youtube-fetcher](https://github.com/JimmySadek/youtube-fetcher-to-markdown) ⭐ 480 | 🐛 0 | 🌐 Python | 📅 2026-09-05** - Create Obsidian-ready Markdown notes from YouTube videos
 * **[obra/superpowers-lab](https://github.com/obra/superpowers-lab) ⭐ 429 | 🐛 1 | 🌐 Shell | 📅 2026-06-01** - Lab environment for Claude superpowers
 * **[zapier/zapier-mcp](https://github.com/zapier/zapier-mcp) ⭐ 413 | 🐛 1 | 📅 2026-07-29** - Official plugin distribution for the hosted Zapier MCP server. Connects Claude to thousands of apps — send messages, pull data, trigger workflows.
-* **[openaccountants/openaccountants](https://github.com/openaccountants/openaccountants) ⭐ 391 | 🐛 8 | 🌐 Python | 📅 2026-09-19** - 371 tax classification skills across 134 countries
+* **[openaccountants/openaccountants](https://github.com/openaccountants/openaccountants) ⭐ 391 | 🐛 8 | 🌐 Python | 📅 2026-09-20** - 371 tax classification skills across 134 countries
 * **[Charlie85270/Dorothy](https://github.com/Charlie85270/Dorothy) ⭐ 347 | 🐛 10 | 🌐 TypeScript | 📅 2026-07-07** - Orchestrate multiple AI CLI agents with automations and MCP servers
 * **[Neeeophytee/finding-unknowns-skills](https://github.com/Neeeophytee/finding-unknowns-skills) ⭐ 336 | 🐛 0 | 🌐 Python | 📅 2026-09-16** - 8 meta-skills that make a coding agent surface your unknowns before they get expensive: blindspot pass, interview, reference hunt, implementation plan/notes, pitch packager, and a pre-merge change quiz. Works in Claude Code, Codex, and Cursor via the agentskills.io SKILL.md format
-* **[ognjengt/founder-skills](https://github.com/ognjengt/founder-skills) ⭐ 317 | 🐛 1 | 🌐 JavaScript | 📅 2026-05-18** - Claude skills for founders with packaged startup workflows
-* **[EveryInc/charlie-cfo-skill](https://github.com/EveryInc/charlie-cfo-skill) ⭐ 312 | 🐛 0 | 📅 2026-01-29** - Bootstrapped CFO financial management inspired by Charlie Munger
-* **[Digidai/product-manager-skills](https://github.com/Digidai/product-manager-skills) ⭐ 165 | 🐛 0 | 🌐 Shell | 📅 2026-04-12** - Senior PM agent with 30+ frameworks and SaaS metrics
-* **[gokapso/integrate-whatsapp](https://github.com/gokapso/agent-skills/tree/master/skills/integrate-whatsapp) ⭐ 160 | 🐛 6 | 🌐 JavaScript | 📅 2026-09-17** - Connect WhatsApp, set up webhooks, and send messages
-* **[gokapso/automate-whatsapp](https://github.com/gokapso/agent-skills/tree/master/skills/automate-whatsapp) ⭐ 160 | 🐛 6 | 🌐 JavaScript | 📅 2026-09-17** - Build WhatsApp automations with workflows and agents
-* **[gokapso/observe-whatsapp](https://github.com/gokapso/agent-skills/tree/master/skills/observe-whatsapp) ⭐ 160 | 🐛 6 | 🌐 JavaScript | 📅 2026-09-17** - Debug WhatsApp delivery issues and run health checks
+* **[ognjengt/founder-skills](https://github.com/ognjengt/founder-skills) ⭐ 322 | 🐛 1 | 🌐 JavaScript | 📅 2026-05-18** - Claude skills for founders with packaged startup workflows
+* **[EveryInc/charlie-cfo-skill](https://github.com/EveryInc/charlie-cfo-skill) ⭐ 317 | 🐛 0 | 📅 2026-01-29** - Bootstrapped CFO financial management inspired by Charlie Munger
+* **[Digidai/product-manager-skills](https://github.com/Digidai/product-manager-skills) ⭐ 170 | 🐛 0 | 🌐 Shell | 📅 2026-04-12** - Senior PM agent with 30+ frameworks and SaaS metrics
+* **[gokapso/integrate-whatsapp](https://github.com/gokapso/agent-skills/tree/master/skills/integrate-whatsapp) ⭐ 162 | 🐛 6 | 🌐 JavaScript | 📅 2026-09-17** - Connect WhatsApp, set up webhooks, and send messages
+* **[gokapso/automate-whatsapp](https://github.com/gokapso/agent-skills/tree/master/skills/automate-whatsapp) ⭐ 162 | 🐛 6 | 🌐 JavaScript | 📅 2026-09-17** - Build WhatsApp automations with workflows and agents
+* **[gokapso/observe-whatsapp](https://github.com/gokapso/agent-skills/tree/master/skills/observe-whatsapp) ⭐ 162 | 🐛 6 | 🌐 JavaScript | 📅 2026-09-17** - Debug WhatsApp delivery issues and run health checks
 * **[pattern-ai-labs/agentcall](https://github.com/pattern-ai-labs/agentcall) ⭐ 157 | 🐛 2 | 🌐 Python | 📅 2026-09-15** - Let your AI agents join Google Meet, Zoom, Teams calls and collaborate like a real team-mate.
 * **[vaibhavarora14/job-application-agent](https://github.com/vaibhavarora14/job-application-agent) ⭐ 150 | 🐛 4 | 🌐 JavaScript | 📅 2026-09-17** - Privacy-first job discovery and tracking
 * **[wrsmith108/linear-claude-skill](https://github.com/wrsmith108/linear-claude-skill) ⭐ 126 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-17** - Manage Linear issues, projects, and teams
 * **[manavmishra/zero-slop](https://github.com/manavmishra/ZeroSlop/blob/main/SKILL.md) ⭐ 122 | 🐛 5 | 🌐 Python | 📅 2026-09-13** - Edits AI-sounding prose while preserving facts, voice, and formatting
-* **[kgraph57/strategy-consulting-visualization](https://github.com/kgraph57/mckinsey-style-visualization-skill) ⭐ 114 | 🐛 4 | 🌐 Python | 📅 2026-09-09** - McKinsey-style charts and consulting slide decks
-* **[Linked-API/linkedin](https://github.com/Linked-API/linkedin-skills/tree/main/linkedin) ⭐ 61 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-13** - Fetch LinkedIn profiles, search people and companies, send messages, manage connections, create posts, react, comment, and run custom LinkedIn workflows from Claude Code, Codex, Cursor, and Windsurf.
+* **[kgraph57/strategy-consulting-visualization](https://github.com/kgraph57/mckinsey-style-visualization-skill) ⭐ 115 | 🐛 4 | 🌐 Python | 📅 2026-09-09** - McKinsey-style charts and consulting slide decks
+* **[Linked-API/linkedin](https://github.com/Linked-API/linkedin-skills/tree/main/linkedin) ⭐ 65 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-13** - Fetch LinkedIn profiles, search people and companies, send messages, manage connections, create posts, react, comment, and run custom LinkedIn workflows from Claude Code, Codex, Cursor, and Windsurf.
 * **[hanfang/claude-memory-skill](https://github.com/hanfang/claude-memory-skill) ⭐ 56 | 🐛 0 | 🌐 Shell | 📅 2026-02-07** - Minimal, low-friction hierarchical memory system with background agents and filesystem-based persistence
 * **[cyperx84/claude-skills-mental-models](https://github.com/cyperx84/claude-skills-mental-models) ⭐ 19 | 🐛 4 | 📅 2026-09-10** - Drop your own mental models in as files; 21 included
+* **[PSPDFKit-labs/nutrient-agent-skill](https://github.com/PSPDFKit-labs/nutrient-agent-skill) ⭐ 18 | 🐛 0 | 🌐 Python | 📅 2026-08-30** - Document processing with Nutrient DWS API: convert (PDF/DOCX/XLSX/PPTX/HTML/images), extract text/tables, OCR (20+ languages), redact PII (pattern + AI), watermark, digital signatures, form filling. [MCP server](https://www.npmjs.com/package/@nutrient-sdk/dws-mcp-server) also available.
 * **[Sendmux/skills](https://github.com/Sendmux/skills) ⭐ 18 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18** - Sendmux email and mailbox workflows for agents
-* **[PSPDFKit-labs/nutrient-agent-skill](https://github.com/PSPDFKit-labs/nutrient-agent-skill) ⭐ 17 | 🐛 0 | 🌐 Python | 📅 2026-08-30** - Document processing with Nutrient DWS API: convert (PDF/DOCX/XLSX/PPTX/HTML/images), extract text/tables, OCR (20+ languages), redact PII (pattern + AI), watermark, digital signatures, form filling. [MCP server](https://www.npmjs.com/package/@nutrient-sdk/dws-mcp-server) also available.
 * **[SeanZoR/claude-speed-reader](https://github.com/SeanZoR/claude-speed-reader) ⭐ 16 | 🐛 0 | 🌐 HTML | 📅 2026-01-15** - Speed read Claude's responses at 600+ WPM using RSVP with Spritz-style ORP highlighting
 * **[notiondevs/Notion Skills for Claude](https://www.notion.so/notiondevs/Notion-Skills-for-Claude-28da4445d27180c7af1df7d8615723d0)** - Skills for working with Notion
 
@@ -1580,91 +1580,91 @@ Official skills published by Cypress to help create, maintain, understand, and f
 <details>
 <summary><h3 style="display:inline">Development and Testing</h3></summary>
 
-* **[obra/test-driven-development](https://github.com/obra/superpowers/blob/main/skills/test-driven-development/SKILL.md) ⭐ 288,649 | 🐛 366 | 🌐 Shell | 📅 2026-09-19** - Write tests before implementing code
+* **[obra/test-driven-development](https://github.com/obra/superpowers/blob/main/skills/test-driven-development/SKILL.md) ⭐ 288,990 | 🐛 371 | 🌐 Shell | 📅 2026-09-19** - Write tests before implementing code
 
-* **[obra/subagent-driven-development](https://github.com/obra/superpowers/blob/main/skills/subagent-driven-development/SKILL.md) ⭐ 288,649 | 🐛 366 | 🌐 Shell | 📅 2026-09-19** - Development using multiple sub-agents
+* **[obra/subagent-driven-development](https://github.com/obra/superpowers/blob/main/skills/subagent-driven-development/SKILL.md) ⭐ 288,990 | 🐛 371 | 🌐 Shell | 📅 2026-09-19** - Development using multiple sub-agents
 
-* **[obra/systematic-debugging](https://github.com/obra/superpowers/blob/main/skills/systematic-debugging/SKILL.md) ⭐ 288,649 | 🐛 366 | 🌐 Shell | 📅 2026-09-19** - Methodical problem-solving in code
+* **[obra/systematic-debugging](https://github.com/obra/superpowers/blob/main/skills/systematic-debugging/SKILL.md) ⭐ 288,990 | 🐛 371 | 🌐 Shell | 📅 2026-09-19** - Methodical problem-solving in code
 
-* **[obra/finishing-a-development-branch](https://github.com/obra/superpowers/blob/main/skills/finishing-a-development-branch/SKILL.md) ⭐ 288,649 | 🐛 366 | 🌐 Shell | 📅 2026-09-19** - Complete Git code branches
+* **[obra/finishing-a-development-branch](https://github.com/obra/superpowers/blob/main/skills/finishing-a-development-branch/SKILL.md) ⭐ 288,990 | 🐛 371 | 🌐 Shell | 📅 2026-09-19** - Complete Git code branches
 
-* **[obra/requesting-code-review](https://github.com/obra/superpowers/blob/main/skills/requesting-code-review/SKILL.md) ⭐ 288,649 | 🐛 366 | 🌐 Shell | 📅 2026-09-19** - Initiate code review processes
+* **[obra/requesting-code-review](https://github.com/obra/superpowers/blob/main/skills/requesting-code-review/SKILL.md) ⭐ 288,990 | 🐛 371 | 🌐 Shell | 📅 2026-09-19** - Initiate code review processes
 
-* **[obra/receiving-code-review](https://github.com/obra/superpowers/blob/main/skills/receiving-code-review/SKILL.md) ⭐ 288,649 | 🐛 366 | 🌐 Shell | 📅 2026-09-19** - Process and incorporate code feedback
+* **[obra/receiving-code-review](https://github.com/obra/superpowers/blob/main/skills/receiving-code-review/SKILL.md) ⭐ 288,990 | 🐛 371 | 🌐 Shell | 📅 2026-09-19** - Process and incorporate code feedback
 
-* **[obra/using-git-worktrees](https://github.com/obra/superpowers/blob/main/skills/using-git-worktrees/SKILL.md) ⭐ 288,649 | 🐛 366 | 🌐 Shell | 📅 2026-09-19** - Manage multiple Git working trees
+* **[obra/using-git-worktrees](https://github.com/obra/superpowers/blob/main/skills/using-git-worktrees/SKILL.md) ⭐ 288,990 | 🐛 371 | 🌐 Shell | 📅 2026-09-19** - Manage multiple Git working trees
 
-* **[obra/verification-before-completion](https://github.com/obra/superpowers/blob/main/skills/verification-before-completion/SKILL.md) ⭐ 288,649 | 🐛 366 | 🌐 Shell | 📅 2026-09-19** - Validate work before finalizing
+* **[obra/verification-before-completion](https://github.com/obra/superpowers/blob/main/skills/verification-before-completion/SKILL.md) ⭐ 288,990 | 🐛 371 | 🌐 Shell | 📅 2026-09-19** - Validate work before finalizing
 
-* **[obra/writing-skills](https://github.com/obra/superpowers/blob/main/skills/writing-skills/SKILL.md) ⭐ 288,649 | 🐛 366 | 🌐 Shell | 📅 2026-09-19** - Develop and document capabilities
+* **[obra/writing-skills](https://github.com/obra/superpowers/blob/main/skills/writing-skills/SKILL.md) ⭐ 288,990 | 🐛 371 | 🌐 Shell | 📅 2026-09-19** - Develop and document capabilities
 
-* **[mattpocock/skills](https://github.com/mattpocock/skills) ⭐ 265,475 | 🐛 504 | 🌐 Shell | 📅 2026-09-18** - 17 dev workflow skills: PRD writing, TDD, codebase architecture, git guardrails, issue triage, refactoring plans, and more
+* **[mattpocock/skills](https://github.com/mattpocock/skills) ⭐ 266,117 | 🐛 504 | 🌐 Shell | 📅 2026-09-18** - 17 dev workflow skills: PRD writing, TDD, codebase architecture, git guardrails, issue triage, refactoring plans, and more
 
-* **[nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) ⭐ 128,933 | 🐛 84 | 🌐 Python | 📅 2026-09-19** - UI/UX design patterns and best practices
+* **[nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) ⭐ 129,181 | 🐛 84 | 🌐 Python | 📅 2026-09-19** - UI/UX design patterns and best practices
 
-* **[Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) ⭐ 88,342 | 🐛 69 | 🌐 JavaScript | 📅 2026-09-16** - High-agency frontend skill that gives AI good taste with tunable design variance, motion intensity, and visual density to stop generic UI slop
+* **[Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) ⭐ 88,631 | 🐛 69 | 🌐 JavaScript | 📅 2026-09-16** - High-agency frontend skill that gives AI good taste with tunable design variance, motion intensity, and visual density to stop generic UI slop
 
-* **[Lum1104/understand-anything](https://github.com/Egonex-AI/Understand-Anything) ⭐ 83,276 | 🐛 306 | 🌐 TypeScript | 📅 2026-09-12** - Interactive codebase knowledge graphs via multi-agent LLM analysis
+* **[Lum1104/understand-anything](https://github.com/Egonex-AI/Understand-Anything) ⭐ 83,383 | 🐛 306 | 🌐 TypeScript | 📅 2026-09-12** - Interactive codebase knowledge graphs via multi-agent LLM analysis
 
-* **[tt-a1i/archify](https://github.com/tt-a1i/archify/tree/main/archify) ⭐ 67,051 | 🐛 138 | 🌐 JavaScript | 📅 2026-09-19** - Generate validated interactive architecture diagrams from codebases or system descriptions
+* **[tt-a1i/archify](https://github.com/tt-a1i/archify/tree/main/archify) ⭐ 67,856 | 🐛 136 | 🌐 JavaScript | 📅 2026-09-20** - Generate validated interactive architecture diagrams from codebases or system descriptions
 
-* **[mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) ⭐ 32,972 | 🐛 48 | 🌐 Python | 📅 2026-08-31** - 753 cybersecurity skills across 38 domains: cloud security, pentesting, red teaming, DFIR, malware analysis, threat intel, and more (MITRE ATT\&CK mapped)
+* **[mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) ⭐ 33,012 | 🐛 49 | 🌐 Python | 📅 2026-08-31** - 753 cybersecurity skills across 38 domains: cloud security, pentesting, red teaming, DFIR, malware analysis, threat intel, and more (MITRE ATT\&CK mapped)
 
-* **[Skill\_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers) ⭐ 15,002 | 🐛 58 | 🌐 Python | 📅 2026-09-16** - Automatically convert documentation websites, GitHub repositories, and PDFs into Claude AI skills in minutes
+* **[Skill\_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers) ⭐ 15,011 | 🐛 53 | 🌐 Python | 📅 2026-09-20** - Automatically convert documentation websites, GitHub repositories, and PDFs into Claude AI skills in minutes
 
-* **[ibelick/ui-skills](https://github.com/ibelick/ui-skills) ⭐ 8,702 | 🐛 14 | 🌐 TypeScript | 📅 2026-09-18** - Opinionated, evolving constraints to guide agents when building interfaces
+* **[ibelick/ui-skills](https://github.com/ibelick/ui-skills) ⭐ 8,741 | 🐛 14 | 🌐 TypeScript | 📅 2026-09-19** - Opinionated, evolving constraints to guide agents when building interfaces
 
-* **[browser-act/browser-act](https://github.com/browser-act/skills/tree/main/browser-act) ⭐ 5,957 | 🐛 8 | 🌐 Python | 📅 2026-08-24** - Automate authenticated browsers with extraction and human handoff
+* **[browser-act/browser-act](https://github.com/browser-act/skills/tree/main/browser-act) ⭐ 5,964 | 🐛 8 | 🌐 Python | 📅 2026-08-24** - Automate authenticated browsers with extraction and human handoff
 
-* **[AvdLee/swiftui-expert-skill](https://github.com/AvdLee/SwiftUI-Agent-Skill/tree/main/swiftui-expert-skill) ⭐ 3,577 | 🐛 4 | 🌐 Python | 📅 2026-09-18** - Modern SwiftUI best practices and iOS 26+ Liquid Glass adoption
+* **[AvdLee/swiftui-expert-skill](https://github.com/AvdLee/SwiftUI-Agent-Skill/tree/main/swiftui-expert-skill) ⭐ 3,586 | 🐛 4 | 🌐 Python | 📅 2026-09-18** - Modern SwiftUI best practices and iOS 26+ Liquid Glass adoption
 
-* **[foryourhealth111-pixel/Vibe-Skills](https://github.com/foryourhealth111-pixel/Vibe-Skills) ⭐ 3,353 | 🐛 42 | 🌐 Python | 📅 2026-08-31** - A skills governed plug-and-play harness for staged, test-driven skill orchestration
+* **[foryourhealth111-pixel/Vibe-Skills](https://github.com/foryourhealth111-pixel/Vibe-Skills) ⭐ 3,370 | 🐛 42 | 🌐 Python | 📅 2026-08-31** - A skills governed plug-and-play harness for staged, test-driven skill orchestration
 
-* **[CloudAI-X/threejs-skills](https://github.com/CloudAI-X/threejs-skills) ⭐ 3,334 | 🐛 9 | 📅 2026-07-09** - Three.js skills for creating 3D elements and interactive experiences
+* **[CloudAI-X/threejs-skills](https://github.com/CloudAI-X/threejs-skills) ⭐ 3,346 | 🐛 9 | 📅 2026-07-09** - Three.js skills for creating 3D elements and interactive experiences
 
-* **[lackeyjb/playwright-skill](https://github.com/lackeyjb/playwright-skill) ⭐ 3,127 | 🐛 7 | 🌐 JavaScript | 📅 2026-08-14** - Browser automation with Playwright
+* **[lackeyjb/playwright-skill](https://github.com/lackeyjb/playwright-skill) ⭐ 3,129 | 🐛 7 | 🌐 JavaScript | 📅 2026-08-14** - Browser automation with Playwright
 
-* **[KhazP/vibe-coding-prompt-template](https://github.com/KhazP/vibe-coding-prompt-template) ⭐ 3,086 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-10** - Plan MVPs into PRD, tech design, and AGENTS.md
+* **[KhazP/vibe-coding-prompt-template](https://github.com/KhazP/vibe-coding-prompt-template) ⭐ 3,088 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-10** - Plan MVPs into PRD, tech design, and AGENTS.md
 
-* **[Simon-He95/markstream-install](https://github.com/Simon-He95/markstream-vue/tree/main/.agents/skills/markstream-install) ⭐ 3,011 | 🐛 3 | 🌐 Vue | 📅 2026-09-13** - Install streaming Markdown renderers across five frontend frameworks
+* **[Simon-He95/markstream-install](https://github.com/Simon-He95/markstream-vue/tree/main/.agents/skills/markstream-install) ⭐ 3,013 | 🐛 3 | 🌐 Vue | 📅 2026-09-13** - Install streaming Markdown renderers across five frontend frameworks
 
-* **[antonbabenko/terraform-skill](https://github.com/antonbabenko/terraform-skill) ⭐ 2,356 | 🐛 3 | 📅 2026-07-03** - Terraform and OpenTofu patterns: testing, modules, state, CI/CD.
+* **[antonbabenko/terraform-skill](https://github.com/antonbabenko/terraform-skill) ⭐ 2,365 | 🐛 3 | 📅 2026-07-03** - Terraform and OpenTofu patterns: testing, modules, state, CI/CD.
 
 * **[mcollina/skills](https://github.com/mcollina/skills/tree/main/skills) ⭐ 1,924 | 🐛 10 | 🌐 TypeScript | 📅 2026-08-17** - 11 skills by Matteo Collina: Node.js, Fastify, TypeScript, OAuth, Git/GitHub, ESLint neostandard, documentation (Diataxis), Node.js core internals, skill optimizer, and more
 
-* **[NeoLabHQ/review](https://github.com/NeoLabHQ/context-engineering-kit/tree/master/plugins/review) ⭐ 1,711 | 🐛 9 | 🌐 TypeScript | 📅 2026-08-26** - Comprehensive PR code review using specialized agents: bug-hunter, security-auditor, code-quality-reviewer, contracts-reviewer, historical-context-reviewer, test-coverage-reviewer
+* **[NeoLabHQ/review](https://github.com/NeoLabHQ/context-engineering-kit/tree/master/plugins/review) ⭐ 1,715 | 🐛 9 | 🌐 TypeScript | 📅 2026-08-26** - Comprehensive PR code review using specialized agents: bug-hunter, security-auditor, code-quality-reviewer, contracts-reviewer, historical-context-reviewer, test-coverage-reviewer
 
-* **[NeoLabHQ/reflexion](https://github.com/NeoLabHQ/context-engineering-kit/tree/master/plugins/reflexion) ⭐ 1,711 | 🐛 9 | 🌐 TypeScript | 📅 2026-08-26** - Self-refinement loop that forces the LLM to reflect on previous output and correct itself.
+* **[NeoLabHQ/reflexion](https://github.com/NeoLabHQ/context-engineering-kit/tree/master/plugins/reflexion) ⭐ 1,715 | 🐛 9 | 🌐 TypeScript | 📅 2026-08-26** - Self-refinement loop that forces the LLM to reflect on previous output and correct itself.
 
-* **[NeoLabHQ/sdd](https://github.com/NeoLabHQ/context-engineering-kit/tree/master/plugins/sdd) ⭐ 1,711 | 🐛 9 | 🌐 TypeScript | 📅 2026-08-26** - Spec-driven development workflow that transforms prompts into production-ready implementations through structured planning, architecture design, and LLM-as-a-Judge based quality gates.
+* **[NeoLabHQ/sdd](https://github.com/NeoLabHQ/context-engineering-kit/tree/master/plugins/sdd) ⭐ 1,715 | 🐛 9 | 🌐 TypeScript | 📅 2026-08-26** - Spec-driven development workflow that transforms prompts into production-ready implementations through structured planning, architecture design, and LLM-as-a-Judge based quality gates.
 
-* **[NeoLabHQ/ddd](https://github.com/NeoLabHQ/context-engineering-kit/tree/master/plugins/ddd) ⭐ 1,711 | 🐛 9 | 🌐 TypeScript | 📅 2026-08-26** - Domain-driven development skills that also include Clean Architecture, SOLID principles, and design patterns.
+* **[NeoLabHQ/ddd](https://github.com/NeoLabHQ/context-engineering-kit/tree/master/plugins/ddd) ⭐ 1,715 | 🐛 9 | 🌐 TypeScript | 📅 2026-08-26** - Domain-driven development skills that also include Clean Architecture, SOLID principles, and design patterns.
 
-* **[NeoLabHQ/sadd](https://github.com/NeoLabHQ/context-engineering-kit/tree/master/plugins/sadd) ⭐ 1,711 | 🐛 9 | 🌐 TypeScript | 📅 2026-08-26** - Dispatches independent subagents for individual tasks with code review checkpoints between iterations for rapid, controlled development.
+* **[NeoLabHQ/sadd](https://github.com/NeoLabHQ/context-engineering-kit/tree/master/plugins/sadd) ⭐ 1,715 | 🐛 9 | 🌐 TypeScript | 📅 2026-08-26** - Dispatches independent subagents for individual tasks with code review checkpoints between iterations for rapid, controlled development.
 
-* **[NeoLabHQ/kaizen](https://github.com/NeoLabHQ/context-engineering-kit/tree/master/plugins/kaizen) ⭐ 1,711 | 🐛 9 | 🌐 TypeScript | 📅 2026-08-26** - Applies continuous improvement methodology with multiple analytical approaches, based on Japanese Kaizen philosophy and Lean methodology.
+* **[NeoLabHQ/kaizen](https://github.com/NeoLabHQ/context-engineering-kit/tree/master/plugins/kaizen) ⭐ 1,715 | 🐛 9 | 🌐 TypeScript | 📅 2026-08-26** - Applies continuous improvement methodology with multiple analytical approaches, based on Japanese Kaizen philosophy and Lean methodology.
 
-* **[truongduy2611/app-store-preflight-skills](https://github.com/truongduy2611/app-store-preflight-skills) ⭐ 1,369 | 🐛 0 | 📅 2026-05-29** - Scan iOS/macOS projects to catch common mistakes that lead to App Store rejection before submission
+* **[truongduy2611/app-store-preflight-skills](https://github.com/truongduy2611/app-store-preflight-skills) ⭐ 1,367 | 🐛 0 | 📅 2026-05-29** - Scan iOS/macOS projects to catch common mistakes that lead to App Store rejection before submission
 
-* **[conorluddy/ios-simulator-skill](https://github.com/conorluddy/ios-simulator-skill) ⭐ 1,256 | 🐛 20 | 🌐 Python | 📅 2026-09-13** - Control iOS Simulator
+* **[conorluddy/ios-simulator-skill](https://github.com/conorluddy/ios-simulator-skill) ⭐ 1,255 | 🐛 20 | 🌐 Python | 📅 2026-09-13** - Control iOS Simulator
 
-* **[GanyuanRan/Aegis](https://github.com/GanyuanRan/Aegis) ⭐ 1,211 | 🐛 1 | 🌐 Python | 📅 2026-09-16** - Evidence-driven method pack for AI coding agents
+* **[GanyuanRan/Aegis](https://github.com/GanyuanRan/Aegis) ⭐ 1,219 | 🐛 1 | 🌐 Python | 📅 2026-09-20** - Evidence-driven method pack for AI coding agents
 
 * **[rorkai/app-store-connect-cli-skills](https://github.com/rorkai/app-store-connect-cli-skills) ⭐ 1,033 | 🐛 0 | 🌐 Python | 📅 2026-09-14** - Automate App Store deployments and management using ASC CLI
 
-* **[agiwhitelist/auteur](https://github.com/agiwhitelist/auteur) ⭐ 1,020 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-06** - Builds websites gated by an anti-slop linter and motion QA
+* **[agiwhitelist/auteur](https://github.com/agiwhitelist/auteur) ⭐ 1,021 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-06** - Builds websites gated by an anti-slop linter and motion QA
 
 * **[ZhangHanDong/makepad-skills](https://github.com/ZhangHanDong/makepad-skills) ⭐ 750 | 🐛 0 | 📅 2026-04-07** - Makepad UI development skills for Rust apps: setup, patterns, shaders, packaging, and troubleshooting.
 
-* **[aeonfun/aeon](https://github.com/aeonfun/aeon) ⭐ 742 | 🐛 1 | 🌐 Shell | 📅 2026-09-18** - 70+ Claude Code skills + autonomous GitHub Actions agent framework
+* **[aeonfun/aeon](https://github.com/aeonfun/aeon) ⭐ 743 | 🐛 1 | 🌐 Shell | 📅 2026-09-18** - 70+ Claude Code skills + autonomous GitHub Actions agent framework
 
-* **[plasma-ai/fractal](https://github.com/plasma-ai/fractal/tree/main/fractal/skills/fractal) ⭐ 731 | 🐛 5 | 🌐 Python | 📅 2026-09-17** - Bounded hierarchical agent loops in isolated git worktrees
+* **[plasma-ai/fractal](https://github.com/plasma-ai/fractal/tree/main/fractal/skills/fractal) ⭐ 732 | 🐛 6 | 🌐 Python | 📅 2026-09-20** - Bounded hierarchical agent loops in isolated git worktrees
 
-* **[alinaqi/maggy](https://github.com/alinaqi/maggy) ⭐ 708 | 🐛 0 | 🌐 Python | 📅 2026-09-16** - Opinionated project initialization with security-first guardrails, spec-driven atomic todos, LLM testing patterns, and CLI tool orchestration (gh, vercel, supabase)
+* **[alinaqi/maggy](https://github.com/alinaqi/maggy) ⭐ 708 | 🐛 0 | 🌐 Python | 📅 2026-09-19** - Opinionated project initialization with security-first guardrails, spec-driven atomic todos, LLM testing patterns, and CLI tool orchestration (gh, vercel, supabase)
 
-* **[superdesigndev/superdesign-skill](https://github.com/superdesigndev/superdesign-skill) ⭐ 579 | 🐛 7 | 🌐 JavaScript | 📅 2026-08-21** - Creates design systems from existing codebases and iterates UI drafts
+* **[superdesigndev/superdesign-skill](https://github.com/superdesigndev/superdesign-skill) ⭐ 580 | 🐛 7 | 🌐 JavaScript | 📅 2026-08-21** - Creates design systems from existing codebases and iterates UI drafts
 
-* **[ehmo/platform-design-skills](https://github.com/ehmo/platform-design-skills) ⭐ 529 | 🐛 1 | 📅 2026-03-19** - 300+ design rules from Apple HIG, Material Design 3, and WCAG 2.2 for cross-platform apps
+* **[ehmo/platform-design-skills](https://github.com/ehmo/platform-design-skills) ⭐ 535 | 🐛 1 | 📅 2026-03-19** - 300+ design rules from Apple HIG, Material Design 3, and WCAG 2.2 for cross-platform apps
 
 * **[NoizAI/skills](https://github.com/NoizAI/skills) ⭐ 524 | 🐛 5 | 🌐 Python | 📅 2026-05-07** - Human-like TTS workflows with local/cloud APIs and app delivery
 
@@ -1684,23 +1684,23 @@ Official skills published by Cypress to help create, maintain, understand, and f
 
 * **[drogers0/github-image-upload](https://github.com/drogers0/gh-image/tree/main/skills/github-image-upload) ⭐ 269 | 🐛 4 | 🌐 Go | 📅 2026-09-09** - Attach screenshots, PDFs, logs, zips, and videos to GitHub PRs, issues, and comments, returning canonical user-attachments URLs. GitHub has no public attachment-upload API. Works with Claude Code, Codex, Cursor, and Gemini CLI
 
-* **[squirrelscan/squirrelscan](https://github.com/squirrelscan/squirrelscan/tree/main/skills) ⭐ 268 | 🐛 52 | 🌐 TypeScript | 📅 2026-09-19** - Audits websites for SEO, performance, security, accessibility and returns fixes
+* **[squirrelscan/squirrelscan](https://github.com/squirrelscan/squirrelscan/tree/main/skills) ⭐ 268 | 🐛 50 | 🌐 TypeScript | 📅 2026-09-19** - Audits websites for SEO, performance, security, accessibility and returns fixes
 
-* **[Continuum-AI-Corp/orca-replay](https://github.com/Continuum-AI-Corp/OrcaReplay/tree/main/skills/orca-replay) ⭐ 255 | 🐛 9 | 🌐 TypeScript | 📅 2026-09-18** - Answer questions about past agent runs from their recordings
+* **[Continuum-AI-Corp/orca-replay](https://github.com/Continuum-AI-Corp/OrcaReplay/tree/main/skills/orca-replay) ⭐ 256 | 🐛 8 | 🌐 TypeScript | 📅 2026-09-20** - Answer questions about past agent runs from their recordings
 
 * **[scarletkc/vexor](https://github.com/scarletkc/vexor) ⭐ 241 | 🐛 4 | 🌐 Python | 📅 2026-09-12** - Vector-powered CLI for semantic file search with a Claude/Codex skill
 
-* **[scarletkc/agents](https://github.com/scarletkc/agents) ⭐ 220 | 🐛 0 | 🌐 Python | 📅 2026-09-18** - Reusable standards and workflow skills for AI coding agents
+* **[scarletkc/agents](https://github.com/scarletkc/agents) ⭐ 222 | 🐛 0 | 🌐 Python | 📅 2026-09-18** - Reusable standards and workflow skills for AI coding agents
 
 * **[jthack/ffuf-claude-skill](https://github.com/jthack/ffuf_claude_skill) ⭐ 211 | 🐛 1 | 🌐 Python | 📅 2025-10-16** - Web fuzzing with ffuf
 
-* **[coderabbitai/skills](https://github.com/coderabbitai/skills) ⭐ 177 | 🐛 15 | 📅 2026-09-16** - Code review and PR autofix workflows for coding agents
+* **[coderabbitai/skills](https://github.com/coderabbitai/skills) ⭐ 178 | 🐛 15 | 📅 2026-09-16** - Code review and PR autofix workflows for coding agents
 
-* **[hqhq1025/skill-optimizer](https://github.com/hqhq1025/skill-optimizer) ⭐ 169 | 🐛 1 | 🌐 Python | 📅 2026-05-14** - Diagnose and optimize Agent Skills (SKILL.md) with real session data and research-backed static analysis. Works with Claude Code, Codex, and any Agent Skills-compatible agent
+* **[hqhq1025/skill-optimizer](https://github.com/hqhq1025/skill-optimizer) ⭐ 170 | 🐛 1 | 🌐 Python | 📅 2026-05-14** - Diagnose and optimize Agent Skills (SKILL.md) with real session data and research-backed static analysis. Works with Claude Code, Codex, and any Agent Skills-compatible agent
+
+* **[Kayforkind/reimagine-it](https://github.com/Kayforkind/reimagine-it) ⭐ 168 | 🐛 1 | 🌐 JavaScript | 📅 2026-09-19** - Redesign HTML pages using only their existing content
 
 * **[csthink/dashmotion](https://github.com/csthink/dashmotion/tree/main/skills/dashmotion) ⭐ 168 | 🐛 0 | 🌐 HTML | 📅 2026-06-16** - Animated technical diagrams from plain English or Mermaid, self-contained HTML/SVG
-
-* **[Kayforkind/reimagine-it](https://github.com/Kayforkind/reimagine-it) ⭐ 166 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-13** - Redesign HTML pages using only their existing content
 
 * **[reliefeai/browser-relay](https://github.com/reliefeai/browser-relay/tree/v1.4.1/skills/browser-relay) ⭐ 129 | 🐛 5 | 🌐 JavaScript | 📅 2026-09-17** - Control an existing logged-in Chrome without stealing focus
 
@@ -1710,13 +1710,13 @@ Official skills published by Cypress to help create, maintain, understand, and f
 
 * **[d1vai/d1v](https://github.com/d1vai/d1v-cli/blob/main/skills/d1v/SKILL.md) ⭐ 99 | 🐛 0 | 🌐 Rust | 📅 2026-09-04** - Deploy web projects with verified previews and confirmed production releases
 
-* **[Kevin7Qi/codex-collab](https://github.com/Kevin7Qi/codex-collab) ⭐ 96 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-14** - Collaborate with Codex from Claude Code
+* **[Kevin7Qi/codex-collab](https://github.com/Kevin7Qi/codex-collab) ⭐ 96 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-19** - Collaborate with Codex from Claude Code
 
 * **[omkamal/pypict-skill](https://github.com/omkamal/pypict-claude-skill/blob/main/SKILL.md) ⭐ 95 | 🐛 0 | 🌐 Python | 📅 2026-03-22** - Pairwise test generation
 
-* **[uucz/moyu](https://github.com/uucz/moyu) ⭐ 77 | 🐛 1 | 🌐 Python | 📅 2026-07-30** - Anti-over-engineering skill with 5 variants and 10 platforms
+* **[uucz/moyu](https://github.com/uucz/moyu) ⭐ 76 | 🐛 1 | 🌐 Python | 📅 2026-07-30** - Anti-over-engineering skill with 5 variants and 10 platforms
 
-* **[muthuishere/hand-drawn-diagrams](https://github.com/muthuishere/hand-drawn-diagrams) ⭐ 72 | 🐛 1 | 🌐 Python | 📅 2026-09-09** - Generate hand-drawn Excalidraw diagrams from a prompt — animated SVG, hosted edit link, and PNG export. Works with Claude Code, Codex, Gemini CLI, and any agent supporting standard skill paths
+* **[muthuishere/hand-drawn-diagrams](https://github.com/muthuishere/hand-drawn-diagrams) ⭐ 73 | 🐛 1 | 🌐 Python | 📅 2026-09-09** - Generate hand-drawn Excalidraw diagrams from a prompt — animated SVG, hosted edit link, and PNG export. Works with Claude Code, Codex, Gemini CLI, and any agent supporting standard skill paths
 
 * **[fvadicamo/dev-agent-skills](https://github.com/fvadicamo/dev-agent-skills) ⭐ 72 | 🐛 12 | 🌐 Shell | 📅 2026-09-11** - Git and GitHub workflow skills for commits, PRs, and code reviews
 
@@ -1724,7 +1724,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 
 * **[wendylabsinc/claude-skills](https://github.com/wendylabsinc/claude-skills) ⭐ 62 | 🐛 1 | 🌐 Swift | 📅 2026-09-04** - Swift Server development guidance with linting tool for best practices
 
-* **[dembrandt/dembrandt-skills](https://github.com/dembrandt/dembrandt-skills) ⭐ 55 | 🐛 4 | 🌐 JavaScript | 📅 2026-09-15** - UX and design system skills: hierarchy, typography, accessibility, interactions
+* **[dembrandt/dembrandt-skills](https://github.com/dembrandt/dembrandt-skills) ⭐ 56 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-19** - UX and design system skills: hierarchy, typography, accessibility, interactions
 
 * **[robzolkos/skill-rails-upgrade](https://github.com/robzolkos/skill-rails-upgrade) ⭐ 54 | 🐛 0 | 📅 2026-01-27** - Analyze Rails apps and provide upgrade assessments
 
@@ -1767,32 +1767,32 @@ Official skills published by Cypress to help create, maintain, understand, and f
 <details>
 <summary><h3 style="display:inline">Context Engineering</h3></summary>
 
-* **[thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) ⭐ 94,231 | 🐛 219 | 🌐 TypeScript | 📅 2026-09-19** - Compresses and persists agent memory across sessions
-* **[Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) ⭐ 83,245 | 🐛 151 | 🌐 Python | 📅 2026-09-15** - Multi-platform search CLI for 17 sites including Chinese platforms
-* **[muratcankoylan/context-fundamentals](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/tree/main/skills/context-fundamentals) ⭐ 18,009 | 🐛 53 | 🌐 Python | 📅 2026-09-11** - Understand what context is, why it matters, and the anatomy of context in agent systems
-* **[muratcankoylan/context-degradation](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/tree/main/skills/context-degradation) ⭐ 18,009 | 🐛 53 | 🌐 Python | 📅 2026-09-11** - Recognize patterns of context failure: lost-in-middle, poisoning, distraction, and clash
-* **[muratcankoylan/context-compression](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/tree/main/skills/context-compression) ⭐ 18,009 | 🐛 53 | 🌐 Python | 📅 2026-09-11** - Design and evaluate compression strategies for long-running sessions
-* **[muratcankoylan/context-optimization](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/tree/main/skills/context-optimization) ⭐ 18,009 | 🐛 53 | 🌐 Python | 📅 2026-09-11** - Apply compaction, masking, and caching strategies
-* **[muratcankoylan/multi-agent-patterns](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/tree/main/skills/multi-agent-patterns) ⭐ 18,009 | 🐛 53 | 🌐 Python | 📅 2026-09-11** - Master orchestrator, peer-to-peer, and hierarchical multi-agent architectures
-* **[muratcankoylan/memory-systems](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/tree/main/skills/memory-systems) ⭐ 18,009 | 🐛 53 | 🌐 Python | 📅 2026-09-11** - Design short-term, long-term, and graph-based memory architectures
-* **[muratcankoylan/tool-design](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/tree/main/skills/tool-design) ⭐ 18,009 | 🐛 53 | 🌐 Python | 📅 2026-09-11** - Build tools that agents can use effectively, including architectural reduction patterns
-* **[muratcankoylan/evaluation](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/tree/main/skills/evaluation) ⭐ 18,009 | 🐛 53 | 🌐 Python | 📅 2026-09-11** - Build evaluation frameworks for agent systems
-* **[rebelytics/task-observer](https://github.com/rebelytics/one-skill-to-rule-them-all) ⭐ 2,754 | 🐛 75 | 🌐 Python | 📅 2026-09-11** - Meta-skill for continuous skill improvement & automatic skill creation.
-* **[NeoLabHQ/prompt-engineering](https://github.com/NeoLabHQ/context-engineering-kit/tree/master/plugins/customaize-agent/skills/prompt-engineering) ⭐ 1,711 | 🐛 9 | 🌐 TypeScript | 📅 2026-08-26** - Widely used prompt engineering techniques and patterns, including Anthropic best practices and agent persuasion principles.
-* **[vshulcz/deja-history](https://github.com/vshulcz/deja-vu/tree/main/claude-plugin/skills/deja-history) ⭐ 855 | 🐛 31 | 🌐 Go | 📅 2026-09-19** - Searches your own past sessions across 20 coding agents
+* **[thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) ⭐ 94,310 | 🐛 231 | 🌐 TypeScript | 📅 2026-09-20** - Compresses and persists agent memory across sessions
+* **[Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) ⭐ 83,632 | 🐛 154 | 🌐 Python | 📅 2026-09-15** - Multi-platform search CLI for 17 sites including Chinese platforms
+* **[muratcankoylan/context-fundamentals](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/tree/main/skills/context-fundamentals) ⭐ 18,010 | 🐛 53 | 🌐 Python | 📅 2026-09-11** - Understand what context is, why it matters, and the anatomy of context in agent systems
+* **[muratcankoylan/context-degradation](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/tree/main/skills/context-degradation) ⭐ 18,010 | 🐛 53 | 🌐 Python | 📅 2026-09-11** - Recognize patterns of context failure: lost-in-middle, poisoning, distraction, and clash
+* **[muratcankoylan/context-compression](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/tree/main/skills/context-compression) ⭐ 18,010 | 🐛 53 | 🌐 Python | 📅 2026-09-11** - Design and evaluate compression strategies for long-running sessions
+* **[muratcankoylan/context-optimization](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/tree/main/skills/context-optimization) ⭐ 18,010 | 🐛 53 | 🌐 Python | 📅 2026-09-11** - Apply compaction, masking, and caching strategies
+* **[muratcankoylan/multi-agent-patterns](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/tree/main/skills/multi-agent-patterns) ⭐ 18,010 | 🐛 53 | 🌐 Python | 📅 2026-09-11** - Master orchestrator, peer-to-peer, and hierarchical multi-agent architectures
+* **[muratcankoylan/memory-systems](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/tree/main/skills/memory-systems) ⭐ 18,010 | 🐛 53 | 🌐 Python | 📅 2026-09-11** - Design short-term, long-term, and graph-based memory architectures
+* **[muratcankoylan/tool-design](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/tree/main/skills/tool-design) ⭐ 18,010 | 🐛 53 | 🌐 Python | 📅 2026-09-11** - Build tools that agents can use effectively, including architectural reduction patterns
+* **[muratcankoylan/evaluation](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/tree/main/skills/evaluation) ⭐ 18,010 | 🐛 53 | 🌐 Python | 📅 2026-09-11** - Build evaluation frameworks for agent systems
+* **[rebelytics/task-observer](https://github.com/rebelytics/one-skill-to-rule-them-all) ⭐ 2,773 | 🐛 41 | 🌐 Python | 📅 2026-09-20** - Meta-skill for continuous skill improvement & automatic skill creation.
+* **[NeoLabHQ/prompt-engineering](https://github.com/NeoLabHQ/context-engineering-kit/tree/master/plugins/customaize-agent/skills/prompt-engineering) ⭐ 1,715 | 🐛 9 | 🌐 TypeScript | 📅 2026-08-26** - Widely used prompt engineering techniques and patterns, including Anthropic best practices and agent persuasion principles.
+* **[vshulcz/deja-history](https://github.com/vshulcz/deja-vu/tree/main/claude-plugin/skills/deja-history) ⭐ 877 | 🐛 39 | 🌐 Go | 📅 2026-09-20** - Searches your own past sessions across 20 coding agents
 * **[ohad6k/emulo](https://github.com/ohad6k/emulo) ⭐ 291 | 🐛 22 | 🌐 Python | 📅 2026-08-24** - Mines AI coding logs into personal agent profiles
-* **[oliver-zehentleitner/keep-the-why](https://github.com/oliver-zehentleitner/keep-the-why) ⭐ 158 | 🐛 1 | 🌐 Python | 📅 2026-09-18** - Preserves the reasoning behind a codebase — decisions, workarounds, rejected alternatives
+* **[oliver-zehentleitner/keep-the-why](https://github.com/oliver-zehentleitner/keep-the-why) ⭐ 158 | 🐛 2 | 🌐 Python | 📅 2026-09-18** - Preserves the reasoning behind a codebase — decisions, workarounds, rejected alternatives
 * **[zilliztech/mfs](https://github.com/zilliztech/mfs) ⭐ 143 | 🐛 3 | 🌐 Python | 📅 2026-07-31** - `mfs-find` / `mfs-ingest` skills that search, grep and read across your code, docs, chat (Slack/Gmail/Jira), databases and object stores as one file-like, searchable namespace; self-hosted with local ONNX embeddings
 * **[khendzel/skills-janitor](https://github.com/khendzel/skills-janitor) ⭐ 119 | 🐛 2 | 🌐 Shell | 📅 2026-08-11** - Token audit, usage tracking, and swipe-to-delete skill pruning.
-* **[orziz/odai](https://github.com/orziz/odai/tree/main/skills/odai) ⭐ 115 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18** - Govern evidence, responsibility routing, safety boundaries, and verified delivery
+* **[orziz/odai](https://github.com/orziz/odai/tree/main/skills/odai) ⭐ 115 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-20** - Govern evidence, responsibility routing, safety boundaries, and verified delivery
 * **[Tubo2333/obsidian-knowledge-brain](https://github.com/Tubo2333/obsidian-knowledge-brain) ⭐ 97 | 🐛 1 | 🌐 Python | 📅 2026-07-02** - Cross-session knowledge memory and rule evolution for AI coding agents
 * **[sametbrr/llm-wiki-manager](https://github.com/sametbrr/llm-wiki-manager) ⭐ 71 | 🐛 0 | 🌐 Python | 📅 2026-06-11** - Persistent LLM-managed personal wiki — the model writes, cross-references, and maintains the knowledge base while you curate sources. Implements Karpathy's LLM Wiki pattern with 8 operating modes.
 * **[k-kolomeitsev/data-structure-protocol](https://github.com/k-kolomeitsev/data-structure-protocol) ⭐ 67 | 🐛 0 | 🌐 Python | 📅 2026-08-10** - Graph-based long-term memory skill for AI (LLM) coding agents — faster context, fewer tokens, safer refactors
 * **[thousandflowers/skillreaper](https://github.com/thousandflowers/skillreaper) ⭐ 57 | 🐛 10 | 🌐 Go | 📅 2026-08-30** - Prunes unused skills, MCP servers, and subagents from transcript evidence
 * **[stjbrown/agent-knowledge](https://github.com/stjbrown/agent-knowledge) ⭐ 39 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-01** - Maintains portable, cited agent knowledge bases in plain Markdown
-* **[awrshift/claude-memory-kit](https://github.com/awrshift/claude-memory-kit) ⭐ 34 | 🐛 0 | 🌐 Python | 📅 2026-09-02** - Persistent memory with hooks, wiki, and daily synthesis for multi-project workflows
-* **[chrono-meta/context-doctor](https://github.com/chrono-meta/forge-harness/tree/main/plugins/fh-meta/skills/context-doctor) ⭐ 14 | 🐛 4 | 🌐 Shell | 📅 2026-09-19** - Generates .claudeignore and flags context bloat before it costs tokens
-* **[amirkiarafiei/subagent-cli-skills](https://github.com/amirkiarafiei/subagent-cli-skills/tree/main/skills) ⭐ 5 | 🐛 0 | 🌐 Shell | 📅 2026-09-15** - Delegate heavy work to 15 other agent CLIs as subagents
+* **[awrshift/claude-memory-kit](https://github.com/awrshift/claude-memory-kit) ⭐ 34 | 🐛 0 | 🌐 Python | 📅 2026-09-20** - Persistent memory with hooks, wiki, and daily synthesis for multi-project workflows
+* **[chrono-meta/context-doctor](https://github.com/chrono-meta/forge-harness/tree/main/plugins/fh-meta/skills/context-doctor) ⭐ 14 | 🐛 3 | 🌐 Shell | 📅 2026-09-20** - Generates .claudeignore and flags context bloat before it costs tokens
+* **[amirkiarafiei/subagent-cli-skills](https://github.com/amirkiarafiei/subagent-cli-skills/tree/main/skills) ⭐ 8 | 🐛 0 | 🌐 Shell | 📅 2026-09-19** - Delegate heavy work to 15 other agent CLIs as subagents
 * **[dankofly/perfectify](https://github.com/dankofly/perfectify) ⭐ 4 | 🐛 1 | 🌐 Python | 📅 2026-08-25** - Self-improving control kernel (DAGx AGI Kernel): hard approval stops for irreversible actions, evidence-gated completion, and a self-learning playbook with drift governance. Behaviorally evaluated; works across Claude Code, Codex, Hermes, and OpenCode
 
 </details>
@@ -1800,47 +1800,47 @@ Official skills published by Cypress to help create, maintain, understand, and f
 <details>
 <summary><h3 style="display:inline">Specialized Domains</h3></summary>
 
-* **[K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) ⭐ 45,568 | 🐛 13 | 🌐 Python | 📅 2026-09-14** - Scientific research and analysis skills
-* **[wanshuiyin/Auto-claude-code-research-in-sleep](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) ⭐ 16,348 | 🐛 70 | 🌐 Python | 📅 2026-09-18** - Autonomous ML research with cross-model review loops and GPU deployment
-* **[Orchestra-Research/AI-Research-SKILLs](https://github.com/Orchestra-Research/AI-Research-SKILLs) ⭐ 12,849 | 🐛 21 | 🌐 TeX | 📅 2026-06-16** - AI research skills for model training, inference, and MLOps
-* **[Tencent/aig-agent-redteam](https://github.com/Tencent/AI-Infra-Guard/tree/main/skills/aig-agent-redteam) ⭐ 6,457 | 🐛 33 | 🌐 Python | 📅 2026-09-18** - One-command Agent red-team security assessment skill
-* **[HUANGCHIHHUNGLeo/claude-real-video](https://github.com/HUANGCHIHHUNGLeo/claude-real-video) ⭐ 2,160 | 🐛 0 | 🌐 Python | 📅 2026-09-19** - Scene-aware keyframes plus transcripts so any LLM watches videos
-* **[BehiSecc/vibesec](https://github.com/BehiSecc/VibeSec-Skill) ⭐ 1,281 | 🐛 1 | 📅 2026-02-17** - Helps write secure code by preventing common vulnerabilities including IDOR, XSS, SQL injection, SSRF, and weak authentication, approaching code from a bug hunter's perspective
-* **[aklofas/kicad-happy](https://github.com/aklofas/kicad-happy) ⭐ 1,257 | 🐛 2 | 🌐 Python | 📅 2026-09-13** - AI-powered KiCad electronics design review and analysis
-* **[prompt-security/clawsec](https://github.com/prompt-security/clawsec) ⭐ 1,107 | 🐛 27 | 🌐 JavaScript | 📅 2026-09-19** - Security skill suite with drift detection, automated audits, and skill integrity verification
-* **[komal-SkyNET/claude-skill-homeassistant](https://github.com/komal-SkyNET/claude-skill-homeassistant) ⭐ 961 | 🐛 1 | 📅 2026-07-04** - Supercharge and manage Home Assistant workflows
-* **[huifer/WellAlly-health](https://github.com/huifer/WellAlly-health) ⭐ 952 | 🐛 8 | 🌐 Shell | 📅 2026-07-16** - A health assistant skill for medical information analysis, symptom tracking, and wellness guidance.
+* **[K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) ⭐ 45,710 | 🐛 14 | 🌐 Python | 📅 2026-09-14** - Scientific research and analysis skills
+* **[wanshuiyin/Auto-claude-code-research-in-sleep](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) ⭐ 16,393 | 🐛 70 | 🌐 Python | 📅 2026-09-18** - Autonomous ML research with cross-model review loops and GPU deployment
+* **[Orchestra-Research/AI-Research-SKILLs](https://github.com/Orchestra-Research/AI-Research-SKILLs) ⭐ 12,875 | 🐛 21 | 🌐 TeX | 📅 2026-06-16** - AI research skills for model training, inference, and MLOps
+* **[Tencent/aig-agent-redteam](https://github.com/Tencent/AI-Infra-Guard/tree/main/skills/aig-agent-redteam) ⭐ 6,472 | 🐛 33 | 🌐 Python | 📅 2026-09-20** - One-command Agent red-team security assessment skill
+* **[HUANGCHIHHUNGLeo/claude-real-video](https://github.com/HUANGCHIHHUNGLeo/claude-real-video) ⭐ 2,163 | 🐛 0 | 🌐 Python | 📅 2026-09-19** - Scene-aware keyframes plus transcripts so any LLM watches videos
+* **[BehiSecc/vibesec](https://github.com/BehiSecc/VibeSec-Skill) ⭐ 1,284 | 🐛 1 | 📅 2026-02-17** - Helps write secure code by preventing common vulnerabilities including IDOR, XSS, SQL injection, SSRF, and weak authentication, approaching code from a bug hunter's perspective
+* **[aklofas/kicad-happy](https://github.com/aklofas/kicad-happy) ⭐ 1,264 | 🐛 2 | 🌐 Python | 📅 2026-09-13** - AI-powered KiCad electronics design review and analysis
+* **[prompt-security/clawsec](https://github.com/prompt-security/clawsec) ⭐ 1,107 | 🐛 27 | 🌐 JavaScript | 📅 2026-09-20** - Security skill suite with drift detection, automated audits, and skill integrity verification
+* **[komal-SkyNET/claude-skill-homeassistant](https://github.com/komal-SkyNET/claude-skill-homeassistant) ⭐ 960 | 🐛 1 | 📅 2026-07-04** - Supercharge and manage Home Assistant workflows
+* **[huifer/WellAlly-health](https://github.com/huifer/WellAlly-health) ⭐ 953 | 🐛 8 | 🌐 Shell | 📅 2026-07-16** - A health assistant skill for medical information analysis, symptom tracking, and wellness guidance.
 * **[Optim-Agent/optim-agent](https://github.com/Optim-Agent/optim-agent) ⭐ 938 | 🐛 1 | 🌐 Python | 📅 2026-08-14** - Agent-guided optimization for measurable system tuning.
-* **[ZeroPointRepo/youtube-skills](https://github.com/ZeroPointRepo/youtube-skills) ⭐ 884 | 🐛 4 | 📅 2026-09-15** - Agent skills for YouTube: pull video transcripts and discover videos (search, channel and playlist listings) via TranscriptAPI.
-* **[MartinDelophy/edit-timeline-studio](https://github.com/MartinDelophy/ai-video-editor/tree/main/skills/edit-timeline-studio) ⭐ 839 | 🐛 7 | 🌐 JavaScript | 📅 2026-09-17** - Create editable video timelines with captions, voiceovers, and verified exports.
-* **[GarethManning/regenerative-project-design-orchestrator](https://github.com/GarethManning/education-agent-skills/tree/main/skills/original-frameworks/regenerative-project-design-orchestrator) ⭐ 783 | 🐛 3 | 🌐 TypeScript | 📅 2026-08-28** - Orchestrates proportionate regenerative learning projects with safeguards and stewardship
-* **[GarethManning/learning-target-authoring-guide](https://github.com/GarethManning/education-agent-skills/tree/main/skills/original-frameworks/learning-target-authoring-guide) ⭐ 783 | 🐛 3 | 🌐 TypeScript | 📅 2026-08-28** - Authors observable competency learning targets across developmental bands
-* **[GarethManning/assessment-validity-checker](https://github.com/GarethManning/education-agent-skills/tree/main/skills/curriculum-assessment/assessment-validity-checker) ⭐ 783 | 🐛 3 | 🌐 TypeScript | 📅 2026-08-28** - Audits assessments for validity, reliability, and learning alignment
-* **[GarethManning/progressive-hint-ladder](https://github.com/GarethManning/education-agent-skills/tree/main/skills/student-learning/progressive-hint-ladder) ⭐ 783 | 🐛 3 | 🌐 TypeScript | 📅 2026-08-28** - Provides graduated hints while preserving learner thinking and agency
-* **[GarethManning/competency-unpacker](https://github.com/GarethManning/education-agent-skills/tree/main/skills/curriculum-assessment/competency-unpacker) ⭐ 783 | 🐛 3 | 🌐 TypeScript | 📅 2026-08-28** - Unpacks broad competencies into assessable sub-skills and success criteria
-* **[lawve-ai/awesome-legal-skills](https://github.com/lawve-ai/awesome-legal-skills) ⭐ 693 | 🐛 7 | 🌐 Python | 📅 2026-09-04** - Curated agent skills for automating legal workflows
-* **[meodai/skill.color-expert](https://github.com/meodai/skill.color-expert) ⭐ 579 | 🐛 0 | 📅 2026-09-18** - Color science expert skill with 286K words of reference material covering OKLCH/OKLAB, palette generation, accessibility/contrast, color naming, pigment mixing, and historical color theory
-* **[bitwize-music-studio/claude-ai-music-skills](https://github.com/bitwize-music-studio/claude-ai-music-skills) ⭐ 497 | 🐛 5 | 🌐 Python | 📅 2026-09-16** - Full-lifecycle AI music album production
+* **[ZeroPointRepo/youtube-skills](https://github.com/ZeroPointRepo/youtube-skills) ⭐ 890 | 🐛 4 | 📅 2026-09-20** - Agent skills for YouTube: pull video transcripts and discover videos (search, channel and playlist listings) via TranscriptAPI.
+* **[MartinDelophy/edit-timeline-studio](https://github.com/MartinDelophy/ai-video-editor/tree/main/skills/edit-timeline-studio) ⭐ 844 | 🐛 7 | 🌐 JavaScript | 📅 2026-09-20** - Create editable video timelines with captions, voiceovers, and verified exports.
+* **[GarethManning/regenerative-project-design-orchestrator](https://github.com/GarethManning/education-agent-skills/tree/main/skills/original-frameworks/regenerative-project-design-orchestrator) ⭐ 786 | 🐛 3 | 🌐 TypeScript | 📅 2026-08-28** - Orchestrates proportionate regenerative learning projects with safeguards and stewardship
+* **[GarethManning/learning-target-authoring-guide](https://github.com/GarethManning/education-agent-skills/tree/main/skills/original-frameworks/learning-target-authoring-guide) ⭐ 786 | 🐛 3 | 🌐 TypeScript | 📅 2026-08-28** - Authors observable competency learning targets across developmental bands
+* **[GarethManning/assessment-validity-checker](https://github.com/GarethManning/education-agent-skills/tree/main/skills/curriculum-assessment/assessment-validity-checker) ⭐ 786 | 🐛 3 | 🌐 TypeScript | 📅 2026-08-28** - Audits assessments for validity, reliability, and learning alignment
+* **[GarethManning/progressive-hint-ladder](https://github.com/GarethManning/education-agent-skills/tree/main/skills/student-learning/progressive-hint-ladder) ⭐ 786 | 🐛 3 | 🌐 TypeScript | 📅 2026-08-28** - Provides graduated hints while preserving learner thinking and agency
+* **[GarethManning/competency-unpacker](https://github.com/GarethManning/education-agent-skills/tree/main/skills/curriculum-assessment/competency-unpacker) ⭐ 786 | 🐛 3 | 🌐 TypeScript | 📅 2026-08-28** - Unpacks broad competencies into assessable sub-skills and success criteria
+* **[lawve-ai/awesome-legal-skills](https://github.com/lawve-ai/awesome-legal-skills) ⭐ 696 | 🐛 7 | 🌐 Python | 📅 2026-09-04** - Curated agent skills for automating legal workflows
+* **[meodai/skill.color-expert](https://github.com/meodai/skill.color-expert) ⭐ 583 | 🐛 0 | 📅 2026-09-18** - Color science expert skill with 286K words of reference material covering OKLCH/OKLAB, palette generation, accessibility/contrast, color naming, pigment mixing, and historical color theory
+* **[bitwize-music-studio/claude-ai-music-skills](https://github.com/bitwize-music-studio/claude-ai-music-skills) ⭐ 500 | 🐛 5 | 🌐 Python | 📅 2026-09-16** - Full-lifecycle AI music album production
 * **[Orkas-AI/video-router](https://github.com/Orkas-AI/Orkas-VideoStudio/tree/main/packages/skills/video-router) ⭐ 487 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-10** - Route video requests through deterministic agent production stages
 * **[sanjay3290/imagen](https://github.com/sanjay3290/ai-skills/tree/main/skills/imagen) ⭐ 424 | 🐛 4 | 🌐 Python | 📅 2026-09-10** - Generate images using Google Gemini's API
-* **[morluto/rea](https://github.com/morluto/rea/tree/main/skills/reverse-engineer-anything) ⭐ 412 | 🐛 41 | 🌐 TypeScript | 📅 2026-09-08** - Reverse-engineer binaries, applications, and runtimes with REA
+* **[morluto/rea](https://github.com/morluto/rea/tree/main/skills/reverse-engineer-anything) ⭐ 413 | 🐛 41 | 🌐 TypeScript | 📅 2026-09-08** - Reverse-engineer binaries, applications, and runtimes with REA
 * **[shouldnotappearcalm/a-share-skill](https://github.com/shouldnotappearcalm/a-share-skill) ⭐ 241 | 🐛 0 | 🌐 Python | 📅 2026-06-24** - China A-share (Shanghai/Shenzhen) skills: real-time quotes, K-line history, technical indicators, events, capital flows, sector heatmaps, and paper trading. Works with Claude Code, Cursor, Codex, and Qoder
-* **[talkstream/ru-text](https://github.com/talkstream/ru-text) ⭐ 234 | 🐛 1 | 🌐 Shell | 📅 2026-08-28** - Russian text quality: \~1,040 rules for typography, info-style, editorial, UX writing, business correspondence. Cross-platform: Claude Code, Codex CLI, Gemini CLI, Cursor.
+* **[talkstream/ru-text](https://github.com/talkstream/ru-text) ⭐ 237 | 🐛 1 | 🌐 Shell | 📅 2026-08-28** - Russian text quality: \~1,040 rules for typography, info-style, editorial, UX writing, business correspondence. Cross-platform: Claude Code, Codex CLI, Gemini CLI, Cursor.
 * **[Alisa0808/vibe-creating-skill](https://github.com/Alisa0808/vibe-creating-skill) ⭐ 144 | 🐛 0 | 🌐 JavaScript | 📅 2026-06-17** - Rewrites a rough idea or shot script into text-to-video prompts
 * **[raintree-technology/hig-doctor](https://github.com/raintree-technology/hig-doctor) ⭐ 129 | 🐛 3 | 🌐 TypeScript | 📅 2026-09-11** - Apple Human Interface Guidelines as 14 agent skills covering platforms, foundations, components, patterns, inputs, and technologies for iOS, macOS, visionOS, watchOS, and tvOS
 * **[video-db/skills](https://github.com/video-db/skills) ⭐ 120 | 🐛 1 | 🌐 Python | 📅 2026-09-11** - Realtime and batch video workflows: capture screen/audio, ingest URLs/YouTube/RTSP, transcribe, index, search, generate subtitles, edit timelines, and stream HLS output
-* **[vmware-skills/VMware-AIops](https://github.com/vmware-skills/VMware-AIops) ⭐ 73 | 🐛 2 | 🌐 Python | 📅 2026-09-19** - AI-powered VMware vCenter/ESXi monitoring and operations: inventory queries, health/alarms, VM lifecycle (create, delete, snapshot, clone, migrate), vSAN management, Aria Operations analytics, and scheduled log scanning. Supports Claude Code, Gemini CLI, Codex, Aider, Trae, Kimi, and MCP.
+* **[vmware-skills/VMware-AIops](https://github.com/vmware-skills/VMware-AIops) ⭐ 74 | 🐛 2 | 🌐 Python | 📅 2026-09-19** - AI-powered VMware vCenter/ESXi monitoring and operations: inventory queries, health/alarms, VM lifecycle (create, delete, snapshot, clone, migrate), vSAN management, Aria Operations analytics, and scheduled log scanning. Supports Claude Code, Gemini CLI, Codex, Aider, Trae, Kimi, and MCP.
 * **[materials-simulation-skills](https://github.com/HeshamFS/materials-simulation-skills) ⭐ 68 | 🐛 0 | 🌐 Python | 📅 2026-06-25** - Agent skills for computational materials science: numerical stability, time-stepping, linear solvers, mesh generation, simulation validation, parameter optimization, and post-processing
-* **[Ericyoung-183/alpha-insights](https://github.com/Ericyoung-183/alpha-insights) ⭐ 62 | 🐛 1 | 🌐 Python | 📅 2026-06-29** - Harness-enforced business research for Claude Code and Codex
+* **[Ericyoung-183/alpha-insights](https://github.com/Ericyoung-183/alpha-insights) ⭐ 63 | 🐛 1 | 🌐 Python | 📅 2026-06-29** - Harness-enforced business research for Claude Code and Codex
 * **[takechanman1228/claude-ecom](https://github.com/takechanman1228/claude-ecom) ⭐ 49 | 🐛 0 | 🌐 Python | 📅 2026-06-11** - Ecommerce CSV to business review with KPI decomposition
 * **[more-io/apple-bridges](https://github.com/more-io/claude-apple-bridges) ⭐ 46 | 🐛 0 | 🌐 Swift | 📅 2026-09-05** - Native macOS app access — manage Apple Reminders, Calendar, Contacts, Notes, Mail, and tmux sessions via Swift CLI bridges
 * **[honeydew-ai/honeydew-ai-coding-agents-plugins](https://github.com/honeydew-ai/honeydew-ai-coding-agents-plugins) ⭐ 41 | 🐛 2 | 🌐 Shell | 📅 2026-08-30** - 11 skills for the Honeydew semantic layer over Snowflake, Databricks, and BigQuery: model exploration, entity/relation/attribute/metric/context/domain creation, validation, query, filtering, and workspace branching
 * **[perso-ai/perso-dubbing](https://github.com/perso-ai/perso-dubbing-plugin) ⭐ 38 | 🐛 1 | 🌐 JavaScript | 📅 2026-08-14** - Video translator: dubbing, lip-sync, subtitles, and short clips
 * **[frmoretto/clarity-gate](https://github.com/frmoretto/clarity-gate) ⭐ 33 | 🐛 0 | 🌐 Python | 📅 2026-03-02** - Epistemic quality verification for RAG systems
 * **[NotMyself/claude-win11-speckit-update-skill](https://github.com/NotMyself/claude-win11-speckit-update-skill) ⚠️ Archived** - Windows 11 system management
-* **[helius-labs/helius-skills](https://github.com/helius-labs/core-ai/tree/main/helius-skills) ⭐ 27 | 🐛 5 | 🌐 TypeScript | 📅 2026-09-18** - Ship Solana apps end-to-end; transaction sending, asset queries, real-time streaming, token swaps, prediction markets, browser wallets, and deep research into protocol internals all powered by Helius APIs, DFlow trading, and Phantom wallet integrations
-* **[ilyautov/small-business-ru](https://github.com/ilyautov/small-business-ru/tree/main/small-business-ru/skills) ⭐ 18 | 🐛 0 | 🌐 Python | 📅 2026-09-14** - 34 skills for Russian small business: taxes, deadlines, counterparty checks
-* **[swaylq/humanize-chinese](https://github.com/swaylq/humanize-chinese) ⭐ 17 | 🐛 2 | 🌐 Python | 📅 2026-08-29** - Detect and rewrite AI-generated Chinese text, fully offline, no LLM
+* **[helius-labs/helius-skills](https://github.com/helius-labs/core-ai/tree/main/helius-skills) ⭐ 27 | 🐛 6 | 🌐 TypeScript | 📅 2026-09-18** - Ship Solana apps end-to-end; transaction sending, asset queries, real-time streaming, token swaps, prediction markets, browser wallets, and deep research into protocol internals all powered by Helius APIs, DFlow trading, and Phantom wallet integrations
+* **[swaylq/humanize-chinese](https://github.com/swaylq/humanize-chinese) ⭐ 18 | 🐛 2 | 🌐 Python | 📅 2026-08-29** - Detect and rewrite AI-generated Chinese text, fully offline, no LLM
+* **[ilyautov/small-business-ru](https://github.com/ilyautov/small-business-ru/tree/main/small-business-ru/skills) ⭐ 18 | 🐛 0 | 🌐 Python | 📅 2026-09-19** - 34 skills for Russian small business: taxes, deadlines, counterparty checks
 * **[hanhuark/mechanical-engineering-research-skill](https://github.com/hanhuark/mechanical-engineering-research-skill) ⭐ 16 | 🐛 0 | 🌐 Python | 📅 2026-09-11** - Thermal-fluid research writing, proposals, DOE, and presentation feedback
 * **[SHADOWPR0/security-bluebook-builder](https://github.com/SHADOWPR0/security-bluebook-builder) ⭐ 7 | 🐛 0 | 📅 2025-12-24** - Build security Blue Books for sensitive apps
 * **[zincio/universal-checkout](https://github.com/zincio/skills/tree/master/skills/universal-checkout) ⭐ 7 | 🐛 2 | 🌐 Python | 📅 2026-09-16** - Official Zinc API (zinc.com) checkout across 50+ US retailers
@@ -1853,13 +1853,13 @@ Official skills published by Cypress to help create, maintain, understand, and f
 <details>
 <summary><h3 style="display:inline">n8n Automation</h3></summary>
 
-* **[czlonkowski/n8n-code-javascript](https://github.com/czlonkowski/n8n-skills/tree/main/skills/n8n-code-javascript) ⭐ 6,272 | 🐛 10 | 🌐 Shell | 📅 2026-09-16** - JavaScript in n8n Code nodes with data access patterns
-* **[czlonkowski/n8n-code-python](https://github.com/czlonkowski/n8n-skills/tree/main/skills/n8n-code-python) ⭐ 6,272 | 🐛 10 | 🌐 Shell | 📅 2026-09-16** - Python coding in n8n Code nodes with limitations
-* **[czlonkowski/n8n-expression-syntax](https://github.com/czlonkowski/n8n-skills/tree/main/skills/n8n-expression-syntax) ⭐ 6,272 | 🐛 10 | 🌐 Shell | 📅 2026-09-16** - n8n expression syntax with {{}} and $json/$node variables
-* **[czlonkowski/n8n-mcp-tools-expert](https://github.com/czlonkowski/n8n-skills/tree/main/skills/n8n-mcp-tools-expert) ⭐ 6,272 | 🐛 10 | 🌐 Shell | 📅 2026-09-16** - MCP tools guide with tool selection and node formats
-* **[czlonkowski/n8n-node-configuration](https://github.com/czlonkowski/n8n-skills/tree/main/skills/n8n-node-configuration) ⭐ 6,272 | 🐛 10 | 🌐 Shell | 📅 2026-09-16** - Node configuration with dependency rules and AI connections
-* **[czlonkowski/n8n-validation-expert](https://github.com/czlonkowski/n8n-skills/tree/main/skills/n8n-validation-expert) ⭐ 6,272 | 🐛 10 | 🌐 Shell | 📅 2026-09-16** - Fix n8n validation errors with error catalog
-* **[czlonkowski/n8n-workflow-patterns](https://github.com/czlonkowski/n8n-skills/tree/main/skills/n8n-workflow-patterns) ⭐ 6,272 | 🐛 10 | 🌐 Shell | 📅 2026-09-16** - Workflow patterns for webhook, HTTP, database, and AI tasks
+* **[czlonkowski/n8n-code-javascript](https://github.com/czlonkowski/n8n-skills/tree/main/skills/n8n-code-javascript) ⭐ 6,279 | 🐛 10 | 🌐 Shell | 📅 2026-09-16** - JavaScript in n8n Code nodes with data access patterns
+* **[czlonkowski/n8n-code-python](https://github.com/czlonkowski/n8n-skills/tree/main/skills/n8n-code-python) ⭐ 6,279 | 🐛 10 | 🌐 Shell | 📅 2026-09-16** - Python coding in n8n Code nodes with limitations
+* **[czlonkowski/n8n-expression-syntax](https://github.com/czlonkowski/n8n-skills/tree/main/skills/n8n-expression-syntax) ⭐ 6,279 | 🐛 10 | 🌐 Shell | 📅 2026-09-16** - n8n expression syntax with {{}} and $json/$node variables
+* **[czlonkowski/n8n-mcp-tools-expert](https://github.com/czlonkowski/n8n-skills/tree/main/skills/n8n-mcp-tools-expert) ⭐ 6,279 | 🐛 10 | 🌐 Shell | 📅 2026-09-16** - MCP tools guide with tool selection and node formats
+* **[czlonkowski/n8n-node-configuration](https://github.com/czlonkowski/n8n-skills/tree/main/skills/n8n-node-configuration) ⭐ 6,279 | 🐛 10 | 🌐 Shell | 📅 2026-09-16** - Node configuration with dependency rules and AI connections
+* **[czlonkowski/n8n-validation-expert](https://github.com/czlonkowski/n8n-skills/tree/main/skills/n8n-validation-expert) ⭐ 6,279 | 🐛 10 | 🌐 Shell | 📅 2026-09-16** - Fix n8n validation errors with error catalog
+* **[czlonkowski/n8n-workflow-patterns](https://github.com/czlonkowski/n8n-skills/tree/main/skills/n8n-workflow-patterns) ⭐ 6,279 | 🐛 10 | 🌐 Shell | 📅 2026-09-16** - Workflow patterns for webhook, HTTP, database, and AI tasks
 
 </details>
 
@@ -1871,7 +1871,7 @@ Before installing or using any Agent Skill, review potential security risks and 
 
 Recommended tools:
 
-* [Synk Skill Security Scanner](https://github.com/snyk/agent-scan) ⭐ 3,066 | 🐛 13 | 🌐 Python | 📅 2026-09-19
+* [Synk Skill Security Scanner](https://github.com/snyk/agent-scan) ⭐ 3,074 | 🐛 13 | 🌐 Python | 📅 2026-09-19
 * [Agent Trust Hub](https://ai.gendigital.com/agent-trust-hub)
 
 Agent skills can include prompt injections, tool poisoning, hidden malware payloads, or unsafe data handling patterns. Always review the code and use skills at your own discretion.
@@ -1921,7 +1921,7 @@ MIT License - see [LICENSE](LICENSE)
 
 This is a curated list. Skills listed here are created and maintained by their respective authors and teams, not by us. We select community-adopted, proven skills and do not audit, endorse, or guarantee the security or correctness of listed projects. They are not security-audited and should be reviewed before production use.
 
-If you find an issue with a listed skill or want your skill removed, please [open an issue](https://github.com/VoltAgent/awesome-agent-skills/issues) ⭐ 34,586 | 🐛 26 | 📅 2026-09-15 and we'll take care of it promptly.
+If you find an issue with a listed skill or want your skill removed, please [open an issue](https://github.com/VoltAgent/awesome-agent-skills/issues) ⭐ 34,629 | 🐛 29 | 📅 2026-09-15 and we'll take care of it promptly.
 
 [codex-badge]: https://img.shields.io/github/stars/VoltAgent/awesome-codex-subagents?style=classic&label=Codex%20Subagents&color=000000&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMi4yODIgOS44MjFhNS45ODUgNS45ODUgMCAwIDAtLjUxNi00LjkxIDYuMDQ2IDYuMDQ2IDAgMCAwLTYuNTEtMi45QTYuMDY1IDYuMDY1IDAgMCAwIDQuOTgxIDQuMThhNS45ODUgNS45ODUgMCAwIDAtMy45OTggMi45IDYuMDQ2IDYuMDQ2IDAgMCAwIC43NDMgNy4wOTcgNS45OCA1Ljk4IDAgMCAwIC41MSA0LjkxMSA2LjA1MSA2LjA1MSAwIDAgMCA2LjUxNSAyLjlBNS45ODUgNS45ODUgMCAwIDAgMTMuMjYgMjRhNi4wNTYgNi4wNTYgMCAwIDAgNS43NzItNC4yMDYgNS45OSA1Ljk5IDAgMCAwIDMuOTk3LTIuOSA2LjA1NiA2LjA1NiAwIDAgMC0uNzQ3LTcuMDczek0xMy4yNiAyMi40M2E0LjQ3NiA0LjQ3NiAwIDAgMS0yLjg3Ni0xLjA0bC4xNDEtLjA4MSA0Ljc3OS0yLjc1OGEuNzk1Ljc5NSAwIDAgMCAuMzkyLS42ODF2LTYuNzM3bDIuMDIgMS4xNjhhLjA3MS4wNzEgMCAwIDEgLjAzOC4wNTJ2NS41ODNhNC41MDQgNC41MDQgMCAwIDEtNC40OTQgNC40OTR6TTMuNiAxOC4zMDRhNC40NyA0LjQ3IDAgMCAxLS41MzUtMy4wMTRsLjE0Mi4wODUgNC43ODMgMi43NTlhLjc3MS43NzEgMCAwIDAgLjc4IDBsNS44NDMtMy4zNjl2Mi4zMzJhLjA4LjA4IDAgMCAxLS4wMzMuMDYyTDkuNzQgMTkuOTVhNC41IDQuNSAwIDAgMS02LjE0LTEuNjQ2ek0yLjM0IDcuODk2YTQuNDg1IDQuNDg1IDAgMCAxIDIuMzY2LTEuOTczVjExLjZhLjc2Ni43NjYgMCAwIDAgLjM4OC42NzZsNS44MTUgMy4zNTUtMi4wMiAxLjE2OGEuMDc2LjA3NiAwIDAgMS0uMDcxIDBsLTQuODMtMi43ODZBNC41MDQgNC41MDQgMCAwIDEgMi4zNCA3Ljg3MnptMTYuNTk3IDMuODU1bC01LjgzMy0zLjM4N0wxNS4xMTkgNy4yYS4wNzYuMDc2IDAgMCAxIC4wNzEgMGw0LjgzIDIuNzkxYTQuNDk0IDQuNDk0IDAgMCAxLS42NzYgOC4xMDV2LTUuNjc4YS43OS43OSAwIDAgMC0uNDA3LS42Njd6bTIuMDEtMy4wMjNsLS4xNDEtLjA4NS00Ljc3NC0yLjc4MmEuNzc2Ljc3NiAwIDAgMC0uNzg1IDBMOS40MDkgOS4yM1Y2Ljg5N2EuMDY2LjA2NiAwIDAgMSAuMDI4LS4wNjFsNC44My0yLjc4N2E0LjUgNC41IDAgMCAxIDYuNjggNC42NnptLTEyLjY0IDQuMTM1bC0yLjAyLTEuMTY0YS4wOC4wOCAwIDAgMS0uMDM4LS4wNTdWNi4wNzVhNC41IDQuNSAwIDAgMSA3LjM3NS0zLjQ1M2wtLjE0Mi4wOEw4LjcwNCA1LjQ2YS43OTUuNzk1IDAgMCAwLS4zOTMuNjgxem0xLjA5Ny0yLjM2NWwyLjYwMi0xLjUgMi42MDcgMS41djIuOTk5bC0yLjU5NyAxLjUtMi42MDctMS41eiIvPjwvc3ZnPg==
 
@@ -1929,4 +1929,4 @@ If you find an issue with a listed skill or want your skill removed, please [ope
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
